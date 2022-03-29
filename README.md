@@ -1,1 +1,1 @@
-This is a repository for my master graduate theis.
+This is a repository for my master degree theis.
