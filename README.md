@@ -52,7 +52,8 @@ In this paper, we present a gating strategy that assigns more importance to the 
     ```bash
     sh test.sh && sh mdd.sh
     ```
-    Our best model result are conclude in repository, you can check it directly run "sh mdd.sh", and if you have any question about it, please contact us. Thanks!
+    
+   Our best model result are conclude in repository, you can check it directly run "sh mdd.sh", and if you have any question about it, please contact us. Thanks!
     
 ## Citing BoxeR
 If you find this work useful in your research, please consider citing:
