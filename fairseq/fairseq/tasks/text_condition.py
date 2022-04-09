@@ -124,7 +124,6 @@ class TextConditionDataset(BaseWrapperDataset):
                 
         collated["text"] = text
         collated["text_mask"] = padding_mask
-
         if self.add_to_input: # add blank at the start
             eos = target.new_full((target.size(0), 1), self.blank)
             collated["target"] = torch.cat([target, eos], dim=-1).long()

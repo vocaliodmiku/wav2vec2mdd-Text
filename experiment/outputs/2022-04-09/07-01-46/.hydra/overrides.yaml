@@ -1,9 +1,0 @@
-- distributed_training.distributed_port=23333
-- task.labels=phn
-- task.data=/../data
-- task._name=text_condition
-- model._name=wav2vec_sigmoid
-- criterion._name=ctc_contrast
-- dataset.valid_subset=valid
-- distributed_training.distributed_world_size=1
-- model.w2v_path=/disk1/plk/wav2vec/checkpoints/xlsr_53_56k.pt

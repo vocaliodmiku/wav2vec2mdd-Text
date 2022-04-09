@@ -266,7 +266,6 @@ def load_checkpoint_to_cpu(path, arg_overrides=None, load_on_all_ranks=False):
         if load_on_all_ranks:
             torch.distributed.barrier()
         local_path = PathManager.get_local_path(path)
-
     with open(local_path, "rb") as f:
         state = torch.load(f, map_location=torch.device("cpu"))
 
@@ -354,7 +353,6 @@ def load_model_ensemble_and_task(
                 filename = filename.replace(".pt", suffix + ".pt")
             else:
                 filename = orig_filename[:-3] + f"_part{shard_idx}.pt"
-
             if not PathManager.exists(filename):
                 raise IOError("Model file not found: {}".format(filename))
             if state is None:

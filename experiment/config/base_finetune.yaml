@@ -35,7 +35,6 @@ distributed_training:
 criterion:
   _name: ctc_text
   zero_infinity: true
-  
 
 optimization:
   max_update: 1300000

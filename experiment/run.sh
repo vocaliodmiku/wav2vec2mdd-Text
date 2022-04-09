@@ -1,6 +1,6 @@
 #!/disk2/plk/python/bin/
 export CUDA_VISIBLE_DEVICES=0
-FAIRSEQ_PATH=/disk1/plk/wav2vec2mdd_text/fairseq
+FAIRSEQ_PATH=wav2vec2mdd_text/fairseq
 
 
 MODEL=$(pwd)
@@ -13,6 +13,6 @@ python3 $FAIRSEQ_PATH/fairseq_cli/hydra_train.py \
     criterion._name=ctc_contrast \
     dataset.valid_subset=valid \
     distributed_training.distributed_world_size=1 \
-    model.w2v_path=/disk1/plk/wav2vec/checkpoints/xlsr_53_56k.pt \
+    model.w2v_path=checkpoints/xlsr_53_56k.pt \
     --config-dir $MODEL/config \
     --config-name base_finetune

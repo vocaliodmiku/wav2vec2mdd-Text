@@ -74,10 +74,10 @@ TXHC%arctic_a0434 ref  ax  <eps>  hh  ae  f    ax   k  ey  s  ax  v  <eps>  t  a
 TXHC%arctic_a0434 hyp  ax    sp   hh  aa  f  <eps>  k  ey  s  ax  v    sp   t  ax  b  ae  k  ow  w  ax    s    sp  w  er  th  th  r  iy  p  aw  n  d    s    sp
 TXHC%arctic_a0434 op    C    I     C   S  C    D    C   C  C   C  C    I    C   C  C   C  C   C  C   C    I     S  C   C   C   C  C   C  C   C  C  C    I     S
 TXHC%arctic_a0434 #csid 26 3 4 1
-TXHC%arctic_a0026 ref  ih  t  ax  k  er  d  t  ax  m  iy  dh  ae  t  <eps>  dh  eh  r  w  uh  d  hh  ae  v  t  ax  b  iy  ae  n  ax  k  aw  n  t  ih  ng  <eps>
-TXHC%arctic_a0026 hyp  ih  t  ax  k  er  d  t  ax  m  iy   d  ae  t    sp    d  eh  r  w  uh  d  hh  ae  v  t  ax  b  iy  ae  n  ax  k  aw  n  t  ih  ng    sp 
-TXHC%arctic_a0026 op    C  C   C  C   C  C  C   C  C   C   S   C  C    I     S   C  C  C   C  C   C   C  C  C   C  C   C   C  C   C  C   C  C  C   C   C    I  
-TXHC%arctic_a0026 #csid 33 2 2 0
+TXHC%arctic_a0026 ref  ih  t  ax  k  er  d  t    ax   m  iy  dh  ae  t  <eps>  dh  eh  r  w  uh  d  hh  ae  v  t  ax  b  iy  ae  n  ax  k  aw  n  t  ih  ng  <eps>
+TXHC%arctic_a0026 hyp  ih  t  ax  k  er  d  t  <eps>  m  iy   d  ae  t    sp    d  eh  r  w  uh  d  hh  ae  v  t  ax  b  iy  ae  n  ax  k  aw  n  t  ih  ng    sp 
+TXHC%arctic_a0026 op    C  C   C  C   C  C  C    D    C   C   S   C  C    I     S   C  C  C   C  C   C   C  C  C   C  C   C   C  C   C  C   C  C  C   C   C    I  
+TXHC%arctic_a0026 #csid 32 2 2 1
 TXHC%arctic_b0402 ref  ax  n  aa  l  t   r  uw  ih  s  t  ih  k  <eps>  ae  k  t  <eps>  ih  z  ae  n  ae  k  t  p  er  f  aa  r  m  d  f  aa    r    dh  ax  w  eh  l  f  eh  r  ax  v  ax  dh  er  <eps>  <eps>   z
 TXHC%arctic_b0402 hyp  ae  n  aa  w  t  uw   r  ih  s  t  ih  k    sp   ae  k  t    sp   ih  s  ax  n  ae  k  t  p  er  f  aa  r  m  d  f  aa  <eps>   d  ax  w  eh  w  f  eh  r  ax  l  aa  dh  er    s      sp   sp
 TXHC%arctic_b0402 op    S  C   C  S  C   S   S   C  C  C   C  C    I     C  C  C    I     C  S   S  C   C  C  C  C   C  C   C  C  C  C  C   C    D     S   C  C   C  S  C   C  C   C  S   S   C   C    I      I     S
@@ -155,9 +155,9 @@ TXHC%arctic_a0031 hyp   d  ey  w  er  th  r  iy  hh  ax  n  d  r  ax  d  y  aa  
 TXHC%arctic_a0031 op    S   C  C   C   C  C   C   C   C  C  C  C   C  C  C   C  C  C    D     C  C   C  C  C    I      I  
 TXHC%arctic_a0031 #csid 22 1 2 1
 TXHC%arctic_a0136 ref  ax  b  aw  t  hh  ih  m  eh    v    r  iy  w  eh  r  w  er  dh  ax  eh  v  ax  d  ax  n  s  ax  z  ax  v  <eps>  l  ax  g  zh  er  iy  ae  n  d  ax  v  ey  <eps>  jh
-TXHC%arctic_a0136 hyp  ax  b  aw  t  hh  eh  m  eh  <eps>  w  iy  w  iy  r  w  ax   z  ax  eh  v  ax  d  ax  n  s  ih  s  ax  v    ax   l  ax  g  zh  er  iy  ae  n  d  ax  v  ey    ch   sp
-TXHC%arctic_a0136 op    C  C   C  C   C   S  C   C    D    S   C  C   S  C  C   S   S   C   C  C   C  C   C  C  C   S  S   C  C    I    C   C  C   C   C   C   C  C  C   C  C   C    I     S
-TXHC%arctic_a0136 #csid 33 8 2 1
+TXHC%arctic_a0136 hyp  ax  b  aw  t  hh  eh  m  eh  <eps>  w  iy  w  iy  r  w  ax   z  ax  eh  v  ax  d  ax  n  s  ih  s  ax  v    ax   l  ax  g  zh  er  iy  ae  n  d  aa  v  ey    ch   sp
+TXHC%arctic_a0136 op    C  C   C  C   C   S  C   C    D    S   C  C   S  C  C   S   S   C   C  C   C  C   C  C  C   S  S   C  C    I    C   C  C   C   C   C   C  C  C   S  C   C    I     S
+TXHC%arctic_a0136 #csid 32 9 2 1
 TXHC%arctic_a0018 ref  dh  eh  r  w  ax  z  ax  ch  ey  n  jh  n  aw  <eps>
 TXHC%arctic_a0018 hyp   d  eh  r  w  ax  s  ax  ch  ey  n  jh  n  aw    sp 
 TXHC%arctic_a0018 op    S   C  C  C   C  S   C   C   C  C   C  C   C    I  
@@ -219,7 +219,7 @@ TXHC%arctic_a0036 hyp  zh  iy  t  er  n  d  ih  n    sp   ae  t    ax    d  ax  
 TXHC%arctic_a0036 op    C   C  C   C  C  C   C  C    I     C  C    I     S   C   C   S  C    I     S   S
 TXHC%arctic_a0036 #csid 13 4 3 0
 TXHC%arctic_a0099 ref  ax  m  ae  d  ax  n  ih  ng  jh  oy  p  aw   n  d  ih  d  <eps>  ih  n  hh  ih  z  b  r  ey  n  <eps>
-TXHC%arctic_a0099 hyp  ax  m  ae  d  ax  n  ih  ng  jh  oy  p  aa  ng  d  ih  d    hh   ih  n  hh  ih  s  b  r  ey  n    sp 
+TXHC%arctic_a0099 hyp  ax  m  ae  d  ax  n  ih  ng  jh  oy  p  ax  ng  d  ih  d    hh   ih  n  hh  ih  s  b  r  ey  n    sp 
 TXHC%arctic_a0099 op    C  C   C  C   C  C   C   C   C   C  C   S   S  C   C  C    I     C  C   C   C  S  C  C   C  C    I  
 TXHC%arctic_a0099 #csid 22 3 2 0
 TXHC%arctic_b0048 ref  hh  iy  l  uh  k   t  l  ay  k  <eps>  <eps>  w  ax  n  hh  uw  hh  ae  d  p  ae  s  t  th  r  uw  ae  n  <eps>  ax   n  k  ax  m  f  er  t  ax  b  ax  l  aw  r  <eps>  aa  r  t  uw  <eps>
@@ -251,9 +251,9 @@ TXHC%arctic_a0571 hyp  hh  iy  hh  ae  d  f  aa  <eps>  g  aa  t  ax  n  t  ax  
 TXHC%arctic_a0571 op    C   C   C   C  C  C   C    D    C   C  C   C  C  C   C  C   C    D    C   C  C   C   C   C  C  C    I     S   C   C  C    I  
 TXHC%arctic_a0571 #csid 27 1 2 2
 TXHC%arctic_b0251 ref  dh  ey  m  ax  s  t  hh  ae  v  <eps>  b  ih   n  s  w  eh  p  t  ax  w  ey  b  ay  dh  ax  <eps>  k  ey  aa  t  ih  k  <eps>  k  er  ax  n  t  s  <eps>
-TXHC%arctic_b0251 hyp   d  ey  m  ax  s  t  hh  ae  v    ax   b  ih  ng  s  w  eh  p  t  ax  w  ey  b  ay  dh  ax    sp   k  ey  aa  t  ih  k    ax   k  er  ax  n  t  s    sp 
-TXHC%arctic_b0251 op    S   C  C   C  C  C   C   C  C    I    C   C   S  C  C   C  C  C   C  C   C  C   C   C   C    I    C   C   C  C   C  C    I    C   C   C  C  C  C    I  
-TXHC%arctic_b0251 #csid 34 2 4 0
+TXHC%arctic_b0251 hyp   d  ey  m  ax  s  t  hh  ae  v    ax   b  ih  ng  s  w  eh  p  t  ax  w  ey  b  ay   d  ax    sp   k  ey  aa  t  ih  k    ax   k  er  ax  n  t  s    sp 
+TXHC%arctic_b0251 op    S   C  C   C  C  C   C   C  C    I    C   C   S  C  C   C  C  C   C  C   C  C   C   S   C    I    C   C   C  C   C  C    I    C   C   C  C  C  C    I  
+TXHC%arctic_b0251 #csid 33 3 4 0
 TXHC%arctic_a0076 ref  dh  ax  g  r  ey  ay  z  f  aa  l  t  er  d  <eps>  <eps>  dh  ax  f  l  ax  zh  <eps>  d  iy  p  ax  n  d  <eps>
 TXHC%arctic_a0076 hyp   d  ax  g  r  ey  ay  s  f  aa  l  t  er  d    sp     ax    d  ax  f  l  ax  zh    sp   d  iy  p  ax  n  d    sp 
 TXHC%arctic_a0076 op    S   C  C  C   C   C  S  C   C  C  C   C  C    I      I     S   C  C  C   C   C    I    C   C  C   C  C  C    I  
@@ -290,10 +290,10 @@ TXHC%arctic_a0575 ref  dh  eh  r  w    er   ax  n  t  <eps>  eh  n  iy  m  ih  z
 TXHC%arctic_a0575 hyp   d  eh  r  w  <eps>  ow  n  t    sp   eh  n  iy  m  ih  zh  ax  n    s    sp  ax  n  d  hh  iy  w  ax  <eps>   s  ax  m  ae  n  t  ax  n  ow    sp 
 TXHC%arctic_a0575 op    S   C  C  C    D     S  C  C    I     C  C   C  C   C   C   C  C    I     S   S  C  C   C   C  C   C    D     S   C  C   C  C  C   C  C   C    I  
 TXHC%arctic_a0575 #csid 27 5 3 2
-TXHC%arctic_a0060 ref  eh  n  iy  w  ey  n  ow  w  ax  n  s  aa  hh  er  l  ay  k  dh  ae  t  <eps>  <eps>
-TXHC%arctic_a0060 hyp  eh  n  iy  w  ey  n  ow  w  ax  n  s  aa  hh  er  l  ay  k   d  ae  t    sp     sp 
-TXHC%arctic_a0060 op    C  C   C  C   C  C   C  C   C  C  C   C   C   C  C   C  C   S   C  C    I      I  
-TXHC%arctic_a0060 #csid 19 1 2 0
+TXHC%arctic_a0060 ref  eh  n    iy   w  ey  n  ow  w  ax  n  s  aa  hh  er  l  ay  k  dh  ae  t  <eps>  <eps>
+TXHC%arctic_a0060 hyp  eh  n  <eps>  w  ey  n  ow  w  ax  n  s  aa  hh  er  l  ay  k   d  ae  t    sp     sp 
+TXHC%arctic_a0060 op    C  C    D    C   C  C   C  C   C  C  C   C   C   C  C   C  C   S   C  C    I      I  
+TXHC%arctic_a0060 #csid 18 1 2 1
 TXHC%arctic_a0131 ref  p  r  aa  v  ax  d  ax  n  s  hh  ae  d  d  ih  <eps>  l  ih  v  er  d  hh  ih  m  th  r  uw  dh  ax  m  ey  l  s  t  r  ax  m
 TXHC%arctic_a0131 hyp  p  r  aa  v  ax  d  ax  n  s  hh  ae  d  d  ih    v    l  ih  v  er  d  hh  eh  m  th  r  uw  dh  ax  m  ae  l  s  t  r  aa  m
 TXHC%arctic_a0131 op   C  C   C  C   C  C   C  C  C   C   C  C  C   C    I    C   C  C   C  C   C   S  C   C  C   C   C   C  C   S  C  C  C  C   S  C
@@ -378,10 +378,10 @@ TXHC%arctic_a0139 ref  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f  dh  ae  t  <
 TXHC%arctic_a0139 hyp  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f  dh  ae  t    sp   ae  z  hh  iy  w  aa  zh  t  <eps>  ih  m  s  eh  l  f  eh  n  d  g  r  uw  m  d  hh  ih  z  d  ih  zh  aa  v  ax  d  ax  k  l  ow    z      ih    s  sp
 TXHC%arctic_a0139 op    C   C  C   C  C  C   C   C  C  C   C  C  C   C   C  C    I     C  C   C   C  C   C   C  C    D     C  C  C   C  C  C   S  C  C  C  C   C  C  C   C   C  C  C   C   C   S  C   C  S   S  C  C   C    I      I     S   S
 TXHC%arctic_a0139 #csid 48 6 3 1
-TXHC%arctic_a0096 ref  p  er  hh  ae  p  s  zh  iy    hh     ae   d  aa  l  r  eh  d  iy  m  eh  t  hh  er  f  ey  t  <eps>  ax  l  ih  t  ax    l    d  iy  p  er  ih  n  dh  ax  f  aa  r  ax  s  t  <eps>
-TXHC%arctic_a0096 hyp  p  er  hh  ae  p  s  zh  iy  <eps>  <eps>  d  aa  l  r  eh  d  iy  m  ae  t  hh  er  f  ey  t    sp   ax  l  ih  t  ax  <eps>  d  iy  p  er  ih  n   d  ax  f  aa  r  ax  s  t    sp 
-TXHC%arctic_a0096 op   C   C   C   C  C  C   C   C    D      D    C   C  C  C   C  C   C  C   S  C   C   C  C   C  C    I     C  C   C  C   C    D    C   C  C   C   C  C   S   C  C   C  C   C  C  C    I  
-TXHC%arctic_a0096 #csid 40 2 2 3
+TXHC%arctic_a0096 ref  p  er  hh  ae  p  s  zh  iy    hh     ae   d  aa  l  r  eh  d  iy  m  eh  t  hh  er  f  ey  t  <eps>  ax  l  ih  t  ax    l    d  iy  p  er  ih  n  dh  ax  <eps>  f  aa  r  ax  s  t  <eps>
+TXHC%arctic_a0096 hyp  p  er  hh  ae  p  s  zh  iy  <eps>  <eps>  d  aa  l  r  eh  d  iy  m  ae  t  hh  er  f  ey  t    sp   ax  l  ih  t  ax  <eps>  d  iy  p  er  ih  n   d  ax    sp   f  aa  r  ax  s  t    sp 
+TXHC%arctic_a0096 op   C   C   C   C  C  C   C   C    D      D    C   C  C  C   C  C   C  C   S  C   C   C  C   C  C    I     C  C   C  C   C    D    C   C  C   C   C  C   S   C    I    C   C  C   C  C  C    I  
+TXHC%arctic_a0096 #csid 40 2 3 3
 TXHC%arctic_a0100 ref  y  uw  m  ax  s    t    s  l  iy  p  hh  iy  er  jh  <eps>  d  <eps>
 TXHC%arctic_a0100 hyp  y  uw  m  ax  s  <eps>  s  l  iy  p  hh  iy  er  jh    zh   d    sp 
 TXHC%arctic_a0100 op   C   C  C   C  C    D    C  C   C  C   C   C   C   C    I    C    I  
@@ -446,10 +446,10 @@ TXHC%arctic_b0430 ref  dh  ey  w  er  b  ae  b  l  ih  ng  ax  n  d  <eps>  ch  
 TXHC%arctic_b0430 hyp   d  ey  w  er  b  ae  b  l  ih  ng  ax  n  d    ax   ch  ae  t  er  ih  ng  aa  l  t  ax  g  eh  dh  er    sp 
 TXHC%arctic_b0430 op    S   C  C   C  C   C  C  C   C   C   C  C  C    I     C   C  C   C   C   C   C  C  C   C  C   C   C   C    I  
 TXHC%arctic_b0430 #csid 26 1 2 0
-TXHC%arctic_a0092 ref  hh  iy  w  eh  n  t  d  aw   n  ih  n  m  ih  d  s  t  r  iy  m  s  er  ch  ih  ng  dh  ax  zh  ae  d  ow  z  ax    v    b  ow  th  zh  aa  r  z
-TXHC%arctic_a0092 hyp  hh  iy  w  eh  n  t  d  aw  ng  ih  n  m  ih  d  s  t  r  iy  m  s  er  ch  ih  ng  dh  ax  zh  ae  d  ow  z  ax  <eps>  b  ow  th  zh  aa  r  s
-TXHC%arctic_a0092 op    C   C  C   C  C  C  C   C   S   C  C  C   C  C  C  C  C   C  C  C   C   C   C   C   C   C   C   C  C   C  C   C    D    C   C   C   C   C  C  S
-TXHC%arctic_a0092 #csid 37 2 0 1
+TXHC%arctic_a0092 ref  hh  iy  w  eh  n  t  d  aw   n  ih  n  m  ih  d  s  t  r  iy  m  s  er  ch  ih  ng  dh  ax  zh  ae  d  ow  z  ax  v  b  ow  th  zh  aa  r  z
+TXHC%arctic_a0092 hyp  hh  iy  w  eh  n  t  d  aw  ng  ih  n  m  ih  d  s  t  r  iy  m  s  er  ch  ih  ng  dh  ax  zh  ae  d  ow  z  ax  v  b  ow  th  zh  aa  r  s
+TXHC%arctic_a0092 op    C   C  C   C  C  C  C   C   S   C  C  C   C  C  C  C  C   C  C  C   C   C   C   C   C   C   C   C  C   C  C   C  C  C   C   C   C   C  C  S
+TXHC%arctic_a0092 #csid 38 2 0 0
 TXHC%arctic_b0282 ref  s  ax  m  ax  v  dh  ax  s  m  aa  l  er  v  ey  n  z  hh  ae  d  <eps>  d  aw   t  l  ax  s  <eps>  b  ax  n  r  ax  p  ch  er  d  <eps>
 TXHC%arctic_b0282 hyp  s  ax  m  ax  v  dh  ax  s  m  aa  l  er  v  ey  n  z  hh  ax  d    sp   d  aa  sp  l  eh  s    sp   b  iy  n  r  ae  p  ch  er  d    sp 
 TXHC%arctic_b0282 op   C   C  C   C  C   C   C  C  C   C  C   C  C   C  C  C   C   S  C    I    C   S   S  C   S  C    I    C   S  C  C   S  C   C   C  C    I  
@@ -511,9 +511,9 @@ TXHC%arctic_a0122 hyp  t  uw  y  ih  r  s  ax  g  ow  ay  g  ey  v  ax  p  s  ih
 TXHC%arctic_a0122 op   C   C  C   C  C  S   C  C   C   C  C   C  C   C  C  C   C  C   C  C   C  C   C   C   C  C  C  C    D     S   C  C
 TXHC%arctic_a0122 #csid 29 2 0 1
 TXHC%arctic_a0134 ref  hh  iy  ow  b  ey  d  <eps>  dh  ax  p  r  eh  zh  er  ax  v  hh  er  hh  ae  n  d
-TXHC%arctic_a0134 hyp  hh  iy  ow  b  ey  d    ax    d  ax  p  r  eh  zh  er  ax  v  hh  er  hh  ae  n  d
-TXHC%arctic_a0134 op    C   C   C  C   C  C    I     S   C  C  C   C   C   C   C  C   C   C   C   C  C  C
-TXHC%arctic_a0134 #csid 20 1 1 0
+TXHC%arctic_a0134 hyp  hh  iy  ow  b  ey  d    ax    d  ax  p  r  eh  zh  er  ax  v  hh  ax  hh  ae  n  d
+TXHC%arctic_a0134 op    C   C   C  C   C  C    I     S   C  C  C   C   C   C   C  C   C   S   C   C  C  C
+TXHC%arctic_a0134 #csid 19 2 1 0
 TXHC%arctic_a0130 ref  zh  iy  w  ax  <eps>  <eps>   z  hh  ih  z  n  aw  f  er  eh  v  er  <eps>
 TXHC%arctic_a0130 hyp  zh  iy  w  ax    s      ih   ng  hh  ih  s  n  aw  f  er  eh  v  er    sp 
 TXHC%arctic_a0130 op    C   C  C   C    I      I     S   C   C  S  C   C  C   C   C  C   C    I  
@@ -758,10 +758,10 @@ NJS%arctic_a0018 ref  dh  eh  r  w  ax  z  ax  ch  ey  n  jh  n  aw  <eps>
 NJS%arctic_a0018 hyp   d  eh  r  w  ax  s  ax  ch  ey  n  jh  n  aw    sp 
 NJS%arctic_a0018 op    S   C  C  C   C  S   C   C   C  C   C  C   C    I  
 NJS%arctic_a0018 #csid 11 2 1 0
-NJS%arctic_b0019 ref  hh  ih  z  s  l  ih  m  hh  ae  n  z  g  r  ih  <eps>  p  t  dh  ax  eh  jh  ih  z  ax  v  dh  ax  t  ey  b  ax  l  <eps>
-NJS%arctic_b0019 hyp  hh  ih  z  z  l  ih  m  hh  ae  n  z  g  r  ih    p    p  t   d  iy  eh  jh  ih  s  ax  v  dh  ax  t  ey  b  ax  l    sp 
-NJS%arctic_b0019 op    C   C  C  S  C   C  C   C   C  C  C  C  C   C    I    C  C   S   S   C   C   C  S   C  C   C   C  C   C  C   C  C    I  
-NJS%arctic_b0019 #csid 27 4 2 0
+NJS%arctic_b0019 ref  hh  ih  z  s  l  ih  m  hh  ae  n  z  g  r  ih  p  t  dh  ax  eh  jh  ih  z  ax  v  dh  ax  t  ey  b  ax  l  <eps>
+NJS%arctic_b0019 hyp  hh  ih  z  z  l  ih  m  hh  ae  n  z  g  r  ih  p  t   d  iy  eh  jh  ih  s  ax  v  dh  ax  t  ey  b  ax  l    sp 
+NJS%arctic_b0019 op    C   C  C  S  C   C  C   C   C  C  C  C  C   C  C  C   S   S   C   C   C  S   C  C   C   C  C   C  C   C  C    I  
+NJS%arctic_b0019 #csid 27 4 1 0
 NJS%arctic_a0125 ref  hh  iy  w  ax  z  d  ih  t  er  m  ax    n     d  n  aw  t  uw  m  ey  n  t  ey  n  ax  m  aa  r  <eps>  s  er  t  ax  n  hh  ow  l  d  <eps>  ax  p  aa  n  <eps>  hh  ih  m  s  eh  l  f  <eps>
 NJS%arctic_a0125 hyp  hh  iy  w  ax  z  d  ih  t  er  m  ax  <eps>  ng  n  aw  t  uw  m  ax  n  t  ey  n  ax  m  aa  r    sp   s  er  t  ax  n  hh  ow  l  d    sp   ax  p  aa  n    sp   hh  ih  m  s  eh  l  f    sp 
 NJS%arctic_a0125 op    C   C  C   C  C  C   C  C   C  C   C    D     S  C   C  C   C  C   S  C  C   C  C   C  C   C  C    I    C   C  C   C  C   C   C  C  C    I     C  C   C  C    I     C   C  C  C   C  C  C    I  
@@ -866,10 +866,10 @@ NJS%arctic_a0040 ref  ay  s  ax  p  ow  z  y  uw  w  ax  n  d  er  w  ay  zh  iy
 NJS%arctic_a0040 hyp  ay  s  ax  p  ow  z  y  uw  w  ax  n  d  er  w  ay  zh  iy  ih  s  k  ax  m  ih  ng    n    ax  p  hh  iy  r    sp 
 NJS%arctic_a0040 op    C  C   C  C   C  C  C   C  C   C  C  C   C  C   C   C   C   C  S  C   C  C   C   C    I     C  C   C   C  C    I  
 NJS%arctic_a0040 #csid 28 1 2 0
-NJS%arctic_a0060 ref  eh  n  iy  w  ey  <eps>  n  ow  w  ax  n  s  aa  hh  er  l  ay  k  dh  ae  t  <eps>  <eps>
-NJS%arctic_a0060 hyp  eh  n  iy  w  ey    sp   n  ow  w  ax  n  s  aa  hh  er  l  ay  k  dh  ae  t    sp     sp 
-NJS%arctic_a0060 op    C  C   C  C   C    I    C   C  C   C  C  C   C   C   C  C   C  C   C   C  C    I      I  
-NJS%arctic_a0060 #csid 20 0 3 0
+NJS%arctic_a0060 ref  eh  n  iy  w  ey  <eps>  n  ow  w  ax  n  s  aa  hh  er  l  ay  k  dh  ae  t  <eps>
+NJS%arctic_a0060 hyp  eh  n  iy  w  ey    sp   n  ow  w  ax  n  s  aa  hh  er  l  ay  k  dh  ae  t    sp 
+NJS%arctic_a0060 op    C  C   C  C   C    I    C   C  C   C  C  C   C   C   C  C   C  C   C   C  C    I  
+NJS%arctic_a0060 #csid 20 0 2 0
 NJS%arctic_a0131 ref  p  r  aa  v  ax  d  ax  n  s  hh  ae  d  d  ih  l  ih  v  er  d  hh  ih  m  <eps>  th  r  uw  dh  ax  m  ey  l  s  t  r  ax  m
 NJS%arctic_a0131 hyp  p  r  aa  v  ax  d  ax  n  s  hh  ae  d  d  ax  l  iy  v  er  d  hh  ih  m    sp   th  r  uw  dh  ax  m  ey  l  s  t  r  ax  m
 NJS%arctic_a0131 op   C  C   C  C   C  C   C  C  C   C   C  C  C   S  C   S  C   C  C   C   C  C    I     C  C   C   C   C  C   C  C  C  C  C   C  C
@@ -962,10 +962,10 @@ NJS%arctic_a0487 ref  dh  ax  r  ih  v  er  <eps>  b  eh  r    d    ih  t  s  b 
 NJS%arctic_a0487 hyp   d  ax  r  iy  b  er    sp   b  eh  r  <eps>  ih  t  s  b  aa  s  ax  m    sp   ae  n  d    ax   s  n  aa  r  t  ih    n    ih  s  t  iy  m  b  aa  t  <eps>  ch  ae  l  ax  n  zh  d  <eps>  ax  w  ih  l  d  er  n  eh  s    sp     sp 
 NJS%arctic_a0487 op    S   C  C   S  S   C    I    C   C  C    D     C  C  C  C   S  S   C  C    I     C  C  C    I    C  C   C  C  C   C    I     S  C  C   C  C  C   S  C    D     C   C  C   C  C   S  C    D     C  C   C  C  C   C  C   S  C    I      I  
 NJS%arctic_a0487 #csid 41 9 6 3
-NJS%arctic_a0139 ref  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f  dh  ae  t  ae  z  hh  iy  w  aa  zh    t    hh  ih  m  s  eh  l  f  ae   n  d  g  r  uw    m     d  hh  ih  z  <eps>  d  ih  <eps>  zh  eh  v  ax  l  d  <eps>  k  l  ow  <eps>  dh   z
-NJS%arctic_a0139 hyp  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f   d  ae  t  ae  s  hh  iy  w  aa  zh  <eps>  hh  ih  m  s  eh  l  f  sp  eh  n  g  r  uw  <eps>  sp  hh  ih  z    sp   d  ih    s    zh  eh  v  ax  l  d    sp   k  l  ow    d     s  sp
-NJS%arctic_a0139 op    C   C  C   C  C  C   C   C  C  C   C  C  C   S   C  C   C  S   C   C  C   C   C    D     C   C  C  C   C  C  C   S   S  S  C  C   C    D     S   C   C  C    I    C   C    I     C   C  C   C  C  C    I    C  C   C    I     S   S
-NJS%arctic_a0139 #csid 45 8 4 2
+NJS%arctic_a0139 ref  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f  dh  ae  t  ae  z  hh  iy  w  aa  zh    t    hh  ih  m  s  eh  l  f  <eps>  ae  n    d    g  r  uw    m     d  hh  ih  z  <eps>  d  ih  <eps>  zh  eh  v  ax  l  d  <eps>  k  l  ow  <eps>  dh   z
+NJS%arctic_a0139 hyp  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f   d  ae  t  ae  s  hh  iy  w  aa  zh  <eps>  hh  ih  m  s  eh  l  f    sp   ae  n  <eps>  g  r  uw  <eps>  sp  hh  ih  z    sp   d  ih    s    zh  eh  v  ax  l  d    sp   k  l  ow    d     s  sp
+NJS%arctic_a0139 op    C   C  C   C  C  C   C   C  C  C   C  C  C   S   C  C   C  S   C   C  C   C   C    D     C   C  C  C   C  C  C    I     C  C    D    C  C   C    D     S   C   C  C    I    C   C    I     C   C  C   C  C  C    I    C  C   C    I     S   S
+NJS%arctic_a0139 #csid 47 5 5 3
 NJS%arctic_a0096 ref  p  er  hh  ae  p  s  zh  iy  hh  ae  d  aa  l  r  eh  d  iy  m  eh  t  hh  er  f  ey  t  <eps>  ax  l  ih  t  ax  l  d  iy  p  er  <eps>  ih  n  dh  ax  f  aa  r  ax  s  t  <eps>
 NJS%arctic_a0096 hyp  p  er  hh  ae  p  s  zh  iy  hh  ae  d  aa  l  r  eh  d  iy  m  eh  t  hh  er  f  ey  t    sp   ax  l  iy  t  ax  l  d  iy  p  er    sp   ih  n   d  ax  f  aa  r  ax  s  t    sp 
 NJS%arctic_a0096 op   C   C   C   C  C  C   C   C   C   C  C   C  C  C   C  C   C  C   C  C   C   C  C   C  C    I     C  C   S  C   C  C  C   C  C   C    I     C  C   S   C  C   C  C   C  C  C    I  
@@ -1074,10 +1074,10 @@ NJS%arctic_b0187 ref  hh  er  ax  ch  iy  v  m  ax  n  t  s  w  ih  th  k  ow  k
 NJS%arctic_b0187 hyp  hh  er  ax  ch  iy  v  m  ax  n  t  s  w  ih   t  k  ow  k  ow  n  ax  t  s  w  er  er  r  eh  v  ax  l  ey  zh  ax  n
 NJS%arctic_b0187 op    C   C   C   C   C  C  C   C  C  C  C  C   C   S  C   C  C   C  C   C  C  C  C   C   S  C   C  C   C  C   C   C   C  C
 NJS%arctic_b0187 #csid 32 2 0 0
-NJS%arctic_a0159 ref  dh  ey  l  uh  k  ae  z  dh  ow  hh  iy  hh  ae  d  b  ih  <eps>  n  d  r  ax  m  ih  ng  ax  p  iy  ae  n  ax  aa  l  hh  ih  z  l  ay  f  <eps>
-NJS%arctic_a0159 hyp   d  ey  l  uh  k  ax  s  dh  ow  hh  iy  hh  ae  d  b  ih    ng   n  d  r  ax  m  ih  ng  ax  p  iy  ae  n  ax  aa  l  hh  ih  s  l  ay  f    sp 
-NJS%arctic_a0159 op    S   C  C   C  C   S  S   C   C   C   C   C   C  C  C   C    I    C  C  C   C  C   C   C   C  C   C   C  C   C   C  C   C   C  S  C   C  C    I  
-NJS%arctic_a0159 #csid 33 4 2 0
+NJS%arctic_a0159 ref  dh  ey  l  uh  k  ae  z  dh  ow  hh  iy  hh  ae  d  b  ih  n  d  r  ax  m  ih  ng  ax  p  iy  ae  n  ax  aa  l  hh  ih  z  l  ay  f  <eps>
+NJS%arctic_a0159 hyp   d  ey  l  uh  k  ax  s  dh  ow  hh  iy  hh  ae  d  b  ih  n  d  r  ax  m  ih  ng  ax  p  iy  ae  n  ax  aa  l  hh  ih  s  l  ay  f    sp 
+NJS%arctic_a0159 op    S   C  C   C  C   S  S   C   C   C   C   C   C  C  C   C  C  C  C   C  C   C   C   C  C   C   C  C   C   C  C   C   C  S  C   C  C    I  
+NJS%arctic_a0159 #csid 33 4 1 0
 NJS%arctic_a0032 ref  s  ih  n  s  dh  eh  n  <eps>  s  ax  m  m  ih  s  t  ih  r  iy  ax  s  f  aa  r  s  hh  ae  z  b  ih  n  f  ay  t  ih  ng  ax  s  <eps>  ae  t  <eps>  eh  v  r  iy  s  t  eh  p  <eps>
 NJS%arctic_a0032 hyp  s  ih  n  z   d  eh  n    sp   s  ax  m  m  ih  s  t  ih  r  iy  ax  s  f  aa  r  s  hh  ae  z  b  ih  n  f  ay  t  ih  ng  ax  s    sp   ae  t    sp   eh  v  r  iy  s  t  eh  p    sp 
 NJS%arctic_a0032 op   C   C  C  S   S   C  C    I    C   C  C  C   C  C  C   C  C   C   C  C  C   C  C  C   C   C  C  C   C  C  C   C  C   C   C   C  C    I     C  C    I     C  C  C   C  C  C   C  C    I  
@@ -1118,10 +1118,10 @@ NJS%arctic_a0500 ref  hh  uw  dh  ax  d  eh  v  ax  l  g  ey  v  ih    t    t   
 NJS%arctic_a0500 hyp  hh  uw   d  ax  d  eh  v  ax  l  g  ey  v  ih  <eps>  t  <eps>  y  uw  t  ax  b  iy  jh  ax  jh  ih  n  <eps>  jh  uh  r  iy    sp 
 NJS%arctic_a0500 op    C   C   S   C  C   C  C   C  C  C   C  C   C    D    C    D    C   C  C   S  C   C   C   C   C   S  C    D     C   C  C   C    I  
 NJS%arctic_a0500 #csid 26 3 1 3
-NJS%arctic_a0059 ref  hh  ih  z  ih  m  ae  k  y  uw  l  ih  t  <eps>  ax  p  ih  r  ax  n  s  <eps>  w  ax  z  g  aa  n  <eps>
-NJS%arctic_a0059 hyp  hh  ih  s  ih  m  ae  k  y  uw  l  ih  t    sp   ax  p  ih  r  iy  n  s    sp   w  ax  s  g  aa  n    sp 
-NJS%arctic_a0059 op    C   C  S   C  C   C  C  C   C  C   C  C    I     C  C   C  C   S  C  C    I    C   C  S  C   C  C    I  
-NJS%arctic_a0059 #csid 22 3 3 0
+NJS%arctic_a0059 ref  hh  ih  z  ih  <eps>  m  ae  k  y  uw  l  ih  t  <eps>  ax  p  ih  r  ax  n  s  <eps>  w  ax  z  g  aa  n  <eps>
+NJS%arctic_a0059 hyp  hh  ih  s  ih    n    m  ae  k  y  uw  l  ih  t    sp   ax  p  ih  r  iy  n  s    sp   w  ax  s  g  aa  n    sp 
+NJS%arctic_a0059 op    C   C  S   C    I    C   C  C  C   C  C   C  C    I     C  C   C  C   S  C  C    I    C   C  S  C   C  C    I  
+NJS%arctic_a0059 #csid 22 3 4 0
 NJS%arctic_a0027 ref  t  uw  m  ay  s  ax  p  r  ay  <eps>   z  hh  iy  b  ih  g  ae  n  t  uw  zh  ow  ae  k  zh  ax  l  ih  n  th  uw  z  iy  ae  z  ax  m  <eps>  ih  n  m  ay  f  ey  v  er  <eps>
 NJS%arctic_a0027 hyp  t  uw  m  ay  s  ax  p  r  ay    s    sp  hh  iy  b  ih  g  aa  n  t  uw  zh  ow  ae  k  ch  ax  l  ih  n  th  uw  z  iy  ae  z  ax  m    sp   ih  n  m  ay  f  ey  v  er    sp 
 NJS%arctic_a0027 op   C   C  C   C  C   C  C  C   C    I     S   C   C  C   C  C   S  C  C   C   C   C   C  C   S   C  C   C  C   C   C  C   C   C  C   C  C    I     C  C  C   C  C   C  C   C    I  
@@ -1158,10 +1158,10 @@ NJS%arctic_a0007 ref  ae  n  d  y  uw  aa  l  w  iy  z  w  aa  n  t  t  ih  s  i
 NJS%arctic_a0007 hyp  ae  n  d  y  uw  aa  l  w  iy  s  w  aa  n  t  t  ih  s  ih   d  sp  ih  n   d  ax  s  uh  p  er  l  ax  t  ih  v    sp   d  ih  g  r  iy    sp 
 NJS%arctic_a0007 op    C  C  C  C   C   C  C  C   C  S  C   C  C  C  C   C  C   S   S   S   C  C   S   C  C   C  C   C  C   C  C   C  C    I    C   C  C  C   C    I  
 NJS%arctic_a0007 #csid 33 5 2 0
-NJS%arctic_a0401 ref  dh  ax  m  ae  n  s  m  ay  l  d  <eps>  g  r  ih  m  l  iy  <eps>  ae  n  d  b  r  aa  t  ax  hh  ae  ch  ax  t  ae   n  d  ax  k  l  ax  <eps>   b
-NJS%arctic_a0401 hyp   d  ax  m  ae  n  s  m  ay  l  d    sp   g  r  ae  m  l  iy    sp   ae  n  d  b  r  aa  t  ax  hh  ae  ch  ax  t  sp  ih  n  ax  k  l  ax    d    sp
-NJS%arctic_a0401 op    S   C  C   C  C  C  C   C  C  C    I    C  C   S  C  C   C    I     C  C  C  C  C   C  C   C   C   C   C   C  C   S   S  S   C  C  C   C    I     S
-NJS%arctic_a0401 #csid 31 6 3 0
+NJS%arctic_a0401 ref  dh  ax  m  ae  n  s  m  ay  l  d  <eps>  g  r  ih  m  l  iy  <eps>  ae  n  d  b  r  aa  t  ax  hh  ae  ch  ax  t  ae   n  d  ax  k  l  ax  b  <eps>
+NJS%arctic_a0401 hyp   d  ax  m  ae  n  s  m  ay  l  d    sp   g  r  ae  m  l  iy    sp   ae  n  d  b  r  aa  t  ax  hh  ae  ch  ax  t  sp  ih  n  ax  k  l  ax  b    sp 
+NJS%arctic_a0401 op    S   C  C   C  C  C  C   C  C  C    I    C  C   S  C  C   C    I     C  C  C  C  C   C  C   C   C   C   C   C  C   S   S  S   C  C  C   C  C    I  
+NJS%arctic_a0401 #csid 32 5 3 0
 NJS%arctic_b0503 ref  dh  ax  s  eh  n  t  s  ax  v  <eps>  s  t  r  ey  n  jh  v  eh  jh  ax  t  ey  zh  ax  n  b  l  uw  aa  f  dh  ax  t  r  aa  p  ih  k  l  ae  n  d  <eps>
 NJS%arctic_b0503 hyp   d  ax  s  eh  n  t  s  ax  v    ax   s  t  r  ey  n  jh  v  eh  zh  ax  t  ey  zh  ax  n  b  l  uw  aa  f   d  ax  t  r  aa  p  ih  k  l  ae  n  d    sp 
 NJS%arctic_b0503 op    S   C  C   C  C  C  C   C  C    I    C  C  C   C  C   C  C   C   S   C  C   C   C   C  C  C  C   C   C  C   S   C  C  C   C  C   C  C  C   C  C  C    I  
@@ -1250,10 +1250,10 @@ YKWK%arctic_a0112 ref  hh  iy  w  ax  z    w    uw  n  d  ih  d  ih  n  dh  iy  
 YKWK%arctic_a0112 hyp  hh  iy  w  ax  z  <eps>  uw  n  d  ih  d  ih  n   d  iy  aa  <eps>  m
 YKWK%arctic_a0112 op    C   C  C   C  C    D     C  C  C   C  C   C  C   S   C   C    D    C
 YKWK%arctic_a0112 #csid 15 1 0 2
-YKWK%arctic_a0105 ref  ow  n  l  iy  <eps>  ih  t  ih  z  s  ow  w  ax  n  d  er  f  ax  l  <eps>  s  ow  aa  l  m  ow  s  t  <eps>  ih  m  p  aa  s    ax   b  ax    l    t  uw  b  ih  l  iy  v  <eps>
-YKWK%arctic_a0105 hyp  ow  n  l  iy    sp   iy  t  ih  s  s  ow  w  ax  n  d  ax  f  ax  l    sp   s  ow  aa  l  m  ow  s  t    sp   ih  m  p  aa  s  <eps>  b  ax  <eps>  t  uw  b  ih  l  ih  v    sp 
-YKWK%arctic_a0105 op    C  C  C   C    I     S  C   C  S  C   C  C   C  C  C   S  C   C  C    I    C   C   C  C  C   C  C  C    I     C  C  C   C  C    D    C   C    D    C   C  C   C  C   S  C    I  
-YKWK%arctic_a0105 #csid 36 4 4 2
+YKWK%arctic_a0105 ref  ow  n  l  iy  <eps>  ih  t  ih  z  s  ow  w  ax  n  d  er  f  ax  l  <eps>  s  ow  aa  l  m  ow  s  t  <eps>  ih  m  p  aa  s    ax   b  ax    l    t  uw  b  ih  l  iy  v  <eps>  <eps>
+YKWK%arctic_a0105 hyp  ow  n  l  iy    sp   iy  t  ih  s  s  ow  w  ax  n  d  ax  f  ax  l    sp   s  ow  aa  l  m  ow  s  t    sp   ih  m  p  aa  s  <eps>  b  ax  <eps>  t  uw  b  ih  l  ih  v    f      sp 
+YKWK%arctic_a0105 op    C  C  C   C    I     S  C   C  S  C   C  C   C  C  C   S  C   C  C    I    C   C   C  C  C   C  C  C    I     C  C  C   C  C    D    C   C    D    C   C  C   C  C   S  C    I      I  
+YKWK%arctic_a0105 #csid 36 4 5 2
 YKWK%arctic_a0025 ref  ay  w  ax  z  ax  b  aw  t  t  ax  d  uw  dh  ih  s  w  eh  n  k  uw  l  er  jh  ax  jh  m  ax  n  t  p  r  iy  v  ey  l  d
 YKWK%arctic_a0025 hyp  ay  w  ax  s  ax  b  aw  t  t  ax  d  uw   d  iy  s  w  eh  n  k  uw  l  ax  jh  ax  jh  m  ax  n  t  p  r  iy  v  eh  l  d
 YKWK%arctic_a0025 op    C  C   C  S   C  C   C  C  C   C  C   C   S   S  C  C   C  C  C   C  C   S   C   C   C  C   C  C  C  C  C   C  C   S  C  C
@@ -1294,10 +1294,10 @@ YKWK%arctic_b0238 ref  dh  ax  v  eh  r  iy  th  aa  t  ax  v  dh  ax  eh  f  er
 YKWK%arctic_b0238 hyp   d  ax  f  eh  t  iy  th  aa  t  ax  v   d  ax  eh  f  er  t  t  ax  s  w  iy  m  ow  v  er  w  aa    s    sp  n  aa  zh  iy  ey  t  ih  ng    sp 
 YKWK%arctic_b0238 op    S   C  S   C  S   C   C   C  C   C  C   S   C   C  C   C  C  C   S  C  C   S  C   C  C   C  C   C    I     S  C   C   C   C   C  C   C   C    I  
 YKWK%arctic_b0238 #csid 30 7 2 0
-YKWK%arctic_a0144 ref  b  ax  t  dh  eh  r  w  ax  z  s  ax  m  th  ih  ng  iy  v    ih    n  m  aa  r  s  t  aa    r    t  l  ih  ng  dh  ae  n  dh  ih   s  r  iy  z  eh  m  b  <eps>  l  ax  n  s  <eps>
-YKWK%arctic_a0144 hyp  b  ax  t   d  eh  r  w  ax  s  s  ax  m  th  ih  ng  iy  v  <eps>  ax  m  aa  r  s  t  aa  <eps>  t  l  ih  ng   d  ae  n  sp  hh  ih  r  iy  s  eh  m  b    ax   l  ax  n  s    sp 
-YKWK%arctic_a0144 op   C   C  C   S   C  C  C   C  S  C   C  C   C   C   C   C  C    D     S  C   C  C  C  C   C    D    C  C   C   C   S   C  C   S   S   S  C   C  S   C  C  C    I    C   C  C  C    I  
-YKWK%arctic_a0144 #csid 36 8 2 2
+YKWK%arctic_a0144 ref  b  ax  t  dh  eh  r  w  ax  z  s  ax  m  th  ih  ng  iy  v    ih    n  m  aa  r  s  t  aa    r    t  l  ih  ng  dh  ae  n  <eps>  dh  ih  s  r  iy  z  eh  m  b  <eps>  l  ax  n  s  <eps>
+YKWK%arctic_a0144 hyp  b  ax  t   d  eh  r  w  ax  s  s  ax  m  th  ih  ng  iy  v  <eps>  ax  m  aa  r  s  t  aa  <eps>  t  l  ih  ng   d  ae  n    sp   hh  ih  z  r  iy  s  eh  m  b    ax   l  ax  n  s    sp 
+YKWK%arctic_a0144 op   C   C  C   S   C  C  C   C  S  C   C  C   C   C   C   C  C    D     S  C   C  C  C  C   C    D    C  C   C   C   S   C  C    I     S   C  S  C   C  S   C  C  C    I    C   C  C  C    I  
+YKWK%arctic_a0144 #csid 37 7 3 2
 YKWK%arctic_a0011 ref  ih  f  ay  eh  v  er  n  iy  d  ih  d  ax  f  ay  t  er  ih  n  m  ay  l  ay  f  ay  n  iy  d  w  ax  n  n  aw
 YKWK%arctic_a0011 hyp  ih  f  ay  eh  v  er  n  iy  d  ih  d  ax  f  ay  t  er  ih  n  m  ay  l  ay  f  ay  n  iy  d  w  ax  n  n  aw
 YKWK%arctic_a0011 op    C  C   C   C  C   C  C   C  C   C  C   C  C   C  C   C   C  C  C   C  C   C  C   C  C   C  C  C   C  C  C   C
@@ -1323,9 +1323,9 @@ YKWK%arctic_a0008 hyp  g  ae  d  y  aa  <eps>  l  eh  t  er  k  ey  m  jh  ax  s
 YKWK%arctic_a0008 op   C   C  C  C   C    D    C   C  C   C  C   C  C   C   C  C  C   C  C  C   C  C
 YKWK%arctic_a0008 #csid 21 0 0 1
 YKWK%arctic_a0116 ref  w  ax  z  ih  t  dh  ax  r  aa   n  d  ih  v  uw  ax  v  dh  ow  z  hh  uw  w  er  s  t  r  ay  v  ih  ng  t  uw  w  er  k  hh  ih  z  r  uw  ih  n
-YKWK%arctic_a0116 hyp  w  ax  z  ih  t   d  ax  r  ae  ng  d  ax  v  uw  ax  v   d  ow  s  hh  uw  w  ax  s  t  r  ay  v  ih  ng  t  ax  w  er  k  hh  ih  z  r  uw  ih  n
-YKWK%arctic_a0116 op   C   C  C   C  C   S   C  C   S   S  C   S  C   C   C  C   S   C  S   C   C  C   S  C  C  C   C  C   C   C  C   S  C   C  C   C   C  C  C   C   C  C
-YKWK%arctic_a0116 #csid 34 8 0 0
+YKWK%arctic_a0116 hyp  w  ax  z  ih  t   d  ax  r  ae  ng  d  ih  v  uw  ax  v   d  ow  s  hh  uw  w  ax  s  t  r  ay  v  ih  ng  t  ax  w  er  k  hh  ih  z  r  uw  ih  n
+YKWK%arctic_a0116 op   C   C  C   C  C   S   C  C   S   S  C   C  C   C   C  C   S   C  S   C   C  C   S  C  C  C   C  C   C   C  C   S  C   C  C   C   C  C  C   C   C  C
+YKWK%arctic_a0116 #csid 35 7 0 0
 YKWK%arctic_a0081 ref  w  ax  t  ih  f  zh  iy  d  ih  d  n  aa  t  k  ax  m  t  ax  dh  ax  r  aa  k
 YKWK%arctic_a0081 hyp  w  ax  t  ih  f  zh  iy  d  iy  d  n  aa  t  k  ax  m  t  ax   d  ax  r  aa  k
 YKWK%arctic_a0081 op   C   C  C   C  C   C   C  C   S  C  C   C  C  C   C  C  C   C   S   C  C   C  C
@@ -1378,18 +1378,18 @@ YKWK%arctic_a0364 ref  w  iy  hh  ae  v  p  l  eh  n  t  iy  ax  v  k  ae  p  ih
 YKWK%arctic_a0364 hyp  w  iy  hh  ae  v  p  l  eh  n  t  iy  ax  v  k  ae  p  ih  t  ax  l  <eps>  aw  s  eh  l  v    s    sp  ae  n  d  y  eh  t  w  iy  w  aa  n  t  m  aa  r    sp 
 YKWK%arctic_a0364 op   C   C   C   C  C  C  C   C  C  C   C   C  C  C   C  C   C  C   C  C    D     S  C   C  C  C    I     S   C  C  C  C   C  C  C   C  C   C  C  C  C   C  C    I  
 YKWK%arctic_a0364 #csid 39 2 2 1
-YKWK%arctic_a0047 ref  k  l  ow  s  b  iy  s  ay  d  hh  ih  m  g  l  iy  m  d  dh  ax  w  ay  t  f  ae  ng  z  ax  v  dh  ax   w  uh  l  f  d  aa  g
-YKWK%arctic_a0047 hyp  k  l  ow  s  b  iy  s  ay  d  hh  ih  m  g  l  iy  m  d   d  ax  w  ay  t  f  ae  ng  s  ax  v  dh   d  ax  uh  l  f  d  aa  g
-YKWK%arctic_a0047 op   C  C   C  C  C   C  C   C  C   C   C  C  C  C   C  C  C   S   C  C   C  C  C   C   C  S   C  C   C   S   S   C  C  C  C   C  C
-YKWK%arctic_a0047 #csid 33 4 0 0
+YKWK%arctic_a0047 ref  k  l  ow  s  b  iy  s  ay  d  hh  ih  m  g  l  iy  m  d  dh  ax  w  ay  t  f  ae  ng  z  ax  v  dh  ax    w    uh  l  f  d  aa  g
+YKWK%arctic_a0047 hyp  k  l  ow  s  b  iy  s  ay  d  hh  ih  m  g  l  iy  m  d   d  ax  w  ay  t  f  ae  ng  s  ax  v   d  ax  <eps>  uh  l  f  d  aa  g
+YKWK%arctic_a0047 op   C  C   C  C  C   C  C   C  C   C   C  C  C  C   C  C  C   S   C  C   C  C  C   C   C  S   C  C   S   C    D     C  C  C  C   C  C
+YKWK%arctic_a0047 #csid 33 3 0 1
 YKWK%arctic_a0384 ref  dh  ax  f  aa    r    m  er  w  er  k  s  dh  ax  s  oy  l  ae  n  d  p  r  ax  d  uw  s  ih  z  g  r  ey  n  <eps>
 YKWK%arctic_a0384 hyp   d  ax  f  aa  <eps>  m  er  w  uh  k  s   d  ax  s  oy  l  ae  n  d  p  r  ax  d  uw  s  ih  s  g  r  ey  n    sp 
 YKWK%arctic_a0384 op    S   C  C   C    D    C   C  C   S  C  C   S   C  C   C  C   C  C  C  C  C   C  C   C  C   C  S  C  C   C  C    I  
 YKWK%arctic_a0384 #csid 26 4 1 1
-YKWK%arctic_a0022 ref  hh  aa  r   d  l  iy  w  er  aw   r  p  l  ae  n  z  m  ey  d  <eps>  p  ax  b  l  ih  k  b  iy  f  aa    r    w  iy  w  er  m  eh  t  b  ay  p  aw  er  f  ax    l    aa  p  ax   z  ih  zh  ax  n
-YKWK%arctic_a0022 hyp  hh  aa  d  ax  l  iy  w  er   r  aw  p  l  ae  n  s  m  ey  d    ax   p  ax  b  l  ih  k  b  iy  f  aa  <eps>  w  iy  w  ax  m  eh  t  b  ay  p  aw   p  f  ax  <eps>  aa  p  ax  jh  ih  zh  ax  n
-YKWK%arctic_a0022 op    C   C  S   S  C   C  C   C   S   S  C  C   C  C  S  C   C  C    I    C   C  C  C   C  C  C   C  C   C    D    C   C  C   S  C   C  C  C   C  C   C   S  C   C    D     C  C   C   S   C   C   C  C
-YKWK%arctic_a0022 #csid 42 8 1 2
+YKWK%arctic_a0022 ref  hh  aa  r   d  l  iy  w  er  aw   r  p  l  ae  n  z  m  ey  d  <eps>  p  ax  b  l  ih  k  b  iy  f  aa    r    w  iy  w  er  m  eh  t  b  ay  p  aw    er   f  ax    l    aa  p  ax   z  ih  zh  ax  n
+YKWK%arctic_a0022 hyp  hh  aa  d  ax  l  iy  w  er   r  aw  p  l  ae  n  s  m  ey  d    ax   p  ax  b  l  ih  k  b  iy  f  aa  <eps>  w  iy  w  ax  m  eh  t  b  ay  p  aw  <eps>  f  ax  <eps>  aa  p  ax  jh  ih  zh  ax  n
+YKWK%arctic_a0022 op    C   C  S   S  C   C  C   C   S   S  C  C   C  C  S  C   C  C    I    C   C  C  C   C  C  C   C  C   C    D    C   C  C   S  C   C  C  C   C  C   C    D    C   C    D     C  C   C   S   C   C   C  C
+YKWK%arctic_a0022 #csid 42 7 1 3
 YKWK%arctic_a0063 ref  y  eh  s    ih    t  w  ax  z  ax  m  ae  n  hh  uw  ae  s  t  ax  s  t  r  ey  n  jh  er
 YKWK%arctic_a0063 hyp  y  eh  s  <eps>  iy  w  ax  z  ax  m  ae  n  hh  uw  ae  s  t  ax  s  t  r  ey  n  jh  er
 YKWK%arctic_a0063 op   C   C  C    D     S  C   C  C   C  C   C  C   C   C   C  C  C   C  C  C  C   C  C   C   C
@@ -1426,10 +1426,10 @@ YKWK%arctic_b0143 ref  ih  t  t  uh  k  ih  m  hh  ae  f  ax  n  aw  er  t  uw  
 YKWK%arctic_b0143 hyp  ih  t  t  uh  k  ih  m  hh  ae  f  ax  n  aw  er  t  uw  r  iy  ch   d  iy  ae  jh  ax  v  iy  t    sp 
 YKWK%arctic_b0143 op    C  C  C   C  C   C  C   C   C  C   C  C   C   C  C   C  C   C   C   S   C   S   C   C  C   S  C    I  
 YKWK%arctic_b0143 #csid 24 3 1 0
-YKWK%arctic_a0111 ref  ih  n  s  t  eh  d  <eps>  hh  iy  jh  oy  n  d  hh  er  <eps>  ae  n  d  dh  ey  ey  t  l  ay    k    t  uw  hh  ax  ng  g  r  iy  ch  ih  l  d  r  ax  n
-YKWK%arctic_a0111 hyp  ih  n  s  t  eh  d    sp   hh  iy  jh  oy  n  d  hh  er    sp   ae  n  d   d  ey  ey  t  l  ay  <eps>  t  uw  hh  ax  ng  g  r  iy  ch  ih  l  d  r  ax  n
-YKWK%arctic_a0111 op    C  C  C  C   C  C    I     C   C   C   C  C  C   C   C    I     C  C  C   S   C   C  C  C   C    D    C   C   C   C   C  C  C   C   C   C  C  C  C   C  C
-YKWK%arctic_a0111 #csid 37 1 2 1
+YKWK%arctic_a0111 ref  ih  n  s  t  eh  d  <eps>  hh  iy  jh  oy  n  d  hh  er  <eps>  ae  n  d  dh  ey  ey  t  l  ay  k  t  uw  hh  ax  ng  g  r  iy  ch  ih  l  d  r  ax  n
+YKWK%arctic_a0111 hyp  ih  n  s  t  eh  d    sp   hh  iy  jh  oy  n  d  hh  er    sp   ae  n  d   d  ey  ey  t  l  ay  k  t  uw  hh  ax  ng  g  r  iy  ch  ih  l  d  r  ax  n
+YKWK%arctic_a0111 op    C  C  C  C   C  C    I     C   C   C   C  C  C   C   C    I     C  C  C   S   C   C  C  C   C  C  C   C   C   C   C  C  C   C   C   C  C  C  C   C  C
+YKWK%arctic_a0111 #csid 38 1 2 0
 YKWK%arctic_a0076 ref  dh  ax  g  r  ey  ay  z  f  aa  l  t  er  d  dh  ax  f  l  ax  zh  d  iy  p  ax  n  d
 YKWK%arctic_a0076 hyp   d  ax  g  r  ey  ay  s  f  aa  l  t  er  d  dh  ax  f  l  ax  zh  d  iy  p  ax  n  d
 YKWK%arctic_a0076 op    S   C  C  C   C   C  S  C   C  C  C   C  C   C   C  C  C   C   C  C   C  C   C  C  C
@@ -1674,10 +1674,10 @@ YKWK%arctic_a0123 ref  zh  iy  hh  ae  d  <eps>  d  ay  d  f  r  ax  m  k  ow  l
 YKWK%arctic_a0123 hyp  zh  iy  hh  ae  d    ax   d  ay  d  f  r  ax  m  k  ow  l  d  ae  n  d    sp   s  t  aa  r  v  ey  zh  ax  n    sp 
 YKWK%arctic_a0123 op    C   C   C   C  C    I    C   C  C  C  C   C  C  C   C  C  C   C  C  C    I    C  C   C  C  C   C   C   C  C    I  
 YKWK%arctic_a0123 #csid 28 0 3 0
-YKWK%arctic_a0271 ref  n  aw  p  l  iy  z  g  ih  v  ax  p  l  ey  n  s  t  ey  t  m  ax  n    t    ax  v  hh  w  ax  t  ax  k  er  d  <eps>
-YKWK%arctic_a0271 hyp  n  aw  p  l  iy  z  g  ih  v  ax  p  l  ey  n  s  t  ey  t  m  ax  n  <eps>  ax  v  hh  w  ax  t  ax  k  er  d    sp 
-YKWK%arctic_a0271 op   C   C  C  C   C  C  C   C  C   C  C  C   C  C  C  C   C  C  C   C  C    D     C  C   C  C   C  C   C  C   C  C    I  
-YKWK%arctic_a0271 #csid 31 0 1 1
+YKWK%arctic_a0271 ref  n  aw  p  l  iy  z  g  ih  v  ax  p  l  ey  n  s  t  ey    t    m  ax  n    t    ax  v  hh  w  ax  t  ax  k  er  d  <eps>
+YKWK%arctic_a0271 hyp  n  aw  p  l  iy  z  g  ih  v  ax  p  l  ey  n  s  t  ey  <eps>  m  ax  n  <eps>  ax  v  hh  w  ax  t  ax  k  er  d    sp 
+YKWK%arctic_a0271 op   C   C  C  C   C  C  C   C  C   C  C  C   C  C  C  C   C    D    C   C  C    D     C  C   C  C   C  C   C  C   C  C    I  
+YKWK%arctic_a0271 #csid 30 0 1 2
 YKWK%arctic_a0091 ref  hh  ih  z  b  l  ax  d  g  r  uw  hh  aa  t  w  ih  dh  r  ey  jh  ae  t  dh  ax  th  aa  t
 YKWK%arctic_a0091 hyp  hh  ih  s  b  l  ax  d  g  r  uw  hh  aa  t  w  ih   d  r  ey  zh  ae  t  dh  ax  th  aa  t
 YKWK%arctic_a0091 op    C   C  S  C  C   C  C  C  C   C   C   C  C  C   C   S  C   C   S   C  C   C   C   C   C  C
@@ -1739,17 +1739,17 @@ YKWK%arctic_b0320 hyp   d  ax  r  ih  g  r  eh  t  ih  n  hh  ih  z  v  oy  s  w
 YKWK%arctic_b0320 op    S   C  C   C  C  C   C  C   C  C   C   C  C  C   C  C  C   S  C  C  C   S  C   S  C   C  C   C  C    I     C  S   C  C   C  C   C  C  C   C  C  C   C  C  C   C  C  C   C    I  
 YKWK%arctic_b0320 #csid 43 5 2 0
 YKWK%arctic_b0106 ref  f  aa  r  ax  f  uh  l  m  ih  n  ax  t  <eps>  dh  ax  t  uw  m  eh  n  s  t  eh  r  d  ih  n  t  uw  iy  ch  ax  dh  er  z  f  ey  s  <eps>
-YKWK%arctic_b0106 hyp  f  aa  r  ax  f  uw  l  m  ih  n  ax  t    sp    d  ax  t  uw  m  eh  n  s  t  eh  r  d  ih  n  t  uw  iy  ch  ax   d  er  s  f  ey  s    sp 
-YKWK%arctic_b0106 op   C   C  C   C  C   S  C  C   C  C   C  C    I     S   C  C   C  C   C  C  C  C   C  C  C   C  C  C   C   C   C   C   S   C  S  C   C  C    I  
-YKWK%arctic_b0106 #csid 33 4 2 0
+YKWK%arctic_b0106 hyp  f  aa  r  ax  f  uw  l  m  ih  n  ax  t    sp    d  ax  t  uw  m  ae  n  s  t  eh  r  d  ih  n  t  uw  iy  ch  ax   d  er  s  f  ey  s    sp 
+YKWK%arctic_b0106 op   C   C  C   C  C   S  C  C   C  C   C  C    I     S   C  C   C  C   S  C  C  C   C  C  C   C  C  C   C   C   C   C   S   C  S  C   C  C    I  
+YKWK%arctic_b0106 #csid 32 5 2 0
 YKWK%arctic_a0027 ref  t  ax  m  ay  s  ax  p  r  ay  z  hh  iy  b  ih  g  ae  n  t  ax  zh  ow  ae  k  zh  ax  l  ih  n  th  uw  z  iy  ae  z  ax  m  ih  n  m  ay  f  ey  v  er
 YKWK%arctic_a0027 hyp  t  ax  m  ay  s  ax  p  r  ay  z  hh  iy  b  ih  g  ae  n  t  ax  zh  ow  ae  k  ch  ax  l  ih  n  th  uw  z  iy  ae  z  ax  m  ih  n  m  ay  f  ey  v  er
 YKWK%arctic_a0027 op   C   C  C   C  C   C  C  C   C  C   C   C  C   C  C   C  C  C   C   C   C   C  C   S   C  C   C  C   C   C  C   C   C  C   C  C   C  C  C   C  C   C  C   C
 YKWK%arctic_a0027 #csid 43 1 0 0
-YKWK%arctic_b0068 ref  ow  n  l  iy  dh  ax  ch  ae  n  s  s  aw  n  d  hh  ae  d  <eps>  l  eh  d  ih  m  t  uw  ax  b   z  er  v  dh  eh  m  <eps>
-YKWK%arctic_b0068 hyp  ow  n  l  iy   d  ax  ch  ae  n  s  s  aw  n  d  hh  ae  d    ax   l  ae  d  ih  m  t  uw  ax  b  jh  er  v   d  eh  m    sp 
-YKWK%arctic_b0068 op    C  C  C   C   S   C   C   C  C  C  C   C  C  C   C   C  C    I    C   S  C   C  C  C   C   C  C   S   C  C   S   C  C    I  
-YKWK%arctic_b0068 #csid 28 4 2 0
+YKWK%arctic_b0068 ref  ow  n  l  iy  dh  ax  ch  ae  n  s  s  aw  n  d  hh  ae  d  <eps>  l  eh  d  <eps>  ih  m  t  uw  ax  b   z  er  v  dh  eh  m  <eps>
+YKWK%arctic_b0068 hyp  ow  n  l  iy   d  ax  ch  ae  n  s  s  aw  n  d  hh  ae  d    ax   l  ae  d    hh   ih  m  t  uw  ax  b  jh  er  v   d  eh  m    sp 
+YKWK%arctic_b0068 op    C  C  C   C   S   C   C   C  C  C  C   C  C  C   C   C  C    I    C   S  C    I     C  C  C   C   C  C   S   C  C   S   C  C    I  
+YKWK%arctic_b0068 #csid 28 4 3 0
 YKWK%arctic_a0077 ref  ih  t  ih  z  dh  ax  f  ay  er  p  aa    r    t  l  iy  zh  iy  s  eh  d
 YKWK%arctic_a0077 hyp  ih  t  ih  z   d  ax  f  ay  er  p  aa  <eps>  t  l  iy  zh  iy  s  eh  d
 YKWK%arctic_a0077 op    C  C   C  C   S   C  C   C   C  C   C    D    C  C   C   C   C  C   C  C
@@ -1791,9 +1791,9 @@ YKWK%arctic_a0145 hyp  ay  hh  ae  <eps>  t  ax  b  iy  k  eh  <eps>  f  ax  l  
 YKWK%arctic_a0145 op    C   C   C    D    C   S  C   C  C   C    D    C   C  C   C  C    I     S   S  C    I     C  C   S   C  C   C  C    I    C   C  C   C   C  S   C  C   C    I  
 YKWK%arctic_a0145 #csid 28 5 4 2
 YKWK%arctic_a0023 ref  ax  k  aa  m  b  ax  n  ey  zh  ax  n  ax  v  k  ax  n  ey  d  iy  ax  n  k  ae  p  ax  t  ax  l  k  w  ih  k  <eps>  l  iy  aa    r    g  ax  n  ay  z  d  ae  n  d  p  ax  t  ih  zh  ax  n  d  f  aa    r    dh  ax  s  ey  m  p  r  ih  v  <eps>  l  ih  jh  ih  z
-YKWK%arctic_a0023 hyp  ax  k  aa  m  b  ax  n  ey  zh  ax  n  ax  v  k  ax  n  ey  d  iy  ax  n  k  ae  p  ax  t  ax  l  k  w  ih  k    ax   l  iy  aa  <eps>  g  ax  n  ay  z  d  ae  n  d  p  ih  t  ih  zh  ax  n  d  f  aa  <eps>   d  ax  s  ey  m  p  r  ih  v    ax   l  ih   z  ih  s
-YKWK%arctic_a0023 op    C  C   C  C  C   C  C   C   C   C  C   C  C  C   C  C   C  C   C   C  C  C   C  C   C  C   C  C  C  C   C  C    I    C   C   C    D    C   C  C   C  C  C   C  C  C  C   S  C   C   C   C  C  C  C   C    D     S   C  C   C  C  C  C   C  C    I    C   C   S   C  S
-YKWK%arctic_a0023 #csid 64 4 2 2
+YKWK%arctic_a0023 hyp  ax  k  aa  m  b  ax  n  ey  zh  ax  n  ax  v  k  ax  n  ey  d  iy  ax  n  k  ae  p  ax  t  ax  l  k  w  ih  k    ax   l  iy  aa  <eps>  g  ax  n  ay  z  d  ax  n  d  p  ih  t  ih  zh  ax  n  d  f  aa  <eps>   d  ax  s  ey  m  p  r  ih  v    ax   l  ih   z  ih  s
+YKWK%arctic_a0023 op    C  C   C  C  C   C  C   C   C   C  C   C  C  C   C  C   C  C   C   C  C  C   C  C   C  C   C  C  C  C   C  C    I    C   C   C    D    C   C  C   C  C  C   S  C  C  C   S  C   C   C   C  C  C  C   C    D     S   C  C   C  C  C  C   C  C    I    C   C   S   C  S
+YKWK%arctic_a0023 #csid 63 5 2 2
 YKWK%arctic_a0085 ref  ax  t  r  ih  k  ax  l  ax  v  f  r  eh  zh  b  l  ax  d  r  ae  n  ow  v    er   hh  ih  z  f  ey  s
 YKWK%arctic_a0085 hyp  ax  t  r  ih  k  ax  l  ax  v  f  r  eh  zh  b  l  ax  d  r  ae  n  ow  v  <eps>  hh  ih  z  f  ey  s
 YKWK%arctic_a0085 op    C  C  C   C  C   C  C   C  C  C  C   C   C  C  C   C  C  C   C  C   C  C    D     C   C  C  C   C  C
@@ -1875,9 +1875,9 @@ ZHAA%arctic_a0024 hyp  ih  t  w  aa  s  m  ay  r  ih  <eps>   b  er  t  s  f  r 
 ZHAA%arctic_a0024 op    C  C  C   C  S  C   C  C   C    D     S   S  C  C  C  C   C  C   S   C  C   C  C   C    I     C  C   C   C    I     C   C  C  C   C    I     C  C  C   C  C  C    I    C   C  C   C  C  C   C  C   C    I  
 ZHAA%arctic_a0024 #csid 43 4 5 1
 ZHAA%arctic_a0020 ref  k  l  ax  b  z  ae  n  d  b  aa  l  z  ae  n  d  s  ih  t  iy  <eps>   z  g  r  uw  t  ax  b  iy  <eps>  ow  n  l  iy  <eps>  m  eh  m  er  iy   z
-ZHAA%arctic_a0020 hyp  k  l  ax  b  s  ae  n  d  b  ow  l  s  ae  n  d  s  ih  t  iy    s    sp  g  r  uw  t  uw  b  iy    sp   ow  n  l  iy    sp   m  ax  m  er   s  sp
-ZHAA%arctic_a0020 op   C  C   C  C  S   C  C  C  C   S  C  S   C  C  C  C   C  C   C    I     S  C  C   C  C   S  C   C    I     C  C  C   C    I    C   S  C   C   S   S
-ZHAA%arctic_a0020 #csid 29 8 3 0
+ZHAA%arctic_a0020 hyp  k  l  ax  b  s  ae  n  d  b  ow  l  s  ae  n  d  s  ih  t  iy    s    sp  g  r  uw  t  ax  b  iy    sp   ow  n  l  iy    sp   m  ax  m  er   s  sp
+ZHAA%arctic_a0020 op   C  C   C  C  S   C  C  C  C   S  C  S   C  C  C  C   C  C   C    I     S  C  C   C  C   C  C   C    I     C  C  C   C    I    C   S  C   C   S   S
+ZHAA%arctic_a0020 #csid 30 7 3 0
 ZHAA%arctic_a0028 ref  r  aa  b  er  iy  <eps>  b  r  ay  b  er  iy  <eps>  f  r  <eps>  aa  d  <eps>
 ZHAA%arctic_a0028 hyp  r  aa  b  er  iy    sp   b  r  ay  b  er  iy    sp   f  r    ow    t  d    sp 
 ZHAA%arctic_a0028 op   C   C  C   C   C    I    C  C   C  C   C   C    I    C  C    I     S  C    I  
@@ -1890,10 +1890,10 @@ ZHAA%arctic_b0452 ref  dh  ey  s  aa  iy  ch  ax  dh  er  f   r  er  dh  ax  f  
 ZHAA%arctic_b0452 hyp   d  ey  s  ow  iy  ch  ax   d  er  f  aa   r  dh  ax  f  er  s  <eps>  t  ay  m  ih  n  b  aa  s  t  ax  n    sp 
 ZHAA%arctic_b0452 op    S   C  C   S   C   C   C   S   C  C   S   S   C   C  C   C  C    D    C   C  C   C  C  C   C  C  C   C  C    I  
 ZHAA%arctic_b0452 #csid 23 5 1 1
-ZHAA%arctic_b0495 ref  w  iy  <eps>  hh  uw  hh  ae  v  ih  n  d  uh  r    d    s  ow  m  ax  ch  zh  uh  r  l  iy  <eps>  k  ae  n  ih  n  d  uh  r  <eps>  ax  l  ih  t  ax    l    m  aa  r  <eps>
-ZHAA%arctic_b0495 hyp  w  iy    sp   hh  uw  hh  ae  v  ih  n  d  uh  r  <eps>  s  ow  m  ax  ch  zh  uh  r  l  iy    sp   k  ae  n  ih  n  d  uh  r    sp   ax  l  ih  d  ax  <eps>  m  aa  r    sp 
-ZHAA%arctic_b0495 op   C   C    I     C   C   C   C  C   C  C  C   C  C    D    C   C  C   C   C   C   C  C  C   C    I    C   C  C   C  C  C   C  C    I     C  C   C  S   C    D    C   C  C    I  
-ZHAA%arctic_b0495 #csid 37 1 4 2
+ZHAA%arctic_b0495 ref  w  iy  <eps>  hh  uw  hh  ae  v  ih  n  d  uh  r    d    s  ow  m  ax  ch  zh  uh  r  l  iy  <eps>  k  ae  n  ih  n  d  uh  r  ax  l  ih  t  ax    l    m  aa  r  <eps>
+ZHAA%arctic_b0495 hyp  w  iy    sp   hh  uw  hh  ae  v  ih  n  d  uh  r  <eps>  s  ow  m  ax  ch  zh  uh  r  l  iy    sp   k  ae  n  ih  n  d  uh  r  ax  l  ih  d  ax  <eps>  m  aa  r    sp 
+ZHAA%arctic_b0495 op   C   C    I     C   C   C   C  C   C  C  C   C  C    D    C   C  C   C   C   C   C  C  C   C    I    C   C  C   C  C  C   C  C   C  C   C  S   C    D    C   C  C    I  
+ZHAA%arctic_b0495 #csid 37 1 3 2
 ZHAA%arctic_a0011 ref  ih  f  ay  eh  v  er  n  iy  d  ih  d  ax  f  ay  t  er  ih  n  m  ay  l  ay  f  <eps>  ay  n  iy  d  w  ax  n  n  aw  <eps>
 ZHAA%arctic_a0011 hyp  ih  f  ay  eh  v  er  n  iy  d  ih  d  ax  f  ay  t  er  ih  n  m  ay  l  ay  f    sp   ay  n  iy  d  w  ax  n  n  aw    sp 
 ZHAA%arctic_a0011 op    C  C   C   C  C   C  C   C  C   C  C   C  C   C  C   C   C  C  C   C  C   C  C    I     C  C   C  C  C   C  C  C   C    I  
@@ -1971,9 +1971,9 @@ ZHAA%arctic_a0019 hyp  ay  f  aa  l  ow  d   d  ax  l  ay  n  ax  v   d  ax  p  
 ZHAA%arctic_a0019 op    C  C   C  C   C  C   S   C  C   C  C   C  C   S   C  C  C   C  C   C  S  C    I      I    C   C  C  C   C  C    I    C   C  C   C   C  C   C  C   C   C  C  C   C    I     S
 ZHAA%arctic_a0019 #csid 38 4 4 0
 ZHAA%arctic_a0047 ref  k  l  ow  s  b  iy  s  ay  d  hh    ih   m  g  l  iy  m  d  dh  ax  w  ay  t  f  ae  ng  z  ax  v  dh  ax  w  uh  l  f  <eps>  d  <eps>  aa   g
-ZHAA%arctic_a0047 hyp  k  l  ow  s  b  iy  s  ay  d  hh  <eps>  m  g  l  iy  n  d   d  ax  w  ay  t  f  ae  ng  s  ax  v   d  ax  w  uh  l  f    sp   d    ax    k  sp
-ZHAA%arctic_a0047 op   C  C   C  C  C   C  C   C  C   C    D    C  C  C   C  S  C   S   C  C   C  C  C   C   C  S   C  C   S   C  C   C  C  C    I    C    I     S   S
-ZHAA%arctic_a0047 #csid 30 6 2 1
+ZHAA%arctic_a0047 hyp  k  l  ow  s  b  iy  s  ay  d  hh  <eps>  m  k  l  iy  n  d   d  ax  w  ay  t  f  ae  ng  s  ax  v   d  ax  w  uh  l  f    sp   d    ax    k  sp
+ZHAA%arctic_a0047 op   C  C   C  C  C   C  C   C  C   C    D    C  S  C   C  S  C   S   C  C   C  C  C   C   C  S   C  C   S   C  C   C  C  C    I    C    I     S   S
+ZHAA%arctic_a0047 #csid 29 7 2 1
 ZHAA%arctic_b0310 ref  ax  l  ih    t    ax  l  t  r  iy  t  m  ax  n  t  <eps>  m  ax  s  aa  <eps>  zh  w  ih  th  s  ax  m  hh  eh  l  p  f  r  ax  m  dh  ax  d  aa  k  t  er  <eps>
 ZHAA%arctic_b0310 hyp  ax  l  ih  <eps>  ax  l  t  r  iy  t  m  ax  n  t    sp   m  ax  s  aa    ch   sp  w  ih   t  s  ax  m  hh  eh  l  p  f  r  ax  m   d  ax  d  aa  k  t  er    sp 
 ZHAA%arctic_b0310 op    C  C   C    D     C  C  C  C   C  C  C   C  C  C    I    C   C  C   C    I     S  C   C   S  C   C  C   C   C  C  C  C  C   C  C   S   C  C   C  C  C   C    I  
@@ -1991,9 +1991,9 @@ ZHAA%arctic_a0063 hyp  y  eh  s  ih  t  w  ax  z  ax  m  ae  n  hh  uw    sp   a
 ZHAA%arctic_a0063 op   C   C  C   C  C  C   C  C   C  C   C  C   C   C    I     C  C  C    I     C  C  C  C   C  C   C   C    I  
 ZHAA%arctic_a0063 #csid 25 0 3 0
 ZHAA%arctic_a0529 ref  ae  z  ay  s  ey  <eps>  hh  iy  hh  ae  d  t  ae  p    t    dh  ax  m  eh  s  ih  jh  <eps>  v  eh  r  iy  r  ae  p  ax  d  l  iy  <eps>
-ZHAA%arctic_a0529 hyp  ae  z  ay  s  ey    sp   hh  iy  hh  ae  d  t  ae  p  <eps>  dh  ax  m  ae  s  ih  jh    sp   v  eh  r  iy  r  ae  p  ax  d  l  iy    sp 
-ZHAA%arctic_a0529 op    C  C   C  C   C    I     C   C   C   C  C  C   C  C    D     C   C  C   S  C   C   C    I    C   C  C   C  C   C  C   C  C  C   C    I  
-ZHAA%arctic_a0529 #csid 30 1 3 1
+ZHAA%arctic_a0529 hyp  ae  z  ay  s  ey    sp   hh  iy  hh  ae  t  t  ae  p  <eps>  dh  ax  m  ae  s  ih  jh    sp   v  eh  r  iy  r  ae  p  ax  d  l  iy    sp 
+ZHAA%arctic_a0529 op    C  C   C  C   C    I     C   C   C   C  S  C   C  C    D     C   C  C   S  C   C   C    I    C   C  C   C  C   C  C   C  C  C   C    I  
+ZHAA%arctic_a0529 #csid 29 2 3 1
 ZHAA%arctic_a0128 ref  dh  ih  s  w  ax  n  hh  ow  p  <eps>  w  ax  z  d  ih  s  t  r  oy  d  ae  z  k  w  ih  k  l  iy  ae  z  <eps>  ih  t  w  aa  z  b  aa  r   n
 ZHAA%arctic_a0128 hyp   d  ih  s  w  ax  n  hh  ow  p    sp   w  ax  z  d  ih  s  t  r  oy  d  ae  z  k  w  ih  k  l  iy  ae  z    sp   ih  t  w  aa  z  b  aa  n  sp
 ZHAA%arctic_a0128 op    S   C  C  C   C  C   C   C  C    I    C   C  C  C   C  C  C  C   C  C   C  C  C  C   C  C  C   C   C  C    I     C  C  C   C  C  C   C  S   S
@@ -2042,10 +2042,10 @@ ZHAA%arctic_b0428 ref  dh  ax  hh  ih  s  t  r  iy  ax  v  <eps>  aw  r  w  eh  
 ZHAA%arctic_b0428 hyp   d  ax  hh  ih  s  t  r  iy  ax  v    sp   aw  r  w  ih  s  t  w  er  d  f  eh  r  ih  ng    g    r  ey  s  ih  z  r  ih  t  ax  n  ih  n  eh  t    sp 
 ZHAA%arctic_b0428 op    S   C   C   C  C  C  C   C   C  C    I     C  C  C   S  C  C  C   C  C  C   C  C   S   C    I    C   C  C   C  C  C   C  C   C  C   C  C   S  C    I  
 ZHAA%arctic_b0428 #csid 34 4 3 0
-ZHAA%arctic_b0494 ref  n  eh  v  er  s  ow  s  t  r  ey  n  jh  ax  p  r  aa  f  ax  t  k  ey  m  ax  p  <eps>  t  ih  jh  er  uw  s    ax   l  ax  m  <eps>
-ZHAA%arctic_b0494 hyp  n  eh  v  er  s  ow  s  t  r  ey  n  jh  ax  p  r  aa  f  ax  t  k  ey  m  ax  p    sp   t  uw  jh  aa   r  s  <eps>  l  ax  m    sp 
-ZHAA%arctic_b0494 op   C   C  C   C  C   C  C  C  C   C  C   C   C  C  C   C  C   C  C  C   C  C   C  C    I    C   S   C   S   S  C    D    C   C  C    I  
-ZHAA%arctic_b0494 #csid 30 3 2 1
+ZHAA%arctic_b0494 ref  n  eh  v  er  s  ow  s  t  r  ey  n  jh  ax  p  r  aa  f  ax  t  k  ey  m  ax  p  <eps>  t  ih  jh    er   uw  s    ax   l  ax  m  <eps>
+ZHAA%arctic_b0494 hyp  n  eh  v  er  s  ow  s  t  r  ey  n  jh  ax  p  r  aa  f  ax  t  k  ey  m  ax  p    sp   t  uw  jh  <eps>  aa  s  <eps>  l  ax  m    sp 
+ZHAA%arctic_b0494 op   C   C  C   C  C   C  C  C  C   C  C   C   C  C  C   C  C   C  C  C   C  C   C  C    I    C   S   C    D     S  C    D    C   C  C    I  
+ZHAA%arctic_b0494 #csid 30 2 2 2
 ZHAA%arctic_a0102 ref  hh  iy  w  ih  l  f  aa  l  ow  ax  s  s  uw  n  <eps>
 ZHAA%arctic_a0102 hyp  hh  iy  w  ih  l  f  aa  l  ow  ax  s  s  uw  n    sp 
 ZHAA%arctic_a0102 op    C   C  C   C  C  C   C  C   C   C  C  C   C  C    I  
@@ -2070,10 +2070,10 @@ ZHAA%arctic_a0060 ref  eh  n  iy  w  ey  <eps>  n  ow  w  ax  n  s  aa  hh  <eps
 ZHAA%arctic_a0060 hyp  eh  n  iy  w  ey    sp   n  ow  w  ax  n  s  aa  hh    eh   er  l  ay  k    sp    d  ae  t    sp     sp 
 ZHAA%arctic_a0060 op    C  C   C  C   C    I    C   C  C   C  C  C   C   C    I     C  C   C  C    I     S   C  C    I      I  
 ZHAA%arctic_a0060 #csid 19 1 5 0
-ZHAA%arctic_a0131 ref  p  r  aa  v  ax  d  ax  n  s  hh  ae  d  d  ih  l  ih  v  er  d  hh  ih  m  th  r  uw  dh  ax  m  ey  l  s  t  r  ax  m  <eps>
-ZHAA%arctic_a0131 hyp  p  r  aa  v  ax  d  ax  n  s  hh  ae  z  d  ih  l  ih  v  er  d  hh  ih  m  th  r  uw   d  ax  m  ey  l  s  t  r  ax  m    sp 
-ZHAA%arctic_a0131 op   C  C   C  C   C  C   C  C  C   C   C  S  C   C  C   C  C   C  C   C   C  C   C  C   C   S   C  C   C  C  C  C  C   C  C    I  
-ZHAA%arctic_a0131 #csid 33 2 1 0
+ZHAA%arctic_a0131 ref  p  r  aa  v  ax  d  ax  n  s  hh  ae  d  d  ih  l  ih  v  er  d  hh  ih  m  th  r  uw    dh   ax  m  ey  l  s  t  r  ax  m  <eps>
+ZHAA%arctic_a0131 hyp  p  r  aa  v  ax  d  ax  n  s  hh  ae  z  d  ih  l  ih  v  er  d  hh  ih  m  th  r  uw  <eps>  ax  m  ey  l  s  t  r  ax  m    sp 
+ZHAA%arctic_a0131 op   C  C   C  C   C  C   C  C  C   C   C  S  C   C  C   C  C   C  C   C   C  C   C  C   C    D     C  C   C  C  C  C  C   C  C    I  
+ZHAA%arctic_a0131 #csid 33 1 1 1
 ZHAA%arctic_a0109 ref  d  uw  y  uw  n  ow  dh  ae  t  y  uw  aa  r  zh  ey  k  ih  ng  m  ay  k  aa  n  f  ax  d  ax  n  s  ih  n  y  uw  <eps>
 ZHAA%arctic_a0109 hyp  d  uw  y  uw  n  ow   d  ae  t  y  uw  aa  r  zh  ey  k  ih   n  m  ay  k  aa  n  f  ax  d  ax  n  s  ih  n  y  uw    sp 
 ZHAA%arctic_a0109 op   C   C  C   C  C   C   S   C  C  C   C   C  C   C   C  C   C   S  C   C  C   C  C  C   C  C   C  C  C   C  C  C   C    I  
@@ -2150,10 +2150,10 @@ ZHAA%arctic_a0067 ref  zh  uh    r    l  iy  ay  w  ax  l  ih  k  s  <eps>  k  y
 ZHAA%arctic_a0067 hyp  zh  uh  <eps>  l  iy  ay  w  ax  l  ih  k  s    ax   k  y  uw  z  y  uw    sp   zh  iy  k  r  ay  d    sp 
 ZHAA%arctic_a0067 op    C   C    D    C   C   C  C   C  C   C  C  C    I    C  C   C  C  C   C    I     C   C  C  C   C  C    I  
 ZHAA%arctic_a0067 #csid 23 0 3 1
-ZHAA%arctic_a0139 ref  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f  dh  ae  t  ae  z  hh  iy  w  aa  zh  t  hh  ih  m  s  eh  l  f  ae  n  d  g  r  uw  m  d  hh  ih  z  d  ih  zh  eh  v  ax  l  d  k  l  ow  <eps>  <eps>   z
-ZHAA%arctic_a0139 hyp  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f   d  ae  t  ae  z  hh  iy  w  aa  zh  t  hh  ih  m  s  eh  l  f  ae  n  d  g  r  uw  m  d  hh  ih  z  d  ih  zh  ax  f  ax  l  d  k  l  ow    th     s    sp
-ZHAA%arctic_a0139 op    C   C  C   C  C  C   C   C  C  C   C  C  C   S   C  C   C  C   C   C  C   C   C  C   C   C  C  C   C  C  C   C  C  C  C  C   C  C  C   C   C  C  C   C   C   S  S   C  C  C  C  C   C    I      I     S
-ZHAA%arctic_a0139 #csid 50 4 2 0
+ZHAA%arctic_a0139 ref  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f  dh  ae  t  ae  z  hh  iy  w  aa  zh  t    hh   ih  m  s  eh  l  f  ae  n  d  g  r  uw  m  d  hh  ih  z  d  ih  zh  eh  v  ax  l  d  k  l  ow  <eps>  <eps>   z
+ZHAA%arctic_a0139 hyp  hh  iy  t  ow  l  d  hh  ih  m  s  eh  l  f   d  ae  t  ae  z  hh  iy  w  aa  zh  t  <eps>  ih  m  s  eh  l  f  ae  n  d  g  r  uw  m  d  hh  ih  z  d  ih  zh  ax  f  ax  l  d  k  l  ow    th     s    sp
+ZHAA%arctic_a0139 op    C   C  C   C  C  C   C   C  C  C   C  C  C   S   C  C   C  C   C   C  C   C   C  C    D     C  C  C   C  C  C   C  C  C  C  C   C  C  C   C   C  C  C   C   C   S  S   C  C  C  C  C   C    I      I     S
+ZHAA%arctic_a0139 #csid 49 4 2 1
 ZHAA%arctic_b0307 ref  w  iy  g  aa  t  f  y  uw  v  eh  jh  t  ax  b  ax  l  z  ae  n  d  f  r  uw  t  s  <eps>  ae  n    d    b  iy  k  ey  m  f  ih  zh  <eps>  iy  t  er  <eps>   z
 ZHAA%arctic_b0307 hyp  w  iy  g  aa  t  f  y  uw  v  eh  zh  t  ax  b  ax  l  s  ae  n  d  f  r  uw  t  s    sp   ae  n  <eps>  b  iy  k  ey  m  f  ih  zh    sp   iy  t  er    s    sp
 ZHAA%arctic_b0307 op   C   C  C   C  C  C  C   C  C   C   S  C   C  C   C  C  S   C  C  C  C  C   C  C  C    I     C  C    D    C   C  C   C  C  C   C   C    I     C  C   C    I     S
@@ -2162,10 +2162,10 @@ ZHAA%arctic_a0096 ref  p  er  hh  ae  p  s  zh  iy  hh  ae  d  <eps>  aa  <eps> 
 ZHAA%arctic_a0096 hyp  p  er  hh  ae  p  s  zh  iy  hh  ae  d    sp   aa    l    r  eh  d  iy  m    ih    t  t  hh  er  f  ey  t    sp   ax  l  ih  t  ax  l  d  iy  p  er    sp   ih  n   d  ax  f  aa  r  ax  s  t    sp 
 ZHAA%arctic_a0096 op   C   C   C   C  C  C   C   C   C   C  C    I     C    I    C   C  C   C  C    I     S  C   C   C  C   C  C    I     C  C   C  C   C  C  C   C  C   C    I     C  C   S   C  C   C  C   S  C  C    I  
 ZHAA%arctic_a0096 #csid 41 3 6 0
-ZHAA%arctic_a0100 ref  y  uw  m  ax  s  t  <eps>  s  l  iy  p  hh  iy  er  <eps>  jh   d
-ZHAA%arctic_a0100 hyp  y  uw  m  ax  s  t    ax   s  l  iy  p  hh  iy  er    ch    t  sp
-ZHAA%arctic_a0100 op   C   C  C   C  C  C    I    C  C   C  C   C   C   C    I     S   S
-ZHAA%arctic_a0100 #csid 13 2 2 0
+ZHAA%arctic_a0100 ref  y  uw  m  ax  s  t  <eps>  s  l  iy  p  hh  iy  er  jh  d  <eps>
+ZHAA%arctic_a0100 hyp  y  uw  m  ax  s  t    ax   s  l  iy  p  hh  iy  er  ch  d    sp 
+ZHAA%arctic_a0100 op   C   C  C   C  C  C    I    C  C   C  C   C   C   C   S  C    I  
+ZHAA%arctic_a0100 #csid 14 1 2 0
 ZHAA%arctic_a0120 ref  m  ay  r  ay  t  f  uh  t  <eps>  f  iy  l  z  l  ay  k  dh  ae  t  ax  v  ax  ch  ay  n  iy  z  d  eh  b   y  ax  t  aa  n  t  <eps>
 ZHAA%arctic_a0120 hyp  m  ay  r  ay  t  f  uh  t    sp   f  iy  l  z  l  ay  k  dh  ae  t  ax  v  ax  ch  ay  n  iy  z  d  iy  b  aa   n  t  aa  n  t    sp 
 ZHAA%arctic_a0120 op   C   C  C   C  C  C   C  C    I    C   C  C  C  C   C  C   C   C  C   C  C   C   C   C  C   C  C  C   S  C   S   S  C   C  C  C    I  
@@ -2187,9 +2187,9 @@ ZHAA%arctic_a0021 hyp  ih  t  f  eh  r  l  iy  k  l  ax  b  d  m  iy  ih  n  t  
 ZHAA%arctic_a0021 op    C  C  C   C  C  C   C  C  C   C  C  C  C   C   C  C  C   C  C   C    D      D    C  C   C  C   C   C    I     C  C    I  
 ZHAA%arctic_a0021 #csid 28 0 2 2
 ZHAA%arctic_a0088 ref  hh  iy  m  ey  d  zh  uh  r  dh  ae  t  <eps>  dh  iy  m  ae  g  ax  z  iy  n  w  aa  z  l  ow  d  ih  d  <eps>  ae  n  d  r  ih  z  <eps>  uw  m  d  hh  ih  z  p  ae  d  ax  l  ih  ng  <eps>  <eps>
-ZHAA%arctic_a0088 hyp  hh  iy  m  ey  d  zh  uh  r   d  ae  t    sp    d  iy  m  ax  g  ax  z  iy  n  w  aa  s  l  ow  d  ih  d    sp   ae  n  d  r  ih  z    y    uw  m  d  hh  ih  s  p  ax  d  ax  l  ih  ng    k      sp 
-ZHAA%arctic_a0088 op    C   C  C   C  C   C   C  C   S   C  C    I     S   C  C   S  C   C  C   C  C  C   C  S  C   C  C   C  C    I     C  C  C  C   C  C    I     C  C  C   C   C  S  C   S  C   C  C   C   C    I      I  
-ZHAA%arctic_a0088 #csid 41 6 5 0
+ZHAA%arctic_a0088 hyp  hh  iy  m  ey  d  zh  uh  r   d  ae  t    sp    d  iy  m  ax  g  ax  z  iy  n  w  aa  z  l  ow  d  ih  d    sp   ae  n  d  r  ih  z    y    uw  m  d  hh  ih  s  p  ax  d  ax  l  ih  ng    k      sp 
+ZHAA%arctic_a0088 op    C   C  C   C  C   C   C  C   S   C  C    I     S   C  C   S  C   C  C   C  C  C   C  C  C   C  C   C  C    I     C  C  C  C   C  C    I     C  C  C   C   C  S  C   S  C   C  C   C   C    I      I  
+ZHAA%arctic_a0088 #csid 42 5 5 0
 ZHAA%arctic_b0126 ref  b  l  ax  d  w  ax  z  <eps>  uw  z  ih  ng  <eps>  <eps>  s  l  ow  l  iy  f  r  ax  m  dh  iy  w  uw  n  d  ih  d  <eps>  m  ae  n    z    r  ay  <eps>  t  <eps>  b  r  eh  s  t  <eps>
 ZHAA%arctic_b0126 hyp  b  l  ax  d  w  ax  z    sp   uw  z  ih  ng    k      sp   s  l  ow  l  iy  f  r  ax  m   d  iy  w  aa  n  t  ih  d    sp   m  ae  n  <eps>  r  ay    t    t    sp   b  r  eh  s  t    sp 
 ZHAA%arctic_b0126 op   C  C   C  C  C   C  C    I     C  C   C   C    I      I    C  C   C  C   C  C  C   C  C   S   C  C   S  C  S   C  C    I    C   C  C    D    C   C    I    C    I    C  C   C  C  C    I  
@@ -2206,10 +2206,10 @@ ZHAA%arctic_a0010 ref  ay  m  p  l  ey  ih  ng  <eps>  ey  s  ih  ng  g  ax  l  
 ZHAA%arctic_a0010 hyp  aa  m  p  l  ey  ih  ng    g    ax  s  ih  ng  g  ax  l  hh  ae  n  d    sp   ih  n  w  ax  t  l  uh  k  s  l  ay  k    sp   ax  l  uw  z  ih  ng  g  ey  m    sp 
 ZHAA%arctic_a0010 op    S  C  C  C   C   C   C    I     S  C   C   C  C   C  C   C   C  C  C    I     C  C  C   C  C  C   C  C  C  C   C  C    I     C  C   C  C   C   C  C   C  C    I  
 ZHAA%arctic_a0010 #csid 37 2 4 0
-ZHAA%arctic_b0340 ref  dh  iy    z    k  w  ih  k  l  ih  t  ax  l  jh  oy  z  ax  v  hh  er  z  w  er  s  aa    r    s  ax  z  ax  v  jh  oy  t  ih  hh  ih  m
-ZHAA%arctic_b0340 hyp  dh  iy  <eps>  k  w  ih  k  l  ih  t  ax  l  jh  oy  z  ax  v  hh  er  s  w  er  s  aa  <eps>  s  ih  z  ax  v  jh  oy  t  ax  hh  ih  m
-ZHAA%arctic_b0340 op    C   C    D    C  C   C  C  C   C  C   C  C   C   C  C   C  C   C   C  S  C   C  C   C    D    C   S  C   C  C   C   C  C   S   C   C  C
-ZHAA%arctic_b0340 #csid 32 3 0 2
+ZHAA%arctic_b0340 ref  dh  iy    z    k  w  ih  k  l  ih  t    ax   l  jh  oy  z  ax  v  hh  er  z  w  er  s  aa    r    s  ax  z  ax  v  jh  oy  t  ih  hh  ih  m
+ZHAA%arctic_b0340 hyp  dh  iy  <eps>  k  w  ih  k  l  ih  t  <eps>  l  jh  oy  z  ax  v  hh  er  s  w  er  s  aa  <eps>  s  ih  z  ax  v  jh  oy  t  ax  hh  ih  m
+ZHAA%arctic_b0340 op    C   C    D    C  C   C  C  C   C  C    D    C   C   C  C   C  C   C   C  S  C   C  C   C    D    C   S  C   C  C   C   C  C   S   C   C  C
+ZHAA%arctic_b0340 #csid 31 3 0 3
 ZHAA%arctic_a0042 ref  hh  aw  k  uh  d  hh  iy  ih  k  s  <eps>  p  l  ey  n  hh  ih  z  p  ax  z  eh  zh  ax  n  <eps>  ax  v  dh  ax  s  k  eh  ch  <eps>
 ZHAA%arctic_a0042 hyp  hh  aw  k  uh  d  hh  iy  ih  k  s    ax   p  l  ey  n  hh  ih  z  p  ax  z  ih  zh  ax  n    sp   ax  v  dh  ax  s  k  eh  ch    sp 
 ZHAA%arctic_a0042 op    C   C  C   C  C   C   C   C  C  C    I    C  C   C  C   C   C  C  C   C  C   S   C   C  C    I     C  C   C   C  C  C   C   C    I  
@@ -2274,10 +2274,10 @@ ZHAA%arctic_a0048 ref  hh  iy  l  uh  k  t  ae  t  dh  iy  hh  ae  ng  k  er  ch
 ZHAA%arctic_a0048 hyp  hh  iy  l  uh  k  t  ae  t   d  iy  hh  ae  ng  k  er  ch  iy  f    sp   m  aa  r  k  l  ow  s  l  iy    sp 
 ZHAA%arctic_a0048 op    C   C  C   C  C  C   C  C   S   C   C   C   C  C   C   C   C  C    I    C   C  C  C  C   C  C  C   C    I  
 ZHAA%arctic_a0048 #csid 26 1 2 0
-ZHAA%arctic_a0121 ref  dh  ey  ey  t  d  ih  n  er  ae  t  dh  ax  f  ih  f  th  <eps>  ae  n  d  r  eh  s  t  ax  d  f  aa  r  t  uw  aw  er  <eps>   z
-ZHAA%arctic_a0121 hyp   d  ey  ey  t  d  ih  n  er  ae  t   d  ax  f  ih  f  th    sp   ae  n  d  r  eh  s  t  ax  d  f  aa  r  t  uw  aw  er    s    sp
-ZHAA%arctic_a0121 op    S   C   C  C  C   C  C   C   C  C   S   C  C   C  C   C    I     C  C  C  C   C  C  C   C  C  C   C  C  C   C   C   C    I     S
-ZHAA%arctic_a0121 #csid 30 3 2 0
+ZHAA%arctic_a0121 ref  dh  ey  ey  t  d  ih  n  er  ae  t  dh  ax  f  ih  f  th  <eps>  ae  n  d  r  eh  s  t  ax  d  f  aa    r    t  uw  aw  er  <eps>   z
+ZHAA%arctic_a0121 hyp   d  ey  ey  t  d  ih  n  er  ae  t   d  ax  f  ih  f  th    sp   ae  n  d  r  eh  s  t  ax  d  f  aa  <eps>  t  uw  aw  er    s    sp
+ZHAA%arctic_a0121 op    S   C   C  C  C   C  C   C   C  C   S   C  C   C  C   C    I     C  C  C  C   C  C  C   C  C  C   C    D    C   C   C   C    I     S
+ZHAA%arctic_a0121 #csid 29 3 2 1
 ZHAA%arctic_b0432 ref  hh  iy    ih   z  ey  k  ae  n  d  ax  d  ey  t  <eps>  r  ay  z  ih  ng  f  r  ax  m  dh  iy  s  er  f  <eps>  k  l  ae  s  t  uw  aa  r  k  l  ae  s  <eps>
 ZHAA%arctic_b0432 hyp  hh  iy  <eps>  z  ey  k  ae  n  d  ax  d  ih  t    sp   r  ay  z  ih  ng  f  r  ax  m   d  ih  s  er  f    sp   k  l  ae  s  t  uw  aa  r  k  l  ae  s    sp 
 ZHAA%arctic_b0432 op    C   C    D    C   C  C   C  C  C   C  C   S  C    I    C   C  C   C   C  C  C   C  C   S   S  C   C  C    I    C  C   C  C  C   C   C  C  C  C   C  C    I  
@@ -2342,10 +2342,10 @@ ZHAA%arctic_b0146 ref  ae  f  t  er  aa  l  ih  t  w    ax    z  s  ih  m  p  l 
 ZHAA%arctic_b0146 hyp  ae  f  t  er  aa  l  ih  t  w  <eps>  aa  s  ih  m  p  l  iy  ey  m  ih  s  t  ey  k  ih  n  jh  ax  jh  m  ax  n  t    sp 
 ZHAA%arctic_b0146 op    C  C  C   C   C  C   C  C  C    D     S  C   C  C  C  C   C   C  C   C  C  C   C  C   C  C   C   C   C  C   C  C  C    I  
 ZHAA%arctic_b0146 #csid 31 1 1 1
-ZHAA%arctic_a0097 ref  dh  eh  n  <eps>  y  uw  k  ae  n  er  <eps>  ey  n  jh  y  er  s  eh  l  f  <eps>  k  ax  m  f  er  t  ax  b  l  iy  <eps>  ax  m  ax  ng  dh  iy  z  r  ow  b  z  ih  n  dh  ax  b  ow  <eps>
-ZHAA%arctic_a0097 hyp   d  eh  n    sp   y  uw  k  ae  n  er    r    ey  n  ch  y  er  s  eh  l  f    sp   k  ax  m  f  er  t  ax  b  l  iy    sp   ax  m  ax  ng   d  iy  s  r  ow  b  s  ih  n   d  ax  b  ow    sp 
-ZHAA%arctic_a0097 op    S   C  C    I    C   C  C   C  C   C    I     C  C   S  C   C  C   C  C  C    I    C   C  C  C   C  C   C  C  C   C    I     C  C   C   C   S   C  S  C   C  C  S   C  C   S   C  C   C    I  
-ZHAA%arctic_a0097 #csid 39 6 5 0
+ZHAA%arctic_a0097 ref  dh  eh  n  <eps>  y  uw  k  ae  n  er  <eps>  ey  n  jh  y  er  s  eh  l  f  k  ax  m  f  er  t  ax  b  l  iy  <eps>  ax  m  ax  ng  dh  iy  z  r  ow  b  z  ih  n  dh  ax  b  ow  <eps>
+ZHAA%arctic_a0097 hyp   d  eh  n    sp   y  uw  k  ae  n  er    r    ey  n  ch  y  er  s  eh  l  f  k  ax  m  f  er  t  ax  b  l  iy    sp   ax  m  ax  ng   d  iy  s  r  ow  b  s  ih  n   d  ax  b  ow    sp 
+ZHAA%arctic_a0097 op    S   C  C    I    C   C  C   C  C   C    I     C  C   S  C   C  C   C  C  C  C   C  C  C   C  C   C  C  C   C    I     C  C   C   C   S   C  S  C   C  C  S   C  C   S   C  C   C    I  
+ZHAA%arctic_a0097 #csid 39 6 4 0
 ZHAA%arctic_a0214 ref  b  iy  s  ay  d  z  <eps>  <eps>  hh  iy  w  ax  z  p  ey  d  <eps>  w  ax  n  k  ey  s  ax  v  t  ax  b  ae  k  ow  p  er  hh  eh  <eps>   d
 ZHAA%arctic_a0214 hyp  b  iy  s  ay  d  z    ax     sp   hh  iy  w  ax  s  p  ey  d    sp   w  ax  n  k  iy  s  ax  v  t  ax  b  ae  k  ow  p  er  hh  eh    t    sp
 ZHAA%arctic_a0214 op   C   C  C   C  C  C    I      I     C   C  C   C  S  C   C  C    I    C   C  C  C   S  C   C  C  C   C  C   C  C   C  C   C   C   C    I     S
@@ -2359,9 +2359,9 @@ ZHAA%arctic_b0492 hyp   d  ax  s  hh  iy  t  ax  n  <eps>  dh  ax  t  ax  n  ax 
 ZHAA%arctic_b0492 op    S   C  C   C   C  C   S  C    D     C   C  C   S  C   C  C  C   C  C  C   C   C  C  C   C  C   C  C  C   C  C   C  C   C   C   C  C   C  C   C    D    C   C    I  
 ZHAA%arctic_b0492 #csid 38 3 1 2
 ZHAA%arctic_a0071 ref  hh  w  ax  t  w  ax  z  dh  iy  aa  b  jh  eh  k  t  ax  v  y  uh    r    l  ih  t  ax    l    s  eh  n  s  ey  zh  ax  n  <eps>
-ZHAA%arctic_a0071 hyp  hh  w  ax  t  w  ax  z   d  iy  aa  b  jh  ih  k  t  ax  v  y  uh  <eps>  l  ih  t  ax  <eps>  s  eh  n  s  ey  zh  ax  n    sp 
-ZHAA%arctic_a0071 op    C  C   C  C  C   C  C   S   C   C  C   C   S  C  C   C  C  C   C    D    C   C  C   C    D    C   C  C  C   C   C   C  C    I  
-ZHAA%arctic_a0071 #csid 29 2 1 2
+ZHAA%arctic_a0071 hyp  hh  w  ax  t  w  ax  z  dh  iy  aa  b  jh  ih  k  t  ax  v  y  uh  <eps>  l  ih  t  ax  <eps>  s  eh  n  s  ey  zh  ax  n    sp 
+ZHAA%arctic_a0071 op    C  C   C  C  C   C  C   C   C   C  C   C   S  C  C   C  C  C   C    D    C   C  C   C    D    C   C  C  C   C   C   C  C    I  
+ZHAA%arctic_a0071 #csid 30 1 1 2
 ZHAA%arctic_a0007 ref  ae  n  d  y  uw  aa  l  w  iy  z  w  aa  n  t  t  ih  s  iy  ih  t  <eps>  ih  n  dh  iy  <eps>  s  uh  p  er  l  ax  t  ih  v  <eps>  d  ih  g  r  iy  <eps>
 ZHAA%arctic_a0007 hyp  ae  n  d  y  uw  aa  l  w  iy  z  w  aa  n  t  t  ih  s  iy  ih  t    sp   ih  n   d  iy    sp   s  uh  p  er  l  ax  t  ih  v    sp   d  ih  g  r  iy    sp 
 ZHAA%arctic_a0007 op    C  C  C  C   C   C  C  C   C  C  C   C  C  C  C   C  C   C   C  C    I     C  C   S   C    I    C   C  C   C  C   C  C   C  C    I    C   C  C  C   C    I  
@@ -2502,14 +2502,14 @@ TLV%arctic_a0078 ref  dh  eh  n  <eps>  ae  n   d  ae  t  s  ax  p  er  <eps>  h
 TLV%arctic_a0078 hyp   d  eh  n    sp   ae  n  sp  ae  t  s  ax  p  er    sp   hh  iy  t  r  ay  d  t  uw  f  ae   d  ax  m  hh  er    sp 
 TLV%arctic_a0078 op    S   C  C    I     C  C   S   C  C  C   C  C   C    I     C   C  C  C   C  C  C   C  C   C   S   C  C   C   C    I  
 TLV%arctic_a0078 #csid 24 3 3 0
-TLV%arctic_a0101 ref  y  uw  <eps>  y  uw  w  uh  d  <eps>  n  aa  t  k  iy  p  <eps>  dh  ax  <eps>  t  r  uw  th  f  r  ax  m  m  iy  <eps>
-TLV%arctic_a0101 hyp  y  uw    sp   y  uw  w  uh  d    sp   n  aa  t  k  iy  p    sp    d  ax    sp   t  r  uw  th  f  r  aa  m  m  iy    sp 
-TLV%arctic_a0101 op   C   C    I    C   C  C   C  C    I    C   C  C  C   C  C    I     S   C    I    C  C   C   C  C  C   S  C  C   C    I  
-TLV%arctic_a0101 #csid 23 2 5 0
-TLV%arctic_a0039 ref  dh  ax  zh  ih  p  zh  uh  d  b  iy  ih  n  w  ih  th  ih  n  ax  w  iy  k  aa   r  t  eh  n  d  ey  z
-TLV%arctic_a0039 hyp   d  ax  zh  iy  p  zh  uh  d  b  iy  ih  n  w  ih  th  ih  n  ax  w  iy  k  sp  aa  t  eh  n  d  ey  z
-TLV%arctic_a0039 op    S   C   C   S  C   C   C  C  C   C   C  C  C   C   C   C  C   C  C   C  C   S   S  C   C  C  C   C  C
-TLV%arctic_a0039 #csid 25 4 0 0
+TLV%arctic_a0101 ref  y  uw  <eps>  y  uw  w  uh  d  <eps>  n  aa  t  k  iy  p  <eps>  dh  ax  <eps>  t  r  uw  <eps>  th  f  r  ax  m  m  iy  <eps>
+TLV%arctic_a0101 hyp  y  uw    sp   y  uw  w  uh  d    sp   n  aa  t  k  iy  p    sp    d  ax    sp   t  r  uw    s    th  f  r  aa  m  m  iy    sp 
+TLV%arctic_a0101 op   C   C    I    C   C  C   C  C    I    C   C  C  C   C  C    I     S   C    I    C  C   C    I     C  C  C   S  C  C   C    I  
+TLV%arctic_a0101 #csid 23 2 6 0
+TLV%arctic_a0039 ref  dh  ax  zh  ih  p  <eps>  zh  uh  d  b  iy  ih  n  w  ih  th  ih  n  ax  w  iy  k  aa   r  t  eh  n  d  ey  z
+TLV%arctic_a0039 hyp   d  ax  zh  iy  p    sp   zh  uh  d  b  iy  ih  n  w  ih  th  ih  n  ax  w  iy  k  sp  aa  t  eh  n  d  ey  z
+TLV%arctic_a0039 op    S   C   C   S  C    I     C   C  C  C   C   C  C  C   C   C   C  C   C  C   C  C   S   S  C   C  C  C   C  C
+TLV%arctic_a0039 #csid 25 4 1 0
 TLV%arctic_a0041 ref  m  iy  n  w  ay   l  ay  l  g  ow  aw    t      t    ax  b  r  <eps>  iy  dh  ax  s  p  eh   l
 TLV%arctic_a0041 hyp  m  iy  n  w  ay  sp  aa  w  g  ow  aw  <eps>  <eps>  sp  b  r    eh   th  sp  ax  s  p  eh  sp
 TLV%arctic_a0041 op   C   C  C  C   C   S   S  S  C   C   C    D      D     S  C  C    I     S   S   C  C  C   C   S
@@ -2542,10 +2542,10 @@ TLV%arctic_b0165 ref  hh  iy  p  uh  l   d  ae  n  d  dh  ax  l  aa    g    k  r
 TLV%arctic_b0165 hyp  hh  iy  p  uw  n  sp  ae  n  d   d  ax  l  aa  <eps>  k  r  <eps>  ax  s  d  aw  sp  t    uw     d    ax  b  r  eh  k  hh  ih  z    sp   b  ae  k    sp 
 TLV%arctic_b0165 op    C   C  C   S  S   S   C  C  C   S   C  C   C    D    C  C    D     S  S  C   C   S  C    I      I     S  C  C   S  C   C   C  C    I    C   C  C    I  
 TLV%arctic_b0165 #csid 23 9 4 2
-TLV%arctic_a0375 ref  dh  ax  b  uh  ch  <eps>  er   z  ae  n  d   m  iy   t  k  ax  t  <eps>  er   z  r  ih  f  y  uw  z   d  t  uw  hh  ae  n  d  ax  l   m  iy   t  d  eh    s    t  ih  n   d  f  aa    r    ax  n  f  eh  r  r  eh  s    t    r  aa  n  <eps>   t   s
-TLV%arctic_a0375 hyp   d  ax  b  ax  ch    ax    s  sp  ae  n  m  ih   s  sp  k  ax  t    ax    s  sp  r  iy  f  y  uw  t  sp  t  uw  hh  ae  n  d  uh  m  ih   s  sp  d  eh  <eps>  t  iy  m  sp  f  aa  <eps>  ax  n  f  eh  r  r  eh  s  <eps>  r  ax  n    s    sp  sp
-TLV%arctic_a0375 op    S   C  C   S   C    I     S   S   C  C  S   S   S   S  C   C  C    I     S   S  C   S  C  C   C  S   S  C   C   C   C  C  C   S  S   S   S   S  C   C    D    C   S  S   S  C   C    D     C  C  C   C  C  C   C  C    D    C   S  C    I     S   S
-TLV%arctic_a0375 #csid 33 24 3 3
+TLV%arctic_a0375 ref  dh  ax  b  uh  ch  <eps>  <eps>  er   z  ae  n  d   m  iy   t  k  ax  t  <eps>  er   z  r  ih  f  y  uw  z   d  t  uw  hh  ae  n  d  ax  l   m  iy   t  d  eh    s    t  ih  n   d  f  aa    r    ax  n  f  eh  r  r  eh  s    t    r  aa  n  <eps>   t   s
+TLV%arctic_a0375 hyp   d  ax  b  ax  ch    ax     s     d  sp  ae  n  m  ih   s  sp  k  ax  t    ax    s  sp  r  iy  f  y  uw  t  sp  t  uw  hh  ae  n  d  uh  m  ih   s  sp  d  eh  <eps>  t  iy  m  sp  f  aa  <eps>  ax  n  f  eh  r  r  eh  s  <eps>  r  ax  n    s    sp  sp
+TLV%arctic_a0375 op    S   C  C   S   C    I      I     S   S   C  C  S   S   S   S  C   C  C    I     S   S  C   S  C  C   C  S   S  C   C   C   C  C  C   S  S   S   S   S  C   C    D    C   S  S   S  C   C    D     C  C  C   C  C  C   C  C    D    C   S  C    I     S   S
+TLV%arctic_a0375 #csid 33 24 4 3
 TLV%arctic_a0031 ref  <eps>  dh  ey  w  er  th  r  iy  hh  ax  n  d  r  ax  d  <eps>  y  aa  r  d  <eps>   z  ax  p  aa  r   t
 TLV%arctic_a0031 hyp    sp    d  ey  w  er   t  r  iy  hh  ax  n  d  r  ax  d    sp   y  aa  r  d    s    sp  ax  p  aa  r  sp
 TLV%arctic_a0031 op     I     S   C  C   C   S  C   C   C   C  C  C  C   C  C    I    C   C  C  C    I     S   C  C   C  C   S
@@ -2582,10 +2582,10 @@ TLV%arctic_a0019 ref  ay  f  aa  l  ow  d    dh   ax  l  ay    n      ax     v  
 TLV%arctic_a0019 hyp  ay  f  aa  l  ow  d  <eps>  ax  l  ay  <eps>  <eps>  <eps>  <eps>  sp  p  r  ax  p  ow  s  sp  r  ey  <eps>  r  ow  d    sp   l  uh  k  ih   n  f  aa  <eps>  ch  ae  n  s  <eps>  sp
 TLV%arctic_a0019 op    C  C   C  C   C  C    D     C  C   C    D      D      D      D     S  C  C   C  C   C  S   S  C   C    D    C   C  C    I    C   C  C   C   S  C   C    D     C   C  C  C    D     S
 TLV%arctic_a0019 #csid 29 5 1 8
-TLV%arctic_a0364 ref  w  iy  hh  ae  v  <eps>  p  l  eh  n  t  iy  <eps>  ax   v  k  ae  p  ih  t  ax    l      aa    r  s  eh  l  v  <eps>   z  ae  n  d  y  eh  t  w  iy  <eps>  w  aa  n  t  <eps>  m  aa  <eps>   r
-TLV%arctic_a0364 hyp  w  iy  hh  eh  v    sp   p  l  eh  n  t  iy    aa    p  sp  k  ae  p  ih  t  ax  <eps>  <eps>  aw  s  eh  w  v    s    sp  ae  n  d  y  eh  t  w  iy    sp   w  aa  n  t    sp   m  aa    sp   sp
-TLV%arctic_a0364 op   C   C   C   S  C    I    C  C   C  C  C   C    I     S   S  C   C  C   C  C   C    D      D     S  C   C  S  C    I     S   C  C  C  C   C  C  C   C    I    C   C  C  C    I    C   C    I     S
-TLV%arctic_a0364 #csid 33 7 6 2
+TLV%arctic_a0364 ref  w  iy  hh  ae  v  p  l  eh  n  t  iy  <eps>  ax   v  k  ae  p  ih  t  ax    l      aa    r  s  eh  l  v  <eps>   z  ae  n  d  y  eh  t  w  iy  <eps>  w  aa  n  t  <eps>  m  aa  <eps>   r
+TLV%arctic_a0364 hyp  w  iy  hh  eh  v  p  l  eh  n  t  iy    aa    p  sp  k  ae  p  ih  t  ax  <eps>  <eps>  aw  s  eh  w  v    s    sp  ae  n  d  y  eh  t  w  iy    sp   w  aa  n  t    sp   m  aa    sp   sp
+TLV%arctic_a0364 op   C   C   C   S  C  C  C   C  C  C   C    I     S   S  C   C  C   C  C   C    D      D     S  C   C  S  C    I     S   C  C  C  C   C  C  C   C    I    C   C  C  C    I    C   C    I     S
+TLV%arctic_a0364 #csid 33 7 5 2
 TLV%arctic_a0047 ref  k  l  ow  s  b  iy  s  ay  d  hh  ih  m  <eps>  g  l  iy  m  d  <eps>  dh  ax  w  ay  t  f  ae  ng  <eps>   z  ax  <eps>   v  dh  ax  w  uh    l     f  d  aa  <eps>  g
 TLV%arctic_a0047 hyp  k  l  ow  s  b  iy  s  ay  d  hh  ih  m    sp   g  l  iy  m  d    sp    d  ax  w  ay  d  f  ae  ng    s    sp  ax    b    sp  dh  ax  w  uh  <eps>  th  d  aa    sp   d
 TLV%arctic_a0047 op   C  C   C  C  C   C  C   C  C   C   C  C    I    C  C   C  C  C    I     S   C  C   C  S  C   C   C    I     S   C    I     S   C   C  C   C    D     S  C   C    I    S
@@ -2634,10 +2634,10 @@ TLV%arctic_a0108 ref  hh  iy  w  ey  d    ih    d  ih  n  t  uw  dh  iy  <eps>  
 TLV%arctic_a0108 hyp  hh  iy  w  ey  d  <eps>  sp  ih  n  t  uw   d  iy    ey   ch  sp  ax  b   d  ax  w  aa  t  er    sp   ae  n  <eps>  b  iy  g  ae  n  s  k  r  ax  b  ih  ng  hh  ih  m  s  eh  w  sp
 TLV%arctic_a0108 op    C   C  C   C  C    D     S   C  C  C   C   S   C    I     S   S   C  S   S   C  C   C  C   C    I     C  C    D    C   C  C   C  C  C  C  C   C  C   C   C   C   C  C  C   C  S   S
 TLV%arctic_a0108 #csid 35 8 2 2
-TLV%arctic_b0189 ref  dh  ae  <eps>   t  ih  z  <eps>  w  ax  t  <eps>  d  ih  s  <eps>  t  ih  ng  g  w  ih  zh    ih    z  aa  l  ax  <eps>   v  ax  s  f  r  ax  m  dh  ax  l  ow  er  <eps>  ae  n  ax  m  ax  <eps>   l   z
-TLV%arctic_b0189 hyp   d  ae    s    sp  iy  z    sp   w  aa  t    sp   d  ih  s    sp   t  ih  ng  g  w  ih  zh  <eps>  sp  aa  n  ax    t    sp  ax  s  f  r  ax  m   d  ax  l  ow  er    sp   eh  n  ih  m  ax    s    sp  sp
-TLV%arctic_b0189 op    S   C    I     S   S  C    I    C   S  C    I    C   C  C    I    C   C   C  C  C   C   C    D     S   C  S   C    I     S   C  C  C  C   C  C   S   C  C   C   C    I     S  C   S  C   C    I     S   S
-TLV%arctic_b0189 #csid 29 12 7 1
+TLV%arctic_b0189 ref  dh  ae  <eps>   t  ih  z  <eps>  w  ax   t  d  ih  s  <eps>  t  ih  ng  g  w  ih  zh    ih    z  aa  l  ax  <eps>   v  ax  s  f  r  ax  m  dh  ax  l  ow  er  <eps>  ae  n  ax  m  ax  <eps>   l   z
+TLV%arctic_b0189 hyp   d  ae    s    sp  iy  z    sp   w  aa  sp  d  ih  s    sp   t  ih  ng  g  w  ih  zh  <eps>  sp  aa  n  ax    t    sp  ax  s  f  r  ax  m   d  ax  l  ow  er    sp   eh  n  ih  m  ax    s    sp  sp
+TLV%arctic_b0189 op    S   C    I     S   S  C    I    C   S   S  C   C  C    I    C   C   C  C  C   C   C    D     S   C  S   C    I     S   C  C  C  C   C  C   S   C  C   C   C    I     S  C   S  C   C    I     S   S
+TLV%arctic_b0189 #csid 28 13 6 1
 TLV%arctic_a0111 ref  ih  n  s  t  eh  d  <eps>  hh  iy  jh  oy  n  d  <eps>  hh  er  <eps>  ae  n  d  dh  ey  ey  t  <eps>  l  ay   k  t  uw  hh  ax  ng  g  r  iy  <eps>  ch  ih    l      d    r  ax  n  <eps>
 TLV%arctic_a0111 hyp  ih  n  s  t  eh  d    sp   hh  iy  ch  oy  n  d    sp   hh  er    sp   ae  n  d  ey  sp  ey  t    sp   l  ay  sp  t  uw  hh  ax  ng  g  r  iy    sp   ch  ih  <eps>  <eps>  r  ax  n    sp 
 TLV%arctic_a0111 op    C  C  C  C   C  C    I     C   C   S   C  C  C    I     C   C    I     C  C  C   S   S   C  C    I    C   C   S  C   C   C   C   C  C  C   C    I     C   C    D      D    C   C  C    I  
@@ -2651,9 +2651,9 @@ TLV%arctic_a0076 hyp   d  ax  g  r  ey  ay    s    sp  f  aa  n  d  er  sp   d  
 TLV%arctic_a0076 op    S   C  C  C   C   C    I     S  C   C  S  S   C   S   S   C  C  C   C    I     S  C   C  C   S  C  C    I      I  
 TLV%arctic_a0076 #csid 17 8 4 0
 TLV%arctic_a0106 ref  dh  iy  ih  m  ow  zh  ax  n  <eps>  w  ih  ch  <eps>  zh  iy  hh  ae  d  s  ax  p  r  eh  s  t  <eps>  b  er  s   t  f  aa   r  th  n  aw  <eps>  ih  n  ax  ch  ow  k  ih  ng   s  aa   b
-TLV%arctic_a0106 hyp   d  iy  ih  m  ow  zh  ax  n    hh   w  ih  ch    sp    s  iy  hh  ae  d  s  ax  p  r  eh  s  t    sp   b  ax  s  sp  f  aa  th  sp  n  aw    sp   ih  n  ax   s  aa  k  ax   n  zh  ow  sp
-TLV%arctic_a0106 op    S   C   C  C   C   C   C  C    I    C   C   C    I     S   C   C   C  C  C   C  C  C   C  C  C    I    C   S  C   S  C   C   S   S  C   C    I     C  C   C   S   S  C   S   S   S   S   S
-TLV%arctic_a0106 #csid 31 13 4 0
+TLV%arctic_a0106 hyp   d  iy  iy  m  ow  zh  ax  n    hh   w  ih  ch    sp    s  iy  hh  ae  d  s  ax  p  r  eh  s  t    sp   b  ax  s  sp  f  aa  th  sp  n  aw    sp   ih  n  ax   s  aa  k  ax   n  zh  ow  sp
+TLV%arctic_a0106 op    S   C   S  C   C   C   C  C    I    C   C   C    I     S   C   C   C  C  C   C  C  C   C  C  C    I    C   S  C   S  C   C   S   S  C   C    I     C  C   C   S   S  C   S   S   S   S   S
+TLV%arctic_a0106 #csid 30 14 4 0
 TLV%arctic_a0102 ref  hh  iy  w  ih  l  f  aa  l  ow  ax    s    s  uw  n  <eps>
 TLV%arctic_a0102 hyp  hh  iy  w  ih  w  f  aa  l  ow  ax  <eps>  s  uw  n    sp 
 TLV%arctic_a0102 op    C   C  C   C  S  C   C  C   C   C    D    C   C  C    I  
@@ -2698,10 +2698,10 @@ TLV%arctic_a0095 ref  ax  b  ih   g  k  ae  n  v  ax  s  t  eh  n   t  w    aa  
 TLV%arctic_a0095 hyp  ax  b  ih  sp  k  ae  n  v  ax  t  t  eh  n  sp  w  <eps>  <eps>  <eps>  ax  f  ax  s  <eps>   s  ih  ng  t  uw  k  ax  m  w  ih  th  ih  n  hh  ih  s  v  iy  zh  ax  n    sp 
 TLV%arctic_a0095 op    C  C   C   S  C   C  C  C   C  S  C   C  C   S  C    D      D      D     C  C   S  C    D     S   C   C  C   C  C   C  C  C   C   C   C  C   C   C  S  C   S   C   C  C    I  
 TLV%arctic_a0095 #csid 33 7 1 4
-TLV%arctic_a0065 ref  dh  ey  k  l  ow  z   d  n  aw  <eps>  ax  n  t  ih  l  hh  ih  z  f  ih  ng  g  er  <eps>   z   w  er  l  ay    k    k  aa  r  d   z  ax   v  s  t  iy  <eps>   l
-TLV%arctic_a0065 hyp   d  ey  k  l  ow  s  sp  n  aw    sp   ax  n  t  ih  w  hh  ih  s  f  ih  ng  g  er    w    uh  ax  sp  l  ay  <eps>  k  aa  r  s  sp  ax  sp  s  t  iy    s    sp
-TLV%arctic_a0065 op    S   C  C  C   C  S   S  C   C    I     C  C  C   C  S   C   C  S  C   C   C  C   C    I     S   S   S  C   C    D    C   C  C  S   S   C   S  C  C   C    I     S
-TLV%arctic_a0065 #csid 26 12 3 1
+TLV%arctic_a0065 ref  dh  ey  k  l  ow  z   d  n  aw  <eps>  ax  n  t  ih  l  hh  ih  z  f  ih  ng  g  er  <eps>   z   w  er  l  ay    k    k  aa  r  d   z  ax  <eps>   v  s  t  iy  <eps>   l
+TLV%arctic_a0065 hyp   d  ey  k  l  ow  s  sp  n  aw    sp   ax  n  t  ih  w  hh  ih  s  f  ih  ng  g  er    w    uh  ax  sp  l  ay  <eps>  k  aa  r  s  sp  ax    p    sp  s  t  iy    s    sp
+TLV%arctic_a0065 op    S   C  C  C   C  S   S  C   C    I     C  C  C   C  S   C   C  S  C   C   C  C   C    I     S   S   S  C   C    D    C   C  C  S   S   C    I     S  C  C   C    I     S
+TLV%arctic_a0065 #csid 26 12 4 1
 TLV%arctic_a0003 ref  f  aa  r    dh   ax  t  w  eh  n   t  iy    ax   th  t  ay  m  <eps>  dh  ae  t  iy  v  <eps>  n  ih  ng  <eps>  dh  ax  t  uw  m  eh  n  zh  uh  k  hh  ae  n  d   z
 TLV%arctic_a0003 hyp  f  aa  r  <eps>  ax  t  w  eh  n  th  iy  <eps>  th  t  ay  m    sp    d  ae  t  iy  v    ax   n  ih  ng    sp    d  ax  t  uw  m  eh  n  zh  uh  k  hh  ae  n  s  sp
 TLV%arctic_a0003 op   C   C  C    D     C  C  C   C  C   S   C    D     C  C   C  C    I     S   C  C   C  C    I    C   C   C    I     S   C  C   C  C   C  C   C   C  C   C   C  C  S   S
@@ -2714,10 +2714,10 @@ TLV%arctic_a0117 ref  zh  iy    ae    d  ax   d  w  ih  th  <eps>  jh  eh  n    
 TLV%arctic_a0117 hyp   s  iy  <eps>  eh   t  sp  w  ih  th    sp   jh  iy  n  <eps>  <eps>  <eps>  <eps>  iy  s  ih  m  p  ax  th  iy    sp   ih  n  hh  ax  f  ey  s  ae  n  <eps>  v  oy    z      sp   sp
 TLV%arctic_a0117 op    S   C    D     S   S   S  C   C   C    I     C   S  C    D      D      D      D     S  C   C  C  C   C   C   C    I     C  C   C   S  C   C  C   C  C    D    C   C    I      I     S
 TLV%arctic_a0117 #csid 23 8 4 6
-TLV%arctic_a0029 ref  dh  eh   r  f  aa  r  s  ih  z   w  er  aa  r  eh  d  iy  m  uw  v  ih  ng  ih  n  t  uw  dh  ax  n  aa   r  th  k  ax  n  t  r  iy  <eps>
-TLV%arctic_a0029 hyp   d  eh  ax  f  aa  r  s  sp  w  ax  sp  aa  r  eh  d  iy  m  uw  v  ih  ng  ih  n  t  uw   d  ax  n  aa  th   s  k  ax  n  t  r  iy    sp 
-TLV%arctic_a0029 op    S   C   S  C   C  C  C   S  S   S   S   C  C   C  C   C  C   C  C   C   C   C  C  C   C   S   C  C   C   S   S  C   C  C  C  C   C    I  
-TLV%arctic_a0029 #csid 28 9 1 0
+TLV%arctic_a0029 ref  dh  eh   r  f  aa  r  s  ih  z   w  er  aa  r  eh  d  iy  m  uw  v  ih  ng  ih  n  t  uw  dh  ax  n  aa    r    th  k  ax  n  t  r  iy  <eps>
+TLV%arctic_a0029 hyp   d  eh  ax  f  aa  r  s  sp  w  ax  sp  aa  r  eh  d  iy  m  uw  v  ih  ng  ih  n  t  uw   d  ax  n  aa  <eps>  th  k  ax  n  t  r  iy    sp 
+TLV%arctic_a0029 op    S   C   S  C   C  C  C   S  S   S   S   C  C   C  C   C  C   C  C   C   C   C  C  C   C   S   C  C   C    D     C  C   C  C  C  C   C    I  
+TLV%arctic_a0029 #csid 29 7 1 1
 TLV%arctic_b0518 ref  b  ax  t  dh  eh    r    w    aa    z  aa    l    s  ow  t  aa  k  <eps>  <eps>  ax  <eps>   v  w  ih  ch  k  r  ae  f   t  ih  n  dh  ax  v  ih  l  ih  <eps>  jh
 TLV%arctic_b0518 hyp  b  ax  s   d  eh  <eps>  w  <eps>  ax  aa  <eps>  s  ow  t  aa  k    s      sp   ax    p    sp  w  ih   s  k  r  ae  f  sp  ih  n   d  ax  v  ih  l  ih    ch   sp
 TLV%arctic_b0518 op   C   C  S   S   C    D    C    D     S   C    D    C   C  C   C  C    I      I     C    I     S  C   C   S  C  C   C  C   S   C  C   S   C  C   C  C   C    I     S
@@ -2766,10 +2766,10 @@ TLV%arctic_b0315 ref  ae  n  d    dh   ih  s  w  aa    z    dh  eh  r  s  ow   l
 TLV%arctic_b0315 hyp  ae  n  d  <eps>  ih  s  w  aa  <eps>   d  eh  s  t  aa  ng  k  aa  <eps>  v  ax  s  ey  zh  ax  n    sp   th  r  uw  aw  sp   d  ax  m  iy    w    sp
 TLV%arctic_b0315 op    C  C  C    D     C  C  C   C    D     S   C  S  S   S   S  C   C    D    C   S  C   C   C   C  C    I     C  C   C   C   S   S   C  C   C    I     S
 TLV%arctic_b0315 #csid 23 9 2 3
-TLV%arctic_a0475 ref  hh  ih  <eps>   z  aw  t    s    t  r  eh  ch  t  aa   r  m    d    r  aa  p  t  <eps>   t  uw  hh  ih  z  s  ay   d  ae  n  d  <eps>  hh  <eps>  iy  p  aa  z   d
-TLV%arctic_a0475 hyp  hh  ih    s    sp  aw  t  <eps>  t  r  eh   s  t  sp  aa  m  <eps>  r  uh  p  t    sp   ih   n  hh  ih  s  s  ay  sp  ae  n  d    sp   hh    ih    s  p  aa  s  sp
-TLV%arctic_a0475 op    C   C    I     S   C  C    D    C  C   C   S  C   S   S  C    D    C   S  C  C    I     S   S   C   C  S  C   C   S   C  C  C    I     C    I     S  C   C  S   S
-TLV%arctic_a0475 #csid 22 12 4 2
+TLV%arctic_a0475 ref  hh  ih  <eps>   z  aw  t    s    t  r  eh  ch  t  aa   r  m    d    r  aa  p  t  <eps>   t  uw  hh  ih  z  s  ay   d  ae  n  d  <eps>  hh  iy  <eps>  p  aa  z   d
+TLV%arctic_a0475 hyp  hh  ih    s    sp  aw  t  <eps>  t  r  eh   s  t  sp  aa  m  <eps>  r  uh  p  t    sp   ih   n  hh  ih  s  s  ay  sp  ae  n  d    sp   hh  iy    s    p  aa  s  sp
+TLV%arctic_a0475 op    C   C    I     S   C  C    D    C  C   C   S  C   S   S  C    D    C   S  C  C    I     S   S   C   C  S  C   C   S   C  C  C    I     C   C    I    C   C  S   S
+TLV%arctic_a0475 #csid 23 11 4 2
 TLV%arctic_a0139 ref  hh  iy  t  ow    l      d    hh  ih  m  s  eh    l     f  dh  ae  t  ae  z  hh  iy  w  aa  zh    t    hh  ih  m  s  eh    l      f    ae  n    d    g  r  uw  m   d  hh  ih  <eps>   z  d  ih  zh  eh  v  ax    l      d    k  l  ow  dh   z
 TLV%arctic_a0139 hyp  hh  iy  t  ow  <eps>  <eps>  hh  ih  m  s  eh  <eps>  dh   d  ae  t  ae  d  hh  iy  w  aa  zh  <eps>  hh  ih  m  s  eh  <eps>  <eps>  eh  n  <eps>  g  r  uw  m  sp  hh  ih    t    sp  d  ax   s  ae  v  ax  <eps>  <eps>  k  l  ow  th  sp
 TLV%arctic_a0139 op    C   C  C   C    D      D     C   C  C  C   C    D     S   S   C  C   C  S   C   C  C   C   C    D     C   C  C  C   C    D      D     S  C    D    C  C   C  C   S   C   C    I     S  C   S   S   S  C   C    D      D    C  C   C   S   S
@@ -2858,10 +2858,10 @@ TLV%arctic_a0073 ref  dh  ax    p    r  ax  m  ow  t  er  z  ay   z  w  er  hh  
 TLV%arctic_a0073 hyp   d  ax  <eps>  r  ax  m  ow  t  ax  s  ay  sp  w  er  hh  eh  v  iy  w  ih   d  l  ih  t  ax  <eps>  p  ax  f  iy    sp   b  ae    k    s  sp  ax  n  d  ax   d  ax  m    sp 
 TLV%arctic_a0073 op    S   C    D    C   C  C   C  C   S  S   C   S  C   C   C   C  C   C  C   C   S  C   C  C   C    D    C   C  C   C    I    C   C    I    S   S   C  C  C   S   S   C  C    I  
 TLV%arctic_a0073 #csid 30 9 3 2
-TLV%arctic_b0323 ref  k  r  ih  k  ax  t    s    b  iy  g  ae  n  t  ih  <eps>  ch  <eps>  er  p  <eps>  ae  n    d    m  aa   r  g  iy  <eps>  s  <eps>  ae  n    d    d  ax  k   s  f  l  uw  ow  v  er  hh  eh   d
-TLV%arctic_b0323 hyp  k  r  ih  k  ax  t  <eps>  b  iy  g  ae  n  t  ih    uw   ch    r    ax  p    sp   ae  n  <eps>  m  aa  sp  g  iy    z    s    sp   ae  n  <eps>  d  ax  k  sp  f  l  ow  ow  v  ax  hh  eh  sp
-TLV%arctic_b0323 op   C  C   C  C   C  C    D    C   C  C   C  C  C   C    I     C    I     S  C    I     C  C    D    C   C   S  C   C    I    C    I     C  C    D    C   C  C   S  C  C   S   C  C   S   C   C   S
-TLV%arctic_b0323 #csid 33 6 5 3
+TLV%arctic_b0323 ref  k  <eps>  r  ih  k  ax  t    s    b  iy  g  ae  n  t  ih  <eps>  ch  <eps>  er  p  <eps>  ae  n    d    m  aa   r  g  iy  <eps>  s  <eps>  ae  n    d    d  ax  k   s  f  l  uw  ow  v  er  hh  eh   d
+TLV%arctic_b0323 hyp  k    g    r  ih  k  ax  t  <eps>  b  iy  g  ae  n  t  ih    uw   ch    r    ax  p    sp   ae  n  <eps>  m  aa  sp  g  iy    z    s    sp   ae  n  <eps>  d  ax  k  sp  f  l  ow  ow  v  ax  hh  eh  sp
+TLV%arctic_b0323 op   C    I    C   C  C   C  C    D    C   C  C   C  C  C   C    I     C    I     S  C    I     C  C    D    C   C   S  C   C    I    C    I     C  C    D    C   C  C   S  C  C   S   C  C   S   C   C   S
+TLV%arctic_b0323 #csid 33 6 6 3
 TLV%arctic_b0481 ref  dh  ax  t  ae  s    k    w  iy  s  eh  t  aw  er  s  eh    l      v      z    w  aa   z  th   r  iy  f  ow  l   d
 TLV%arctic_b0481 hyp   d  ax  t  aa  s  <eps>  w  iy  s  eh  t  sp  aw  s  eh  <eps>  <eps>  <eps>  w  aa  sp  th  iy   s  f  ow  w  sp
 TLV%arctic_b0481 op    S   C  C   S  C    D    C   C  C   C  C   S   S  C   C    D      D      D    C   C   S   C   S   S  C   C  S   S
@@ -2938,10 +2938,10 @@ TLV%arctic_a0027 ref  t  uw  <eps>  m  ay  s  er  p  r  ay    z    hh  iy  b  iy
 TLV%arctic_a0027 hyp  t  uw    sp   m  ay  s  ax  p  r  ay  <eps>  hh  iy  b  iy  g  ae  n  t  ih  zh  ow  ae  k  ch  <eps>  w  ax  w  ae  n   t  uw  s  iy  ae  z  ax  m    sp   ih  n  m  ay  f  ey  v  er    sp     sp 
 TLV%arctic_a0027 op   C   C    I    C   C  C   S  C  C   C    D     C   C  C   C  C   C  C  C   S   C   C   C  C   C    D    C   C  S   S  C   S   C  S   C   C  C   C  C    I     C  C  C   C  C   C  C   C    I      I  
 TLV%arctic_a0027 #csid 38 6 4 2
-TLV%arctic_a0077 ref  ih  t  ih   z  dh  ax  f  ay   r  p  aa  r  t  l  iy  zh  iy  s  eh  d  <eps>
-TLV%arctic_a0077 hyp  ih  s  sp  iy   d  ax  f  ay  sp  p  aa  r  t  l  iy   s  iy  s  eh  d    sp 
-TLV%arctic_a0077 op    C  S   S   S   S   C  C   C   S  C   C  C  C  C   C   S   C  C   C  C    I  
-TLV%arctic_a0077 #csid 14 6 1 0
+TLV%arctic_a0077 ref  ih    t    ih   z  dh  ax  f  ay   r  p  aa  r  t  l  iy  zh  iy  s  eh  d  <eps>
+TLV%arctic_a0077 hyp  ih  <eps>   s  iy   d  ax  f  ay  sp  p  aa  r  t  l  iy   s  iy  s  eh  d    sp 
+TLV%arctic_a0077 op    C    D     S   S   S   C  C   C   S  C   C  C  C  C   C   S   C  C   C  C    I  
+TLV%arctic_a0077 #csid 14 5 1 1
 TLV%arctic_a0052 ref  ih  t  w  ax    z      ey   k  y  uh  r  iy  ax  s  k  ow  ih  n  s  ih  d  ax  n   s
 TLV%arctic_a0052 hyp  ih  s  w  ax  <eps>  <eps>  k  y  uh  r  iy  ax  s  k  ow  ih  n  s  iy  d  ax  n  sp
 TLV%arctic_a0052 op    C  S  C   C    D      D    C  C   C  C   C   C  C  C   C   C  C  C   S  C   C  C   S
@@ -2974,10 +2974,10 @@ TLV%arctic_a0007 ref  ae  n  d  y  uw  aa    l    w  ey  <eps>   z  w  aa  n  t 
 TLV%arctic_a0007 hyp  ae  n  d  y  uw  aa  <eps>  w  ey    s    sp  w  aa  n  t    sp   t  ih  s  iy    sp   ih  t  ih  n   d  ax  s  uh  p  er  l  ey  t  ih    p    sp  d  ih  g  r  iy    sp     sp 
 TLV%arctic_a0007 op    C  C  C  C   C   C    D    C   C    I     S  C   C  C  C    I    C   C  C   C    I     C  C   C  C   S   C  C   C  C   C  C   S  C   C    I     S  C   C  C  C   C    I      I  
 TLV%arctic_a0007 #csid 33 4 6 1
-TLV%arctic_b0503 ref  dh  ax  s  eh  n    t    s    ax     v     s  t   r  ey  n  jh  <eps>  <eps>  v  eh  <eps>  jh  ax  t  ey  zh  ax  n  b  l  uw  aa  f  dh  ax    t     r  aa  p  ih  k  l  ae  n   d
-TLV%arctic_b0503 hyp   d  ax  s  iy  n  <eps>  s  <eps>  <eps>  aa  p  ch  ey  n  jh    aa     sp   r  eh    zh   eh   s  t  ey  zh  ax  n  b  l  uw  ax  p   d  ax  <eps>  ch  aa  f  ih  t  l  ae  n  sp
-TLV%arctic_b0503 op    S   C  C   S  C    D    C    D      D     S  S   S   C  C   C    I      I    S   C    I     S   S  C   C   C   C  C  C  C   C   S  S   S   C    D     S   C  S   C  S  C   C  C   S
-TLV%arctic_b0503 #csid 22 15 3 4
+TLV%arctic_b0503 ref  dh  ax  s  eh  n    t    s    ax     v     s  t   r  ey  n  jh  <eps>  <eps>  v  eh  <eps>  jh  ax  t  ey  zh  ax  n  b  l  uw  aa  f  dh  ax   t   r  aa  p  ih  k  l  ae  n   d
+TLV%arctic_b0503 hyp   d  ax  s  iy  n  <eps>  s  <eps>  <eps>  aa  p  ch  ey  n  jh    aa     sp   r  eh    zh   eh   s  t  ey  zh  ax  n  b  l  uw  ax  p  dh   d  ax  ch  aa  f  ih  t  l  ae  n  sp
+TLV%arctic_b0503 op    S   C  C   S  C    D    C    D      D     S  S   S   C  C   C    I      I    S   C    I     S   S  C   C   C   C  C  C  C   C   S  S   C   S   S   S   C  S   C  S  C   C  C   S
+TLV%arctic_b0503 #csid 22 16 3 3
 TLV%arctic_b0534 ref  ay  l  t  eh  l  y  uw  <eps>  dh  ax  l  ay  b  r    eh   r  iy  ax  n  s  eh  <eps>   d  w  ih  th  ax  <eps>  b  r  ay  t  ax  n  ih  ng  f  ey   s
 TLV%arctic_b0534 hyp  aa  w  t  eh  w  y  uw    sp    d  ax  l  ay  b  r  <eps>  r  iy  ax  n  s  eh    s    sp  w  ih  th  ax    sp   b  r  ay  t  ax  n  ih   k  f  ey  sp
 TLV%arctic_b0534 op    S  S  C   C  S  C   C    I     S   C  C   C  C  C    D    C   C   C  C  C   C    I     S  C   C   C   C    I    C  C   C  C   C  C   C   S  C   C   S
@@ -3343,9 +3343,9 @@ TNI%arctic_a0255 hyp  y  uw  w  aa  n  <eps>  d  ay  ax  f  m  aa  l  <eps>  uw 
 TNI%arctic_a0255 op   C   C  C   S  C    D    C   C   C  S  C   S  C    D     C  C  C   C   C   C  C  C   C   C   C  C   C  C   S   C  C
 TNI%arctic_a0255 #csid 25 4 0 2
 TNI%arctic_a0037 ref  ay  w  ax  z  dh  ax  ow  n  l  iy  w  ax  n  hh  uw  r  iy  m  ey  n  d  s  ih  t  ih  ng
-TNI%arctic_a0037 hyp  ay  w  ax  z   d  ax  aa  n  l  iy  v  ax  n  hh  uw  r  iy  m  ey  n  d  s  ih  t  ih  ng
-TNI%arctic_a0037 op    C  C   C  C   S   C   S  C  C   C  S   C  C   C   C  C   C  C   C  C  C  C   C  C   C   C
-TNI%arctic_a0037 #csid 23 3 0 0
+TNI%arctic_a0037 hyp  ay  w  ax  z  dh  ax  aa  n  l  iy  v  ax  n  hh  uw  r  iy  m  ey  n  d  s  ih  t  ih  ng
+TNI%arctic_a0037 op    C  C   C  C   C   C   S  C  C   C  S   C  C   C   C  C   C  C   C  C  C  C   C  C   C   C
+TNI%arctic_a0037 #csid 24 2 0 0
 TNI%arctic_a0062 ref  dh  ax  m  eh  n  s  t  eh  r  d  ih  n  t  uw  iy  ch  ax  dh  er  z  f  ey  s
 TNI%arctic_a0062 hyp   d  ax  m  eh  n  s  t  eh  r  d  ih  n  t  uw  iy  ch  ax  dh  er  z  f  ey  s
 TNI%arctic_a0062 op    S   C  C   C  C  C  C   C  C  C   C  C  C   C   C   C   C   C   C  C  C   C  C
@@ -3431,9 +3431,9 @@ TNI%arctic_a0058 hyp  ay  k  ey  m  f  aa  r  ih  n  f  aa  m  ey  zh  ax  n  m 
 TNI%arctic_a0058 op    C  C   C  C  C   C  C   C  C  C   S  C   C   C   C  C  C   C  C   C  C   C  C  C  C   C  C   C   C  C   C  C   C   S   S  C   C  C   C   S   C   C   C  C  C
 TNI%arctic_a0058 #csid 41 4 0 0
 TNI%arctic_a0416 ref  dh  ax  ae  d  ih  d  w  ey  t  hh  ae  d  ax  v  ax  l  aa  s    ax   t  iy  ax    v    f  ih  f  t  iy  n  m  ay  l  z  p  er  aw  er
-TNI%arctic_a0416 hyp   d  ax  ae  d  ax  d  w  ih  t  hh  ae  d  eh  v  ax  l  aa  s  <eps>  t  iy  ax  <eps>  f  ih  f  t  iy  n  m  ay  l  s  p  er   d  aa
-TNI%arctic_a0416 op    S   C   C  C   S  C  C   S  C   C   C  C   S  C   C  C   C  C    D    C   C   C    D    C   C  C  C   C  C  C   C  C  S  C   C   S   S
-TNI%arctic_a0416 #csid 28 7 0 2
+TNI%arctic_a0416 hyp   d  ax  ae  d  ax  d  w  ih  t  hh  ae  d  eh  v  ax  l  aa  s  <eps>  t  iy  ax  <eps>  f  ih  f  t  ih  n  m  ay  l  s  p  er   d  aa
+TNI%arctic_a0416 op    S   C   C  C   S  C  C   S  C   C   C  C   S  C   C  C   C  C    D    C   C   C    D    C   C  C  C   S  C  C   C  C  S  C   C   S   S
+TNI%arctic_a0416 #csid 27 8 0 2
 TNI%arctic_b0371 ref  y  iy  l  d  y  aa  r  s  eh  l  f  t  uw  dh  ax  w  aa  t  er  z  dh  ae  t  er  r  ih  p  ih  ng  ae  n    d    t  ih  r  ih  ng  ae  t  y  uw
 TNI%arctic_b0371 hyp  y  iy  l  d  y  aa  r  s  eh  l  f  t  uw  dh  ax  w  aa  t  er  z  dh  ae  t  er  r  ih  p  ih  ng  ae  n  <eps>  t  ih  r  ih  ng  ae  t  y  uw
 TNI%arctic_b0371 op   C   C  C  C  C   C  C  C   C  C  C  C   C   C   C  C   C  C   C  C   C   C  C   C  C   C  C   C   C   C  C    D    C   C  C   C   C   C  C  C   C
@@ -3502,10 +3502,10 @@ TNI%arctic_a0048 ref  hh  iy  l  uh  k  t  ae  t  dh  ax  hh  ae  ng  k  er  ch 
 TNI%arctic_a0048 hyp  hh  iy  l  uh  k  t  ae  t  dh  ax  hh  ae  ng  k  ax  ch  ih  f  m  aa  r  k  l  ow  z  l  iy
 TNI%arctic_a0048 op    C   C  C   C  C  C   C  C   C   C   C   C   C  C   S   C   C  C  C   C  C  C  C   C  S  C   C
 TNI%arctic_a0048 #csid 25 2 0 0
-TNI%arctic_a0121 ref  dh  ey  ey  t  d  ih  n  er  ae  t  dh  ax  f  ih  <eps>  th  ae  n  d  r  eh  s  t  ih  d  f  aa    r    t  uw  aw    r    z
-TNI%arctic_a0121 hyp   d  ey  eh  t  d  ih  n  er  ae  t  dh  ax  f  ih    f     t  ae  n  d  r  eh  s  t  ih  d  f  aa  <eps>  t  uw  aw  <eps>  s
-TNI%arctic_a0121 op    S   C   S  C  C   C  C   C   C  C   C   C  C   C    I     S   C  C  C  C   C  C  C   C  C  C   C    D    C   C   C    D    S
-TNI%arctic_a0121 #csid 26 4 1 2
+TNI%arctic_a0121 ref    dh   ey  ey   t  d  ih  n  er  ae  t  dh  ax  f  ih  <eps>  th  ae  n  d  r  eh  s  t  ih  d  f  aa    r    t  uw  aw    r    z
+TNI%arctic_a0121 hyp  <eps>   d  ey  eh  d  ih  n  er  ae  t  dh  ax  f  ih    f     t  ae  n  d  r  eh  s  t  ih  d  f  aa  <eps>  t  uw  aw  <eps>  s
+TNI%arctic_a0121 op     D     S   C   S  C   C  C   C   C  C   C   C  C   C    I     S   C  C  C  C   C  C  C   C  C  C   C    D    C   C   C    D    S
+TNI%arctic_a0121 #csid 25 4 1 3
 TNI%arctic_a0122 ref  t  uw  y  ih    r    z  ax  g  ow  ay  g  ey  v  ax  p  s  ih  v  <eps>  ax  l  ih  z  ey  zh  ax  n  f  aa  r  dh  ih  s
 TNI%arctic_a0122 hyp  t  uw  y  ih  <eps>  z  ax  g  ow  ay  g  ey  v  ax  p  s  ih  v    ih   ax  l  ay  z  ey  zh  ax  n  f  aa  r  dh  ih  s
 TNI%arctic_a0122 op   C   C  C   C    D    C   C  C   C   C  C   C  C   C  C  C   C  C    I     C  C   S  C   C   C   C  C  C   C  C   C   C  C
@@ -3515,9 +3515,9 @@ TNI%arctic_a0269 hyp   d  ae  t  s  w  eh  r   d  ey  k  ax  t  aa  f   d  ax  s
 TNI%arctic_a0269 op    S   C  C  C  C   C  C   S   C  C   C  C   C  C   S   C  C  C   C  C   C   C   C   C  C  C   C  C  C  C   C  C  C   C  C   C   C  C  S
 TNI%arctic_a0269 #csid 35 4 0 0
 TNI%arctic_a0134 ref  hh  iy  ow  b  ey  d  dh  ax  p  r  eh  zh  er  ax  v  hh  er  hh  ae  n    d  
-TNI%arctic_a0134 hyp  hh  iy  aa  b  eh  d   d  ax  p  r  eh  zh  er  ax  v  hh  er  hh  ae  n  <eps>
-TNI%arctic_a0134 op    C   C   S  C   S  C   S   C  C  C   C   C   C   C  C   C   C   C   C  C    D  
-TNI%arctic_a0134 #csid 17 3 0 1
+TNI%arctic_a0134 hyp  hh  iy  aa  b  eh  d   d  ax  p  r  eh  zh  er  ax  f  hh  er  hh  ae  n  <eps>
+TNI%arctic_a0134 op    C   C   S  C   S  C   S   C  C  C   C   C   C   C  S   C   C   C   C  C    D  
+TNI%arctic_a0134 #csid 16 4 0 1
 TNI%arctic_a0168 ref  ax  l  ow  b  uh  zh  w  ih  p  t  hh  ih  m  ih  n  dh  ax  f  ey  s  ae  n    d    l  eh  f  t  n  ow  s  t  ih  ng
 TNI%arctic_a0168 hyp  ax  l  ow  b  uh  zh  w  ay  p  t  hh  ih  m  ih  n  dh  ax  f  ey  s  ae  n  <eps>  l  eh  f  t  n  ow  s  t  ih  ng
 TNI%arctic_a0168 op    C  C   C  C   C   C  C   S  C  C   C   C  C   C  C   C   C  C   C  C   C  C    D    C   C  C  C  C   C  C  C   C   C
@@ -3554,18 +3554,18 @@ TNI%arctic_a0093 ref  f  aa  r  ax  f  uh  l  m  ih  n  ax  t  hh  iy  k  r  aw 
 TNI%arctic_a0093 hyp  f  aa  r  ax  f  uh  l  m  ih  n  ax  t  hh  iy  k  r  aw  ch  t    d    ae  n  d  l  ih  s  ax  n  d
 TNI%arctic_a0093 op   C   C  C   C  C   C  C  C   C  C   C  C   C   C  C  C   C   C  C    I     C  C  C  C   C  C   C  C  C
 TNI%arctic_a0093 #csid 28 0 1 0
-TNI%arctic_a0097 ref  dh  eh  n  y  uw  k  ae  n  <eps>  er  ey  n  jh  y  aa    r    s  eh  l  f  k  ax  m  f  er  t  ax  b  l  iy  ax  m  ax  ng  dh  iy  z  r  ow  b  z  ih  n  dh  ax  b  ow
-TNI%arctic_a0097 hyp   d  eh  n  y  uw  k  ih  n    ax    r  ey  n  jh  y  aa  <eps>  s  eh  l  f  k  ax  m  f  er  t  eh  b  l  iy  ax  m  ax  ng  dh  iy  z  r  aa  b  s  ih  n  dh  ax  b  ow
-TNI%arctic_a0097 op    S   C  C  C   C  C   S  C    I     S   C  C   C  C   C    D    C   C  C  C  C   C  C  C   C  C   S  C  C   C   C  C   C   C   C   C  C  C   S  C  S   C  C   C   C  C   C
-TNI%arctic_a0097 #csid 39 6 1 1
+TNI%arctic_a0097 ref  dh  eh  n  y  uw  k  ae  n  er  <eps>  ey  n  jh  y  aa    r    s  eh  l  f  k  ax  m  f  er  t  ax  b  l  iy  ax  m  ax  ng  dh  iy  z  r  ow  b  z  ih  n  dh  ax  b  ow
+TNI%arctic_a0097 hyp   d  eh  n  y  uw  k  ih  n  er    r    ey  n  jh  y  aa  <eps>  s  eh  l  f  k  ax  m  f  er  t  eh  b  l  iy  ax  m  ax  ng  dh  iy  z  r  aa  b  s  ih  n  dh  ax  b  ow
+TNI%arctic_a0097 op    S   C  C  C   C  C   S  C   C    I     C  C   C  C   C    D    C   C  C  C  C   C  C  C   C  C   S  C  C   C   C  C   C   C   C   C  C  C   S  C  S   C  C   C   C  C   C
+TNI%arctic_a0097 #csid 40 5 1 1
 TNI%arctic_a0292 ref  hh  iy  r  ih  n  dh  ax  m  ih  d  m  aa  r  n  ih  ng  dh  ax  f  er  s  t  k  ae  zh  ax    w    ax  l  t  iy  ax  k  er  d
 TNI%arctic_a0292 hyp  hh  iy  r  ih  n  dh  ax  m  ih  d  m  aa  r  n  ih  ng   d  ax  f  ax  s  t  k  ae  zh  ax  <eps>  ax  l  t  iy  ax  k  er  d
 TNI%arctic_a0292 op    C   C  C   C  C   C   C  C   C  C  C   C  C  C   C   C   S   C  C   S  C  C  C   C   C   C    D     C  C  C   C   C  C   C  C
 TNI%arctic_a0292 #csid 32 2 0 1
 TNI%arctic_a0214 ref  b  ih  s  ay  d  z  hh  iy  w  ax  z  p  ey  d  w  ax  n  k  ey  s  ax  v  t  ax  b  ae  k  ow  p  er  hh  eh  d
-TNI%arctic_a0214 hyp  b  ih  s  ay  d  z  hh  iy  w  ax  s  p  eh  d  w  ax  n  k  eh  s  ax  v  t  ax  b  ae  k  ow  p  er  hh  eh  d
-TNI%arctic_a0214 op   C   C  C   C  C  C   C   C  C   C  S  C   S  C  C   C  C  C   S  C   C  C  C   C  C   C  C   C  C   C   C   C  C
-TNI%arctic_a0214 #csid 30 3 0 0
+TNI%arctic_a0214 hyp  b  ih  s  ay  d  z  hh  iy  w  ax  s  p  eh  d  v  ax  n  k  eh  s  ax  v  t  ax  b  ae  k  ow  p  er  hh  eh  d
+TNI%arctic_a0214 op   C   C  C   C  C  C   C   C  C   C  S  C   S  C  S   C  C  C   S  C   C  C  C   C  C   C  C   C  C   C   C   C  C
+TNI%arctic_a0214 #csid 29 4 0 0
 TNI%arctic_a0104 ref  zh  iy  w  ax    z    s  l  iy  p  ih  ng  ax  n  d  er  hh  ih  z  p  er  t  eh  k  zh  ax  n  ae  z  s  w  iy  t  l  iy  eh  z  ax  ch  ay  l    d  
 TNI%arctic_a0104 hyp  zh  iy  w  ax  <eps>  s  l  iy  p  ih  ng  ax  n  d  ax  hh  ih  z  p  ax  t  eh  k  zh  ax  n  ae  z  s  w  iy  t  l  iy  eh  z  ax  ch  ay  l  <eps>
 TNI%arctic_a0104 op    C   C  C   C    D    C  C   C  C   C   C   C  C  C   S   C   C  C  C   S  C   C  C   C   C  C   C  C  C  C   C  C  C   C   C  C   C   C   C  C    D  
