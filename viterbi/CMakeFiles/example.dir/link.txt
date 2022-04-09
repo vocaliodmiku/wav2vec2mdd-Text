@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++14 -pthread -fPIC -DPYTHON_INCLUDE_DIR=/usr/include/python3.8 -D_GLIBCXX_USE_CXX11_ABI=1 -DC10_USE_GLOG -DPYTHON_INCLUDE_DIR=/usr/include/python3.8 -flto -shared  -o example.cpython-38-x86_64-linux-gnu.so CMakeFiles/example.dir/myviterbi.cpp.o 

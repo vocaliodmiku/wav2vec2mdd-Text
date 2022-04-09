@@ -1,0 +1,900 @@
+TXHC%arctic_b0358 dh ax t eh m p er ax ch er d r aa p t t ax f ih f t iy b ih l ow z iy r ow ax n d r ih m ey n d dh eh r dh ax hh ow l t r ih p
+TXHC%arctic_a0549 d uw y uw n ow dh ae t w iy w ey eh v r iy p aw n d ax v k ow l w iy b er n
+TXHC%arctic_a0079 ih t w ax z ax l aa r jh k ax n uw
+TXHC%arctic_a0006 g aa d b l eh s ay hh ow p ay l g ow aa n s iy ih ng dh eh m f er eh v er
+TXHC%arctic_b0140 dh ey eh jh d n ih r er ae n d s t uh d zh ow l d er t ax zh ow l d er f ey s ih ng dh eh r w er l d
+TXHC%arctic_b0415 dh eh r w ax z n ax th ih ng f aa r ax s b ax t dh ax w ay d r aa ow zh ax n
+TXHC%arctic_a0107 ih f y uw ow n l iy k uh d n ow hh aw ay th ae ng k y uw
+TXHC%arctic_a0064 dh ax f aa r th ax n d f ih f th d ey z p ae s t w ih th aw t eh n iy d ih v eh l ax p m ax n t s
+TXHC%arctic_a0054 dh eh r w ax z n ax th ih ng aa n dh ax r aa k
+TXHC%arctic_b0075 ih n dh ae t k ey s hh iy k uh d n aa t m ih s dh eh m ih f hh iy y uw z d k aa zh ax n
+TXHC%arctic_a0030 ay hh ae d f ey th ih n dh eh m
+TXHC%arctic_b0416 ay er ow z ow b iy d iy ax n t l iy ae n d w eh n t d aw n dh ax b iy ch
+TXHC%arctic_a0112 hh iy w ax z w uw n d ih d ih n dh ax aa r m
+TXHC%arctic_a0105 ow n l iy ih t ih z s ow w ax n d er f ax l s ow aa l m ow s t ih m p aa s ax b ax l t uw b ih l iy v
+TXHC%arctic_a0025 ay w ax z ax b aw t t ax d uw dh ih s hh w eh n k uw l er jh ax jh m ax n t p r ih v ey l d
+TXHC%arctic_a0127 ih t w ax z ax t eh m t ey zh ax n b ax t hh iy r iy z ih s t ax d ih t
+TXHC%arctic_b0393 ay w ax z s t ih l w iy k f r ax m m ay p r ax l aa ng d ih m er zh ax n
+TXHC%arctic_a0098 zh ae l ay k eh r iy y uw
+TXHC%arctic_a0434 ax hh ae f ax k ey s ax v t ax b ae k ow w ax z w er th th r iy p aw n d z
+TXHC%arctic_a0026 ih t ax k er d t ax m iy dh ae t dh eh r w uh d hh ae v t ax b iy ae n ax k aw n t ih ng
+TXHC%arctic_b0402 ax n aa l t r uw ih s t ih k ae k t ih z ae n ae k t p er f aa r m d f aa r dh ax w eh l f eh r ax v ax dh er z
+TXHC%arctic_a0024 ih t w aa z m ay r iy p aa r t s f r ax m dh ax n aa r th w ih ch ch iy f l iy ih n d uw s t p iy p ax l t uw b ay
+TXHC%arctic_a0020 k l ax b z ax n d b aa l z ax n d s ih t iy z g r uw t ax b iy ow n l iy m eh m er r iy z
+TXHC%arctic_a0028 r aa b er iy b r ay b er iy f r aa d
+TXHC%arctic_a0335 r eh d ay s w ax ng b ae k ax n d f aa r th aa n dh ax b r ae n ch f aa r dh er d aw n
+TXHC%arctic_a0011 ih f ay eh v er n iy d ih d ax f ay t er ih n m ay l ay f ay n iy d w ax n n aw
+TXHC%arctic_b0456 hh iy w ax z ae n ae m f ih b iy ax n ae n d ax m aw n t ih n ih r
+TXHC%arctic_a0078 dh eh n ax n d ae t s ax p er hh iy t r ay d t ax f ae dh ax m hh er
+TXHC%arctic_a0101 y uw y uw w uh d n aa t k iy p dh ax t r uw th f r ax m m iy
+TXHC%arctic_a0039 dh ax zh ih p zh uh d b iy ih n w ih dh ih n ax w iy k aa r t eh n d ey z
+TXHC%arctic_a0041 m iy n w ay l ay l g ow aw t t uw b r iy dh ax s p eh l
+TXHC%arctic_a0008 g ae d y aa r l eh t er k ey m jh ax s t ih n t ay m
+TXHC%arctic_a0116 w ax z ih t dh ax r aa n d ih v uw ax v dh ow z hh uw w er s t r ay v ih ng t uw w er k hh ih z r uw ax n
+TXHC%arctic_a0081 hh w ax t ih f zh iy d ih d n aa t k ax m t ax dh ax r aa k
+TXHC%arctic_b0288 w iy w uh d n aa t s p eh n d ax n ax dh er s ax ch n ay t
+TXHC%arctic_a0045 hh iy m uw v d ax w ey ae z k w ay ax t l iy ae z hh iy hh ae d k ax m
+TXHC%arctic_a0053 s ax d ax n l iy hh ih z f ih ng g er z k l ow z d t ay t l iy ow v er dh ax hh ae ng k er ch ih f
+TXHC%arctic_b0165 hh iy p uh l d ax n d dh ax l aa g k r ae zh t d aw n t ax b r ey k hh ih z b ae k
+TXHC%arctic_a0031 dh ey w er th r iy hh ax n d r ax d y aa r d z ax p aa r t
+TXHC%arctic_a0136 ax b aw t hh ih m eh v r iy w eh r w er dh ax eh v ax d ax n s ax z ax v l ax g zh er iy ae n d ax v ey jh
+TXHC%arctic_a0018 dh eh r w ax z ax ch ey n jh n aw
+TXHC%arctic_b0400 hh aw k uh d ay ae n s er dh ax k w eh zh ax n aa n dh ax s p er ax v dh ax m ow m ax n t
+TXHC%arctic_a0125 hh iy w ax z d ih t er m ax n d n aw t ax m ey n t ey n ax m aa r s er t ax n hh ow l d ax p aa n hh ih m s eh l f
+TXHC%arctic_a0094 hh iy hh ae d b eh r l iy eh n t er d dh ih s hh w eh n hh iy s aa dh ax g l ow ax v ax f ay er
+TXHC%arctic_b0380 hh iy hh ae d p iy l d aa f hh ih z zh er t ae n d w ax z w ay l d l iy w ey v ih ng ih t
+TXHC%arctic_a0019 ay f aa l ow d dh ax l ay n ax v dh ax p r ax p ow z d r ey l r ow d l uh k ih ng f aa r ch ae n s ih z
+TXHC%arctic_b0142 s ax m th ih ng v ae s t l iy m aa r th r ih l ih ng hh ae d k ax m ih n t uw ih t n aw
+TXHC%arctic_a0047 k l ow s b iy s ay d hh ih m g l iy m d dh ax w ay t f ae ng z ax v dh ax w uh l f d aa g
+TXHC%arctic_a0022 hh aa r d l iy w er aa r p l ae n z m ey d p ax b l ih k b iy f aa r w iy w er m eh t b ay p aw er f ax l aa p ax z ih zh ax n
+TXHC%arctic_a0063 y eh s ih t w aa z ax m ae n hh uw ae s t ax s t r ey n jh er
+TXHC%arctic_b0527 dh ax v eh r iy ay d iy ax ax v ih t w ax z p r ih p s t er ax s
+TXHC%arctic_b0385 l ae s n ay t hh iy zh ow d aa l dh ax s ih m p t ax m z ax v k ax m ih ng d aw n w ih th n uw m ow n y ax
+TXHC%arctic_b0026 y uw hh ae v ax s ow s iy ey t ax d w ih th s ax m ax v dh iy z m eh n
+TXHC%arctic_a0128 dh ih s w ax n hh ow p w ax z d ih s t r oy d ae z k w ih k l iy ae z ih t w aa z b aa r n
+TXHC%arctic_a0036 zh iy t er n d ih n ae t dh ax hh ow t eh l
+TXHC%arctic_a0099 ax m ae d ax n ih ng jh oy p aw n d ih d ih n hh ih z b r ey n
+TXHC%arctic_b0048 hh iy l uh k t l ay k w ax n hh uw hh ae d p ae s t th r uw ae n ax n k ax m f er t ax b ax l aw r aa r t uw
+TXHC%arctic_b0203 ax m ax n th ih n aa s t r ey l y ax w uh d f ih n ih zh m iy
+TXHC%arctic_a0108 hh iy w ey d ih d ih n t ax dh ax eh jh ax v dh ax w aa t er ae n d b iy g ae n s k r ax b ih ng hh ih m s eh l f
+TXHC%arctic_b0479 v ay ax l ey zh ax n ax v dh ih s l aa w ax z m ey d ax hh ay m ih s d ax m iy n er ae n d p ax n ih zh t ax k aa r d ih ng l iy
+TXHC%arctic_b0189 dh ae t ih z w ax t d ih s t ih ng g w ih zh ih z aa l ax v ax s f r ax m dh ax l ow er ae n ax m ax l z
+TXHC%arctic_a0111 ih n s t eh d hh iy jh oy n d hh er ae n d dh ey ey t l ay k t uw hh ax ng g r iy ch ih l d r ax n
+TXHC%arctic_a0571 hh iy hh ae d f aa r g aa t ax n t ax b ih l d ax f ay er ax n d th aa aw t
+TXHC%arctic_b0251 dh ey m ax s t hh ae v b ih n s w eh p t ax w ey b ay dh ax k ey aa t ih k k er ax n t s
+TXHC%arctic_a0076 dh ax g r ey ay z f aa l t er d dh ax f l ax zh d iy p ax n d
+TXHC%arctic_a0106 dh ax ih m ow zh ax n w ih ch zh iy hh ae d s ax p r eh s t b er s t f aa r th n aw ih n ax ch ow k ih ng s aa b
+TXHC%arctic_a0102 hh iy w ax l f aa l ow ax s s uw n
+TXHC%arctic_a0051 dh ax l ey s w ax z ax v ax d eh l ax k ax t ay v er iy k aa l er f ey n t l iy t ih n t ih d w ih th y eh l ow
+TXHC%arctic_a0075 dh eh r hh ae z b ih n ax ch ey n jh zh iy ih n t er ax p t ih d hh ih m
+TXHC%arctic_b0418 ae t dh ae t m ow m ax n t ay g aa t dh iy ih m p r eh zh ax n dh ae t zh iy w aa z w ih l ax w iy
+TXHC%arctic_a0082 hh ih z f ey s w ax z s t r iy m ih ng w ih th b l ax d
+TXHC%arctic_a0040 ay s ax p ow z y uw w ax n d er w ay zh iy ih z k ax m ih ng ax p hh iy r
+TXHC%arctic_a0575 dh eh r w er ax n t eh n iy m ih zh ax n z ae n d hh iy w ax z dh ax m ae n t ax n ow
+TXHC%arctic_a0060 eh n iy w ey n ow w ax n s aa hh er l ay k dh ae t
+TXHC%arctic_a0131 p r aa v ax d ax n s hh ae d d ih l ih v er d hh ih m th r uw dh ax m ey l s t r ax m
+TXHC%arctic_a0109 d uw y uw n ow dh ae t y uw aa r zh ey k ih ng m ay k aa n f ax d ax n s ih n y uw
+TXHC%arctic_a0126 iy ch d ey zh iy b ih k ey m ax m aa r v ay t ax l p aa r t ax v hh ih m
+TXHC%arctic_a0103 b ax t dh eh r k ey m n ow p r aa m ax s f r ax m dh ax b ow ax v dh ax k ax n uw
+TXHC%arctic_a0095 ax b ih g k ae n v ax s t eh n t w ax z dh ax f er s t th ih ng t uw k ax m w ih dh ih n hh ih z v ih zh ax n
+TXHC%arctic_a0065 dh ey k l ow z d n aw ax n t ih l hh ih z f ih ng g er z w er l ay k k aa r d z ax v s t iy l
+TXHC%arctic_a0003 f er dh ax t w eh n t iy ih th t ay m dh ae t iy v n ih ng dh ax t uw m eh n zh uh k hh ae n d z
+TXHC%arctic_a0090 dh ax s ih ng ih ng v oy s ax p r ow ch t r ae p ax d l iy
+TXHC%arctic_a0117 zh iy ae d ih d w ih th jh eh n y ax w ax n s ih m p ax th iy ih n hh er f ey s ax n d v oy s
+TXHC%arctic_b0483 dh ax f l aw er ax v dh ax aa r t ih s t ih k ae n d ih n t ax l eh k ch uw ax l w er l d w er r eh v ax l uw zh ax n ih s t s
+TXHC%arctic_a0029 dh eh r f aa r s ih z w er aa r eh d iy m uw v ih ng ih n t uw dh ax n aa r th k ax n t r iy
+TXHC%arctic_b0531 ay ae m zh uh r ih t m ax s t hh ae v b ih n s ax m ax d v eh n ch er
+TXHC%arctic_a0037 ay w ax z dh ax ow n l iy w ax n hh uw r iy m ey n d s ih t ih ng
+TXHC%arctic_a0062 dh ax m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+TXHC%arctic_b0488 b iy aa n d r ih f y uw z ih ng t uw s eh l ax s f uw d dh ey l eh f t ax s t uw aa r s eh l v z
+TXHC%arctic_a0137 dh eh n hh iy s t eh p t b ae k w ih th ax l ow k r ay ax v p l eh zh er
+TXHC%arctic_a0005 w ih l w iy eh v er f er g eh t ih t
+TXHC%arctic_a0129 hh er f ey s w ax z ax g ey n s t hh ih z b r eh s t
+TXHC%arctic_b0461 b ay v er ch uw ax v dh ae t p aw er w iy zh ae l r iy m ey n ih n p aw er
+TXHC%arctic_a0067 zh uh r l iy ay w ax l ih k s k y uw s y uw zh iy k r ay d
+TXHC%arctic_a0139 hh iy t ow l d hh ih m s eh l f dh ae t ae z hh iy w aa zh t hh ih m s eh l f ax n d g r uw m d hh ih z d ih zh eh v ax l d k l ow dh z
+TXHC%arctic_a0096 p er hh ae p s zh iy hh ae d aa l r eh d iy m eh t hh er f ey t ax l ih t ax l d iy p er ih n dh ax f aa r ax s t
+TXHC%arctic_a0100 y uw m ax s t s l iy p hh iy er jh d
+TXHC%arctic_a0120 m ay r ay t f uh t f iy l z l ay k dh ae t ax v ax ch ay n iy z d eh b y ax t aa n t
+TXHC%arctic_a0536 hh iy w uh d d ih s t r oy aa l th ih ng z dh ae t aa r f ih k s t
+TXHC%arctic_a0089 dh ax n ay t g l ow w ax z t r eh ch er ax s t uw zh uw t b ay
+TXHC%arctic_a0245 aw t ax v hh ih z ey t iy n hh ax n dh r ih d hh iy l ey d ax s ay d s ih k s t iy n hh ax n dh r ih d iy ch y ih r
+TXHC%arctic_a0021 ih t f eh r l iy k l ax b d m iy ih n t uw r eh k ax g n ay z ih ng ih t
+TXHC%arctic_a0088 hh iy m ey d zh uh r dh ae t dh ax m ae g ax z iy n w ax z l ow d ih d ae n d r iy z uw m d hh ih z p ae d ax l ih ng
+TXHC%arctic_a0013 hh iy w ax z ax hh eh d zh aa r t er dh ax n hh ih z k ax m p ae n y ax n ax v aa l m ow s t d eh l ax k ax t f ax z iy k
+TXHC%arctic_a0010 ax m p l ey ih ng ax s ih ng g ax l hh ae n d ih n w ax t l uh k s l ay k ax l uw z ih ng g ey m
+TXHC%arctic_a0042 hh aw k uh d hh iy ih k s p l ey n hh ih z p ax z eh zh ax n ax v dh ax s k eh ch
+TXHC%arctic_a0058 ay k ey m f r er ih n f er m ey zh ax n m aa r aw t ax v k y uh r iy aa s ax t iy dh ax n eh n iy th ih ng eh l s
+TXHC%arctic_a0046 dh ax g er l f ey s t hh ih m hh er ay z zh ay n ih ng w ih th s ax d ax n f ih r
+TXHC%arctic_b0509 hh iy hh ae d f uh l f ih l d hh ih z d uw t iy ax n d p ey d p r aa p er l iy
+TXHC%arctic_a0038 w ih l hh ae v t uw w aa ch aw r ch ae n s ih z
+TXHC%arctic_a0115 hh iy hh ae d n ow ih k s k y uw z f aa r dh ax f iy l ih ng z w ih ch w er er aw z d ih n hh ih m
+TXHC%arctic_b0430 dh ey w er b ae b l ih ng ax n d ch ae t er ih ng aa l t ax g eh dh er
+TXHC%arctic_a0092 hh iy w eh n t d aw n ih n m ih d s t r iy m s er ch ih ng dh ax zh ae d ow z ax v b ow th zh aa r z
+TXHC%arctic_b0282 s ax m ax v dh ax s m aa l er v ey n z hh ae d d aw t l ax s b ax n r ax p ch er d
+TXHC%arctic_a0086 d eh th hh ae d k ax m w ih th t eh r ax b ax l s ax d ax n n ax s
+TXHC%arctic_a0073 dh ax p r ax m ow t er z ay z w er hh eh v iy w ih th l ih t ax l p ax f iy b ae g z ax n d er dh eh m
+TXHC%arctic_b0323 k r ih k ax t s b ih g ae n t ih ch er p ae n d m aa r g iy s ax n d d ax k s f l uw ow v er hh eh d
+TXHC%arctic_b0476 dh ax r iy aa r g ax n ax z ey zh ax n ax v dh iy z k ax n t r iy z t uh k dh ax f aa r m ax v r eh v ax l uw zh ax n
+TXHC%arctic_b0481 dh ax t ae s k w iy s eh t aa r s eh l v z w aa z th r iy f ow l d
+TXHC%arctic_a0123 zh iy hh ae d d ay d f er m k ow l d ax n d s t aa r v ey zh ax n
+TXHC%arctic_b0004 hh w ih n ay k ae n t s iy b y uw t iy ih n w uh m ax n ay w aa n t t ax d ay
+TXHC%arctic_a0091 hh ih z b l ax d g r uw hh aa t w ih th r ey jh ae t dh ax th aa t
+TXHC%arctic_a0032 s ih n s dh eh n s ax m m ih s t ih r iy ax s f aa r s hh ax z b ih n f ay t ih ng ax s ae t eh v er iy s t eh p
+TXHC%arctic_a0048 hh iy l uh k t ae t dh ax hh ae ng k er ch ih f m aa r k l ow s l iy
+TXHC%arctic_a0121 dh ey ey t d ih n er ae t dh ax f ih f th ae n d r eh s t ih d f aa r t uw aw er z
+TXHC%arctic_a0459 dh eh r z t uw m ax ch ax v dh ax s k uw l b oy ih n m iy
+TXHC%arctic_a0515 b ax t hh iy r ax m ax ng s t aw er s eh l v z l eh t ax s s p iy k aw t
+TXHC%arctic_a0122 t uw y ih r z ax g ow ay g ey v ax p s ih v ax l ih z ey zh ax n f r er dh ih s
+TXHC%arctic_a0134 hh iy ow b ey d dh ax p r eh zh er ax v hh er hh ae n d
+TXHC%arctic_a0130 zh iy w ax z hh ih z n aw f er eh v er
+TXHC%arctic_b0465 b ax t s ax ch d ay v er jh ax n s ax v ax p ih n y ax n w uh d k aa n s t ax t uw t n ow m eh n ax s t uw s ax s ay ax t iy
+TXHC%arctic_b0185 y aa r b iy ih ng r eh k t hh iy r hh ae z b ih n ax g aa d s eh n d t ax m iy
+TXHC%arctic_a0059 hh ih z ih m ae k y uw l ih t ax p ih r ax n s w aa z g aa n
+TXHC%arctic_b0074 y eh t b ih hh ay n d dh eh m dh eh r w ax z ax n ax dh er ae n d m aa r p aw er f ax l m ow t ih v
+TXHC%arctic_a0027 t uw m ay s ax p r ay z hh iy b iy g ae n t ax zh ow ae k zh ax l ih n th uw z iy ae z ax m ih n m ay f ey v er
+TXHC%arctic_a0077 ih t ih z dh ax f ay er p aa r t l iy zh iy s eh d
+TXHC%arctic_a0052 ih t w ax z ax k y uh r iy ax s k ow ih n s ih d ax n s
+TXHC%arctic_b0422 dh ih s w aa z w eh n dh ax ih k s p l ow zh ax n ax k er d
+TXHC%arctic_a0093 f aa r ax f uh l m ih n ax t hh iy k r aw ch t ae n d l ih s ax n d
+TXHC%arctic_a0097 dh eh n y uw k ae n er ey n jh y er s eh l f k ax m f er t ax b l iy ax m ax ng dh iy z r ow b z ih n dh ax b ow
+TXHC%arctic_a0225 ay w ax z b r aa t ax p dh ax w ey m ow s t g er l z ih n hh ax w ay iy aa r b r aa t ax p
+TXHC%arctic_a0104 zh iy w ax z s l iy p ih ng ax n d er hh ih z p er t eh k zh ax n ae z s w iy t l iy ae z ax ch ay l d
+TXHC%arctic_b0366 ay f aa r g aa t hh aw iy z ax l iy ay hh ae d t aa t m ay s eh l f f r ax m dh ax p r ih n t ih d p ey jh
+TXHC%arctic_a0071 hh w ax t w ax z dh ax aa b jh eh k t ax v y aa r l ih t ax l s eh n s ey zh ax n
+TXHC%arctic_a0007 ae n d y uw aa l w iy z w aa n t t ax s iy ih t ih n dh ax s uh p er l ax t ih v d ih g r iy
+TXHC%arctic_a0576 ae n d dh ax b ih g p er zh ax n n uw ax v hh ih z ih g z ih s t ax n s b iy f aa r hh iy d ih d ax v hh er z
+TXHC%arctic_a0113 ay s ax p ow z y uw p ih k t dh ae t l ih ng g ow ax p ax m ax ng dh ax ih n d iy ax n z
+TXHC%arctic_a0023 ax k aa m b ax n ey zh ax n ax v k ax n ey d iy ax n k ae p ax t ax l k w ih k l iy aa r g ax n ay z d ae n d p ax t ih zh ax n d f aa r dh ax s ey m p r ih v ih l ih jh ih z
+TXHC%arctic_a0085 ax t r ih k ax l ax v f r eh zh b l ax d r ae n ow v er hh ih z f ey s
+TXHC%arctic_a0519 s ax ch ae n ae k t w ax z ih n d ay r eh k t v ay ax l ey zh ax n ax v dh ax l aa z ax v dh ax l ae n d
+NJS%arctic_a0295 ae n d t w eh n t iy m eh n k uh d hh ow l d ih t w ih th s p ih r z ae n d ae r ow z
+NJS%arctic_a0303 b ax t dh ey m ey k dh iy m ih s t ey k ax v ih g n aa r ih ng dh eh r ow n d uw ae l ax t iy
+NJS%arctic_b0269 hh w ay n aa t l ay k eh n iy r ey l r ow d s t ey zh ax n er f eh r iy d iy p ow
+NJS%arctic_a0079 ih t w ax z ax l aa r jh k ax n uw
+NJS%arctic_a0006 g aa d b l eh s ay hh ow p ay l g ow aa n s iy ih ng dh eh m f er eh v er
+NJS%arctic_a0107 ih f y uw ow n l iy k uh d n ow hh aw ay th ae ng k y uw
+NJS%arctic_a0178 eh v r iy b ow n ih n hh er ey jh d b aa d iy s iy m d b r ow k ax n aa r d ih s l ow k ey t ih d
+NJS%arctic_a0064 dh ax f aa r th ae n d f ih f th d ey z p ae s t w ih dh aw t eh n iy d ih v eh l ax p m ax n t s
+NJS%arctic_a0185 dh ax k w eh s ch ax n z m ey hh ae v k ax m v ey g l iy ih n hh ih z m ay n d
+NJS%arctic_a0054 dh eh r w ax z n ax th ih ng aa n dh ax r aa k
+NJS%arctic_a0441 v ay ax l ax n t l ay f ax n d ae th l eh t ih k s p aa r t s hh ae d n eh v er ax p iy l d t ih m iy
+NJS%arctic_a0030 ay hh ae d f ey th ih n dh eh m
+NJS%arctic_a0148 n aw dh iy z th ih ng z hh ae d b ih n s t r ax k d eh d w ih th ih n hh ih m
+NJS%arctic_a0112 hh iy w ax z w uw n d ih d ih n dh ax aa r m
+NJS%arctic_a0105 ow n l iy ih t ih z s ow w ax n d er f ax l s ow aa l m ow s t ih m p aa s ax b ax l t ih b ih l iy v
+NJS%arctic_a0025 ay w ax z ax b aw t t uw d uw dh ih s w eh n k uw l er jh ax jh m ax n t p r iy v ey l d
+NJS%arctic_a0127 ih t w ax z ax t eh m t ey zh ax n b ax t hh iy r ih z ih s t ih d ih t
+NJS%arctic_a0098 zh ae l ay k ae r iy y uw
+NJS%arctic_a0026 ih t ax k er d t uw m iy dh ae t dh eh r w uh d hh ae v t ih b iy ax n ax k aw n t ih ng
+NJS%arctic_a0024 ih t w ax z m ay r ih p aa r t s f er m dh ax n aa r th hh w ih ch ch iy f l iy ih n d uw s t p iy p ax l t uw b ay
+NJS%arctic_a0020 k l ax b z ae n d b aa l z ax n d s ih t iy z g r uw t uw b iy ow n l iy m eh m er iy z
+NJS%arctic_a0154 hh iy w ax z s m uw dh zh ey v ax n ae n d hh ih z hh eh r ae n d ay z w er b l ae k
+NJS%arctic_a0028 r aa b er iy b r ay b er iy f r aa d
+NJS%arctic_a0548 aa l s ow ch er r ch ih z ax n d p r iy ch er z ay hh ae d n eh v er n ow n
+NJS%arctic_a0011 ih f ay eh v er n iy d ih d ax f ay t er ih n m ay l ay f ay n iy d w ax n n aw
+NJS%arctic_a0078 dh eh n ae n d ae t s ax p er hh iy t r ay d t ih f ae dh ax m hh er
+NJS%arctic_a0101 y uw y uw w uh d n aa t k iy p dh ax t r uw th f r ax m m iy
+NJS%arctic_a0039 dh ax zh ih p zh uh d b iy ih n w ih dh ih n ax w iy k aa r t eh n d ey z
+NJS%arctic_b0434 dh ax s t uw er d hh ae z jh ax s t t eh n d er d m iy ax r ih s p eh k t f ax l b ih t ax v ax d v ay s
+NJS%arctic_a0041 m iy n w ay l ay l g ow aw t t uw b r iy dh ax s p eh l
+NJS%arctic_a0008 g ae d y uh r l eh t er k ey m jh ax s t ih n t ay m
+NJS%arctic_a0116 w ax z ih t dh ax r aa n d ih v uw ax v dh ow z hh uw w er s t r ay v ih ng t ax w er k hh ih z r uw ih n
+NJS%arctic_a0081 hh w ax t ih f zh iy d ih d n aa t k ax m t ax dh ax r aa k
+NJS%arctic_a0045 hh iy m uw v d ax w ey ae z k w ay ax t l iy ae z hh iy hh ae d k ax m
+NJS%arctic_a0299 ay t eh l y uw ax m d ih s g ax s t ax d w ih dh dh ih s ae d v eh n ch er t aa m f uw l er iy ae n d r aa t
+NJS%arctic_a0053 s ax d ax n l iy hh ih z f ih ng g er z k l ow z d t ay t l iy ow v er dh ax hh ae ng k er ch iy f
+NJS%arctic_a0198 s ax m t ay m z hh er d r iy m z w er f ih l d w ih dh v ih zh ax n z
+NJS%arctic_a0031 dh ey w er th r iy hh ax n d r ih d y aa r d z ax p aa r t
+NJS%arctic_a0136 ax b aw t hh ih m eh v r iy w eh r w er dh ax eh v ax d ax n s ax z ax v l ax g zh er iy ae n d ax v ey jh
+NJS%arctic_a0018 dh eh r w ax z ax ch ey n jh n aw
+NJS%arctic_b0019 hh ih z s l ih m hh ae n z g r ih p t dh ax eh jh ih z ax v dh ax t ey b ax l
+NJS%arctic_a0125 hh iy w ax z d ih t er m ax n d n aw t uw m ey n t ey n ax m aa r s er t ax n hh ow l d ax p aa n hh ih m s eh l f
+NJS%arctic_b0279 hh iy g ey v w ax n l ae s s n aa r l ae n d s l ih d f r ax m v y uw ax m ax ng dh ax t r iy z
+NJS%arctic_a0254 s t r ey t aw t dh ey s w ae m dh eh r hh eh d z g r ow ih ng s m aa l er ae n d s m aa l er
+NJS%arctic_a0094 hh iy hh ae d b eh r l iy eh n t er d dh ih s hh w ih n hh iy s aa dh ax g l ow ax v ax f ay r
+NJS%arctic_a0019 ay f aa l ow d dh ax l ay n ax v dh ax p r ax p ow z d r ey l r ow d l uh k ih ng f er ch ae n s ih z
+NJS%arctic_a0265 dh iy d ih s k ax v er iy s iy m d t ih hh ae v b ih n m ey d aa n dh ax s p er ax v dh ax m ow m ax n t
+NJS%arctic_a0320 w ih th m ay s t r eh ng th ay s l ae m d ih t f uh l ih n t uw r eh d ay z f ey s
+NJS%arctic_a0047 k l ow s b iy s ay d hh ih m g l iy m d dh ax w ay t f ae ng z ax v dh ax w uh l f d aa g
+NJS%arctic_a0022 hh aa r d l iy w er aa r p l ae n z m ey d p ax b l ih k b iy f aa r w iy w er m eh t b ay p aw er f ax l aa p ax z ih zh ax n
+NJS%arctic_a0063 y eh s ih t w ax z ax m ae n hh uw ae s k t ax s t r ey n jh er
+NJS%arctic_a0128 dh ih s w ax n hh ow p w ax z d ih s t r oy d ae z k w ih k l iy ae z ih t w ax z b aa r n
+NJS%arctic_a0191 f r er ax t ay m dh iy ih k s ay t ih ng th r ih l ax v hh ih z ae d v eh n ch er w ax z g aa n
+NJS%arctic_b0070 dh eh r w ax z n ow ch ae n s t ax f ay r w ih dh aw t hh ih t ih ng hh ih m
+NJS%arctic_b0150 ae n d hh iy w ax z f ih l d w ih dh ax s t r ey n jh ae n d f aa r b ow d ih ng f ih r
+NJS%arctic_a0036 zh iy t er n d ih n ae t dh iy hh ow t eh l
+NJS%arctic_a0099 ax m ae d ax n ih ng jh oy p aw n d ih d ih n hh ih z b r ey n
+NJS%arctic_a0108 hh iy w ey d ih d ih n t uw dh iy eh jh ax v dh ax w aa t er ae n d b ih g ae n s k r ax b ih ng hh ih m s eh l f
+NJS%arctic_a0111 ih n s t eh d hh iy jh oy n d hh er ae n d dh ey ey t l ay k t uw hh ax ng g r iy ch ih l d r ax n
+NJS%arctic_a0076 dh iy g r ey ay z f aa l t er d dh ax f l ax zh d iy p ax n d
+NJS%arctic_a0106 dh iy ih m ow zh ax n hh w ih ch zh iy hh ae d s ax p r eh s t b er r s t f aa r th n aw ih n ax ch ow k ih ng s aa b
+NJS%arctic_b0494 n eh v er s ow s t r ey n jh ax p r aa f ax t k ey m ax p t ih jh er uw s ax l ax m
+NJS%arctic_a0102 hh iy w ih l f aa l ow ax s s uw n
+NJS%arctic_a0051 dh iy l ey s w ax z ax v ax d eh l ax k ax t ay v er iy k aa l er f ey n t l iy t ih n t ih d w ih th y eh l ow
+NJS%arctic_a0075 dh eh r hh ae z b ih n ey ch ey n jh zh iy ih n t er ax p t ih d hh ih m
+NJS%arctic_a0082 hh ih z f ey s w ax z s t r iy m ih ng w ih th b l ax d
+NJS%arctic_a0040 ay s ax p ow z y uw w ax n d er w ay zh iy ih z k ax m ih ng ax p hh iy r
+NJS%arctic_a0060 eh n iy w ey n ow w ax n s aa hh er l ay k dh ae t
+NJS%arctic_a0131 p r aa v ax d ax n s hh ae d d ih l ih v er d hh ih m th r uw dh ax m ey l s t r ax m
+NJS%arctic_a0109 d uw y uw n ow dh ae t y uw er zh ey k ih ng m ay k aa n f ax d ax n s ih n y uw
+NJS%arctic_a0126 iy ch d ey zh iy b iy k ey m ax m aa r v ay t ax l p aa r t ax v hh ih m
+NJS%arctic_b0413 hh iy m ey d ih z ay er t ih ih s k ey p p ey n aa r t uw ih n jh oy p l eh zh er
+NJS%arctic_a0103 b ax t dh eh r k ey m n ow p r aa m ax s f r ax m dh ax b ow ax v dh ax k ax n uw
+NJS%arctic_a0095 ax b ih g k ae n v ax s t eh n t w ax z dh ax f er s t th ih ng t ih k ax m w ih th ih n hh ih z v ih zh ax n
+NJS%arctic_a0065 dh ey k l ow z d n aw ax n t ih l hh ih z f ih ng g er z w er l ay k k aa r d z ax v s t iy l
+NJS%arctic_a0003 f aa r dh ax t w eh n t iy ax th t ay m dh ae t iy v n ih ng dh iy t uw m eh n zh uh k hh ae n d z
+NJS%arctic_a0363 ih t s n aa t ax n ax t eh m p t t ax s m ae zh dh ax m aa r k ih t
+NJS%arctic_a0090 dh ax s ih ng ih ng v oy s ax p r ow ch t r ae p ax d l iy
+NJS%arctic_a0117 zh iy ae d ih d w ih dh jh eh n y uw w ay n s ih m p ax th iy ih n hh er f ey s ae n d v oy s
+NJS%arctic_a0029 dh eh r f aa r s ih z w er aa l r eh d iy m uw v ih ng ih n t uw dh ax n aa r th k ax n t r iy
+NJS%arctic_a0170 dh eh r w ax z n ax n ax v dh iy jh oy ax v m iy t ih ng ih n hh ih z f ey s
+NJS%arctic_a0037 ay w ax z dh iy ow n l iy w ax n hh uw r iy m ey n d s ih t ih ng
+NJS%arctic_a0062 dh ax m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+NJS%arctic_a0137 dh eh n hh iy s t eh p t b ae k w ih th ax l ow k r ay ax v p l eh zh er
+NJS%arctic_a0005 w ih l w iy eh v er f er g eh t ih t
+NJS%arctic_a0129 hh er f ey s w ax z ax g eh n s t hh ih z b r eh s t
+NJS%arctic_b0461 b ay v er r ch uw ax v dh ae t p aw er w iy zh ae l r iy m ey n ih n p aw er
+NJS%arctic_a0067 zh uh r l iy ay w ih l ih k s k y uw z y uw zh iy k r ay d
+NJS%arctic_a0176 f r er dh ax f er s t t ay m ih n hh ih z l ay f hh iy w ax z y er n ih ng f aa r ax s k r ae p
+NJS%arctic_a0260 n ow b ax d iy n y uw hh ih z hh ih s t r iy dh ey ax v dh iy hh uh n t ax l iy s t ax v aa l
+NJS%arctic_a0487 dh ax r ih v er b eh r d ih t s b uh z ax m ae n d s n aa r t ih ng s t iy m b ow t s ch ae l ax n jh d dh ax w ih l d er n ax s
+NJS%arctic_a0139 hh iy t ow l d hh ih m s eh l f dh ae t ae z hh iy w aa zh t hh ih m s eh l f ae n d g r uw m d hh ih z d ih zh eh v ax l d k l ow dh z
+NJS%arctic_a0096 p er hh ae p s zh iy hh ae d aa l r eh d iy m eh t hh er f ey t ax l ih t ax l d iy p er ih n dh ax f aa r ax s t
+NJS%arctic_a0100 y uw m ax s t s l iy p hh iy er jh d
+NJS%arctic_a0120 m ay r ay t f uh t f iy l z l ay k dh ae t ax v ax ch ay n iy z d eh b y ax t aa n t
+NJS%arctic_b0042 t eh n m ih n ax t s hh ae d n aa t ih l ae p s t s ih n s hh iy hh ae d d r aa p t dh iy hh ae ng k er ch iy f
+NJS%arctic_a0210 ih t s d ay ae m ax t er w ax z n aa t m aa r dh ax n t uw hh ax n d r ih d y aa r d z
+NJS%arctic_a0089 dh ax n ay t g l ow w ax z t r eh ch er ax s t uw zh uw t b ay
+NJS%arctic_a0021 ih t f eh r l iy k l ax b d m iy ih n t ax r eh k ax g n ay z ih ng ih t
+NJS%arctic_a0088 hh iy m ey d zh uh r dh ax t dh ax m ae g ax z iy n w ax z l ow d ih d ae n d r ih z uw m d hh ih z p ae d l ih ng
+NJS%arctic_a0013 hh iy w ax z ax hh eh d zh aa r t er dh ae n hh ih z k ax m p ae n y ax n ax v aa l m ow s t d eh l ax k ax t f ax z iy k
+NJS%arctic_a0010 ay m p l ey ih ng ax s ih ng g ax l hh ae n d ih n w ax t l uh k s l ay k ax l uw z ih ng g ey m
+NJS%arctic_a0042 hh aw k uh d hh iy ih k s p l ey n hh ih z p ax z eh zh ax n ax v dh ax s k eh ch
+NJS%arctic_a0300 f r ax m m ay er l iy ax s t r eh k ax l eh k zh ax n m ay s l iy p w ax z ax p ih r iy ax d ax v t eh r er
+NJS%arctic_a0058 ay k ey m f r er ih n f er m ey zh ax n m aa r aw t ax v k y uh r iy aa s ax t iy dh ax n eh n iy th ih ng eh l s
+NJS%arctic_a0416 dh ax ae d ih d w ey t hh ae d ax v ax l aa s ax t iy ax v f ih f t iy n m ay l z p er aw er
+NJS%arctic_a0046 dh ax g er l f ey s t hh ih m hh er ay z zh ay n ih ng w ih th s ax d ax n f ih r
+NJS%arctic_a0038 w ih l hh ae v t uw w aa ch aa r ch ae n s ih z
+NJS%arctic_a0115 hh iy hh ae d n ow ih k s k y uw z f aa r dh iy f iy l ih ng z w ih ch w er er aw z d ih n hh ih m
+NJS%arctic_b0304 hh ih z p r iy v iy ax s w ay v z hh ae d n eh v er l ih v d l aa ng iy n ax f t ax b eh r hh ih m ch ih l d r ax n
+NJS%arctic_a0092 hh iy w eh n t d aw n ih n m ih d s t r iy m s er ch ih ng dh ax zh ae d ow z ax v b ow th zh aa r z
+NJS%arctic_a0233 ay n eh v er ax l aw w ax t k ae n t b iy ch ey n jh d t uw ax n oy m iy
+NJS%arctic_a0298 dh ih s t ae s ih t p r aa m ax s ax v k ax n t ih n y uw d ax k w ey n t ax n s g ey v s ae k s ax n ey l ih t ax l jh oy th r ih l
+NJS%arctic_a0086 d eh th hh ae d k ax m w ih th t eh r ax b ax l s ax d ax n n ax s
+NJS%arctic_a0073 dh ax p r ax m ow t er z ay z w er hh eh v iy w ih th l ih t ax l p ax f iy b ae g z ax n d er dh eh m
+NJS%arctic_a0123 zh iy hh ae d d ay d f er m k ow l d ae n d s t aa r v ey zh ax n
+NJS%arctic_a0271 n aw p l iy z g ih v ax p l ey n s t ey t m ax n t ax v w ax t ax k er d
+NJS%arctic_a0091 hh ih z b l ax d g r uw hh aa t w ih th r ey jh ae t dh ax th aa t
+NJS%arctic_b0187 hh er ax ch iy v m ax n t s w ih th k ow k ow n ax t s w er ax r eh v ax l ey zh ax n
+NJS%arctic_a0159 dh ey l uh k ae z dh ow hh iy hh ae d b ih n d r ax m ih ng ax p iy ae n ax aa l hh ih z l ay f
+NJS%arctic_a0032 s ih n s dh eh n s ax m m ih s t ih r iy ax s f aa r s hh ae z b ih n f ay t ih ng ax s ae t eh v r iy s t eh p
+NJS%arctic_a0048 hh iy l uh k t ae t dh iy hh ae ng k er ch iy f m aa r k l ow s l iy
+NJS%arctic_a0121 dh ey ey t d ih n er ae t dh ax f ih th ae n d r eh s t ih d f r er t uw aw er z
+NJS%arctic_a0122 t uw y er z ax g ow ay g ey v ax p s ih v ax l ih z ey zh ax n f r er dh ih s
+NJS%arctic_a0269 dh ae t s w eh r dh ey k ax t aa f dh ax s k aa t ih zh ch iy f s ae n d k ih l d aa l hh ae n d z
+NJS%arctic_a0134 hh iy ow b ey d dh ax p r eh zh er ax v hh er hh ae n d
+NJS%arctic_a0130 zh iy w ax z hh ih z n aw f er eh v er
+NJS%arctic_a0369 ih n p aa r t n er zh ih p w ih th d ey l ay t dh ax p eh r r ey d ih d dh iy s ae n hh ow z ey ih n t er er r b ax n
+NJS%arctic_b0538 ae t dh iy b eh s t dh ey w er n eh s ax s eh r iy ae k s eh s er iy z
+NJS%arctic_a0500 hh uw dh ax d eh v ax l g ey v ih t t uw y uw t ih b iy jh ax jh ae n d jh uh r iy
+NJS%arctic_a0059 hh ih z ih m ae k y uw l ih t ax p ih r ax n s w ax z g aa n
+NJS%arctic_a0027 t uw m ay s ax p r ay z hh iy b ih g ae n t uw zh ow ae k zh ax l ih n th uw z iy ae z ax m ih n m ay f ey v er
+NJS%arctic_a0077 ih t ih z dh ax f ay er p aa r t l iy zh iy s eh d
+NJS%arctic_a0052 ih t w ax z ax k y uh r iy ax s k ow ih n s ih d ax n s
+NJS%arctic_a0093 f r er ax f uh l m ih n ax t hh iy k r aw ch t ae n d l ih s ax n d
+NJS%arctic_a0097 dh eh n y uw k ax n er ey n jh y er s eh l f k ax m f er t ax b l iy ax m ax n dh iy z r ow b z ih n dh ax b ow
+NJS%arctic_a0212 f r eh zh k ey s ih z s t ih l ey b ax l t uw w aa k dh ey k l ax s t er d ax b aw t dh ax s p ow k s m ax n
+NJS%arctic_a0104 zh iy w ax z s l iy p ih ng ax n d er hh ih z p er t eh k zh ax n ae z s w iy t l iy ae z ax ch ay l d
+NJS%arctic_a0071 hh w ax t w ax z dh iy aa b jh eh k t ax v y uh r l ih t ax l s eh n s ey zh ax n
+NJS%arctic_a0007 ae n d y uw aa l w iy z w aa n t t ih s iy ih t ih n dh ax s uh p er l ax t ih v d ih g r iy
+NJS%arctic_a0401 dh ax m ae n s m ay l d g r ih m l iy ae n d b r aa t ax hh ae ch ax t ae n d ax k l ax b
+NJS%arctic_b0503 dh ax s eh n t s ax v s t r ey n jh v eh jh ax t ey zh ax n b l uw aa f dh ax t r aa p ih k l ae n d
+NJS%arctic_b0534 ay l t eh l y uw dh ax l ay b r eh r iy ax n s eh d w ih dh ax b r ay t ax n ih ng f ey s
+NJS%arctic_a0113 ay s ax p ow z y uw p ih k t dh ae t l ih ng g ow ax p ax m ax ng dh ax ih n d iy ax n z
+NJS%arctic_a0145 ay hh ae v t ax b iy k eh r f ax l ax v dh eh m ae z dh ey t ih r v eh r iy iy z ax l iy
+NJS%arctic_a0556 hh w ay hh iy z b aa t f aa r t iy p aw n z ax v g uh d z f er m y uw aa l r eh d iy
+NJS%arctic_a0023 ax k aa m b ax n ey zh ax n ax v k ax n ey d iy ax n k ae p ih t ax l k w ih k l iy aa r g ax n ay z d ae n d p ax t ih zh ax n d f r er dh iy s ey m p r ih v ih l ih jh ih z
+NJS%arctic_a0085 ax t r ih k ax l ax v f r eh zh b l ax d r ae n ow v er hh ih z f ey s
+NJS%arctic_a0227 ih t w ax z dh ax s ey m w ey w ih dh aa r r ih v aa l v er z ae n d r ay f ax l z
+NJS%arctic_b0298 hh ih z hh ae n d zh aa t aw t ae n d k l ax ch t k r uh k ax d l eh g b ay dh ax n eh k
+YKWK%arctic_a0303 b ax t dh ey m ey k dh ax m ih s t ey k ax v ih g n aa r ih ng dh eh r ow n d uw ae l ax t iy
+YKWK%arctic_b0022 ih f ay w ax z aw t ax v dh ax g ey m ih t w uh d b iy iy z ax l iy m ey d
+YKWK%arctic_a0079 ih t w ax z ax l aa r jh k ax n uw
+YKWK%arctic_a0006 g aa d b l eh s eh m ay hh ow p ay l g ow aa n s iy ih ng dh eh m f er eh v er
+YKWK%arctic_a0107 ih f y uw ow n l iy k uh d n ow hh aw ay th ae ng k y uw
+YKWK%arctic_a0178 eh v r iy b ow n ih n hh er ey s d b aa d iy s iy m d b r ow k ax n aa r d ih s l ow k ey t ih d
+YKWK%arctic_b0530 hh iy hh ae d ax b ih g ch ih m p ae n z iy dh ax t w ax z ax w ih n er
+YKWK%arctic_a0064 dh ax f aa r th ae n d f ih f th d ey z p ae s t w ih dh aw t eh n iy d ih v eh l ax p m ax n t s
+YKWK%arctic_a0054 dh eh r w ax z n ax th ih ng aa n dh ax r aa k
+YKWK%arctic_b0425 dh eh r w er aa r ih n jh g r iy n g ow l d g r iy n ae n d ax k aa p er g r iy n
+YKWK%arctic_a0030 ay hh ae d f ey th ih n dh eh m
+YKWK%arctic_a0148 n aw dh iy z th ih ng z hh ae d b ih n s t r ax k d eh d w ih th ih n hh ih m
+YKWK%arctic_a0112 hh iy w ax z w uw n d ih d ih n dh iy aa r m
+YKWK%arctic_a0105 ow n l iy ih t ih z s ow w ax n d er f ax l s ow aa l m ow s t ih m p aa s ax b ax l t uw b ih l iy v
+YKWK%arctic_a0025 ay w ax z ax b aw t t ax d uw dh ih s w eh n k uw l er jh ax jh m ax n t p r iy v ey l d
+YKWK%arctic_a0127 ih t w ax z ax t eh m t ey zh ax n b ax t hh iy r iy z ih s t ih d ih t
+YKWK%arctic_b0215 ih t ih z ax g uh d p r aa p er t iy ae n d w er th m aa r dh ae n dh ae t
+YKWK%arctic_a0098 zh ae l ay k eh r iy y uw
+YKWK%arctic_a0026 ih t ax k er d t ax m iy dh ae t dh eh r w uh d hh ae v t ax b iy ax n ax k aw n t ih ng
+YKWK%arctic_a0024 ih t w ax z m ay r iy p aa r t s f r ax m dh ax n aa r th hh w ih ch ch iy f l iy ih n d uw s t p iy p ax l t uw b ay
+YKWK%arctic_b0225 dh ax p r eh z ih d ax n t ax v dh iy y uw n ay t ih d s t ey t s w aa z hh ih z f r eh n d
+YKWK%arctic_a0020 k l ax b z ae n d b aa l z ae n d s ih t iy z g r uw t uw b iy ow n l iy m eh m ax r iy z
+YKWK%arctic_a0028 r aa b er iy b r ay b er iy f r aa d
+YKWK%arctic_b0238 dh ax v eh r iy th aa t ax v dh ax eh f er t t ih s w ih m ow v er w aa z n aa zh iy ey t ih ng
+YKWK%arctic_a0144 b ax t dh eh r w ax z s ax m th ih ng iy v ih n m aa r s t aa r t l ih ng dh ae n dh ih s r iy z eh m b l ax n s
+YKWK%arctic_a0011 ih f ay eh v er n iy d ih d ax f ay t er ih n m ay l ay f ay n iy d w ax n n aw
+YKWK%arctic_a0078 dh eh n ae n d ae t s ax p er hh iy t r ay d t ax f ae dh ax m hh er
+YKWK%arctic_a0101 y uw y uw w uh d n aa t k iy p dh ax t r uw th f r ax m m iy
+YKWK%arctic_a0039 dh ax zh ih p zh uh d b iy ih n w ih th ih n ax w iy k aa r t eh n d ey z
+YKWK%arctic_a0041 m iy n w ay l ay l g ow aw t t ax b r iy dh ax s p eh l
+YKWK%arctic_a0008 g ae d y aa r l eh t er k ey m jh ax s t ih n t ay m
+YKWK%arctic_a0116 w ax z ih t dh ax r aa n d ih v uw ax v dh ow z hh uw w er s t r ay v ih ng t uw w er k hh ih z r uw ih n
+YKWK%arctic_a0081 w ax t ih f zh iy d ih d n aa t k ax m t ax dh ax r aa k
+YKWK%arctic_a0045 hh iy m uw v d ax w ey ae z k w ay ax t l iy ae z hh iy hh ae d k ax m
+YKWK%arctic_a0053 s ax d ax n l iy hh ih z f ih ng g er z k l ow z d t ay t l iy ow v er dh ax hh ae ng k er ch ih f
+YKWK%arctic_a0375 dh ax b uh ch er z ae n d m iy t k ax t er z r ih f y uw z d t ax hh ae n d ax l m iy t d eh s t ih n d f aa r ax n f eh r r eh s t r aa n t s
+YKWK%arctic_a0031 dh ey w er th r iy hh ax n d r ax d y aa r d z ax p aa r t
+YKWK%arctic_a0136 ax b aw t hh ih m eh v r iy w eh r w er dh ax eh v ax d ax n s ax z ax v l ax g zh er iy ae n d ax v ey jh
+YKWK%arctic_a0018 dh eh r w ax z ax ch ey n jh n aw
+YKWK%arctic_b0019 hh ih z s l ih m hh ae n z g r ih p t dh iy eh jh ih z ax v dh ax t ey b ax l
+YKWK%arctic_a0125 hh iy w ax z d ih t er m ax n d n aw t uw m ey n t ey n ax m aa r s er t ax n hh ow l d ax p aa n hh ih m s eh l f
+YKWK%arctic_b0355 dh eh r w ax z p r aa p er d ih v ih zh ax n ax v l ey b er ih n dh ax w er k dh ey ih n d ih v ih jh ax l iy p er f aa r m d
+YKWK%arctic_a0094 hh iy hh ae d b eh r l iy eh n t er d dh ih s hh w eh n hh iy s aa dh ax g l ow ax v ax f ay er
+YKWK%arctic_a0019 ay f aa l ow d dh ax l ay n ax v dh ax p r ax p ow z d r ey l r ow d l uh k ih ng f aa r ch ae n s ih z
+YKWK%arctic_a0364 w iy hh ae v p l eh n t iy ax v k ae p ih t ax l aa r s eh l v z ae n d y eh t w iy w aa n t m aa r
+YKWK%arctic_a0047 k l ow s b iy s ay d hh ih m g l iy m d dh ax w ay t f ae ng z ax v dh ax w uh l f d aa g
+YKWK%arctic_a0384 dh ax f aa r m er w er k s dh ax s oy l ae n d p r ax d uw s ih z g r ey n
+YKWK%arctic_a0022 hh aa r d l iy w er aw r p l ae n z m ey d p ax b l ih k b iy f aa r w iy w er m eh t b ay p aw er f ax l aa p ax z ih zh ax n
+YKWK%arctic_a0063 y eh s ih t w ax z ax m ae n hh uw ae s t ax s t r ey n jh er
+YKWK%arctic_a0209 ih t w ax z n aa t ax l aa r jh l ey k ax n d aa l m ow s t r aw n d
+YKWK%arctic_a0378 dh ae t s w ay ih t s b aw n d er iy z aa r aa l g aw jh d ae n d jh ae g d
+YKWK%arctic_a0128 dh ih s w ax n hh ow p w aa z d ih s t r oy d ae z k w ih k l iy ae z ih t w ax z b aa r n
+YKWK%arctic_a0036 zh iy t er n d ih n ae t dh ax hh ow t eh l
+YKWK%arctic_a0099 ax m ae d ax n ih ng jh oy p aw n d ih d ih n hh ih z b r ey n
+YKWK%arctic_b0469 v eh r iy f y uw p iy p ax l n y uw ax v dh iy ih g z ih s t ax n s ax v dh ih s l aa
+YKWK%arctic_a0108 hh iy w ey d ih d ih n t uw dh ax eh jh ax v dh ax w aa t er ae n d b iy g ae n s k r ax b ih ng hh ih m s eh l f
+YKWK%arctic_b0143 ih t t uh k ih m hh ae f ax n aw er t uw r iy ch dh iy eh jh ax v ih t
+YKWK%arctic_a0111 ih n s t eh d hh iy jh oy n d hh er ae n d dh ey ey t l ay k t uw hh ax ng g r iy ch ih l d r ax n
+YKWK%arctic_a0076 dh ax g r ey ay z f aa l t er d dh ax f l ax zh d iy p ax n d
+YKWK%arctic_a0106 dh ax iy m ow zh ax n w ih ch zh iy hh ae d s ax p r eh s t b er s t f aa r th n aw ih n ax ch ow k ih ng s aa b
+YKWK%arctic_a0102 hh iy w ax l f aa l ow ax s s uw n
+YKWK%arctic_a0051 dh ax l ey s w aa z ax v ax d eh l ax k ax t ay v r iy k aa l er f ey n t l iy t ih n t ih d w ih dh y eh l ow
+YKWK%arctic_a0075 dh eh r hh ae z b ih n ax ch ey n jh zh iy ih n t er ax p t ih d hh ih m
+YKWK%arctic_a0082 hh ih z f ey s w aa z s t r iy m ih ng w ih dh b l ax d
+YKWK%arctic_a0040 ay s ax p ow z y uw w ax n d er w ay zh iy ih z k ax m ih ng ax p hh iy r
+YKWK%arctic_a0272 y uw k ax n t ey k ax v ey k ey zh ax n aa n p ey
+YKWK%arctic_a0060 eh n iy w ey n ow w ax n s aa hh er l ay k dh ae t
+YKWK%arctic_a0131 p r aa v ax d ax n s hh ae d d ih l ih v er d hh ih m th r uw dh ax m ey l s t r ax m
+YKWK%arctic_a0109 d uw y uw n ow dh ae t y uw aa r zh ey k ih ng m ay k aa n f ax d ax n s ih n y uw
+YKWK%arctic_a0126 iy ch d ey zh iy b ih k ey m ax m aa r v ay t ax l p aa r t ax v hh ih m
+YKWK%arctic_a0103 b ax t dh eh r k ey m n ow p r aa m ax s f r ax m dh ax b ow ax v dh ax k ax n uw
+YKWK%arctic_a0095 ax b ih g k ae n v ax s t eh n t w ax z dh ax f er s t th ih ng t ax k ax m w ih th ih n hh ih z v ih zh ax n
+YKWK%arctic_a0065 dh ey k l ow z d n aw ax n t ih l hh ih z f ih ng g er z w er l ay k k aa r d z ax v s t iy l
+YKWK%arctic_b0197 dh ax p l ae n t er z aa r aa l r eh d iy k ax n s ih d er ih ng dh ax m ae t er
+YKWK%arctic_a0003 f aa r dh ax t w eh n t iy ih th t ay m dh ae t iy v n ih ng dh ax t uw m eh n zh uh k hh ae n z
+YKWK%arctic_a0090 dh ax s ih ng ih ng v oy s ax p r ow ch t r ae p ax d l iy
+YKWK%arctic_a0495 hh iy b aa r n ow g r ax jh ih z ae n d hh ae d f y uw eh n ax m iy z
+YKWK%arctic_a0117 zh iy ae d ih d w ih dh jh eh n y uw w ay n s ih m p ax th iy ih n hh er f ey s ae n d v oy s
+YKWK%arctic_a0029 dh eh r f aa r s ih z w er aa l r eh d iy m uw v ih ng ih n t uw dh ax n aa r th k ax n t r iy
+YKWK%arctic_b0518 b ax t dh eh r w ax z aa l s ow t aa k ax v w ih ch k r ae f t ih n dh ax v ih l ih jh
+YKWK%arctic_a0037 ay w ax z dh iy ow n l iy w ax n hh uw r iy m ey n d s ih t ih ng
+YKWK%arctic_a0062 dh ax m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+YKWK%arctic_a0137 dh eh n hh iy s t eh p t b ae k w ih dh ax l ow k r ay ax v p l eh zh er
+YKWK%arctic_a0005 w ih l w iy eh v er f er g eh t ih t
+YKWK%arctic_a0129 hh er f ey s w aa z ax g eh n s t hh ih z b r eh s t
+YKWK%arctic_a0067 zh uh r l iy ay w ax l ih k s k y uw z y uw zh iy k r ay d
+YKWK%arctic_b0201 ay aa l s ow ax n d er s t ae n d dh ae t s ih m ax l er b r ae n ch aa r g ax n ax z ey zh ax n z hh ae d m ey d dh eh r ax p ih r ax n s ih n y uh r ax p
+YKWK%arctic_a0542 w ih dh aw t ax d aw t s ax m ax v dh eh m hh ae v d ih n er eh n g ey jh m ax n t s
+YKWK%arctic_a0260 n ow b aa d iy n y uw hh ih z hh ih s t er iy dh ey ax v dh ax hh uh n t ax l iy s t ax v aa l
+YKWK%arctic_b0315 ae n d dh ih s w ax z dh eh r s ow l k aa n v er s ey zh ax n th r uw aw t dh ax m iy l
+YKWK%arctic_a0475 hh ih z aw t s t r eh ch t aa r m d r aa p t t uw hh ih z s ay d ae n d hh iy p aa z d
+YKWK%arctic_a0139 hh iy t ow l d hh ih m s eh l f dh ae t ae z hh iy w aa zh t hh ih m s eh l f ae n d g r uw m d hh ih z d ih zh eh v ax l d k l ow z
+YKWK%arctic_a0096 p er hh ae p s zh iy hh ae d aa r eh d iy m eh t hh er f ey t ax l ih t ax l d iy p er ih n dh ax f aa r ax s t
+YKWK%arctic_a0100 y uw m ax s t s l iy p hh iy er jh d
+YKWK%arctic_a0120 m ay r ay t f uh t f iy l z l ay k dh ae t ax v ax ch ay n iy z d eh b y ax t aa n t
+YKWK%arctic_a0089 dh ax n ay t g l ow w aa z t r eh ch er ax s t ax zh uw t b ay
+YKWK%arctic_b0342 iy ch ih m p r uw v m ax n t m ey k s dh ax v ae l y uw ax v eh v r iy th ih ng eh l s p ax m p ax p
+YKWK%arctic_a0021 ih t f eh r l iy k l ax b d m iy ih n t uw r eh k ax g n ay z ih ng ih t
+YKWK%arctic_a0088 hh iy m ey d zh uh r dh ae t dh ax m ae g ax z iy n w aa z l ow d ih d ae n d r iy z uw m d hh ih z p ae d ax l ih ng
+YKWK%arctic_a0013 hh iy w ax z ax hh eh d zh aa r t er dh ae n hh ih z k ax m p ae n y ax n ax v aa l m ow s t d eh l ax k ax t f ax z iy k
+YKWK%arctic_a0365 dh iy z r uw m er z m ey iy v ih n er ih jh ax n ey t w ih dh ax s
+YKWK%arctic_a0010 ay m p l ey ih ng ax s ih ng g ax l hh ae n d ih n w ax t l uh k s l ay k ax l uw z ih ng g ey m
+YKWK%arctic_a0042 hh aw k uh d hh iy ih k s p l ey n hh ih z p ax z eh zh ax n ax v dh ax s k eh ch
+YKWK%arctic_b0266 ae n d n aw p uh t y er s eh l f ih n m ay p l ey s f r er ax m ow m ax n t
+YKWK%arctic_a0058 ay k ey m f aa r ih n f er m ey zh ax n m aa r aw t ax v k y uh r iy aa s ax t iy dh ae n eh n iy th ih ng eh l s
+YKWK%arctic_a0416 dh iy ae d ih d w ey t hh ae d ax v ax l aa s ax t iy ax v f ih f t iy n m ay l z p er aw er
+YKWK%arctic_a0046 dh ax g er l f ey s t hh ih m hh er ay z zh ay n ih ng w ih dh s ax d ax n f ih r
+YKWK%arctic_a0038 w iy l hh ae v t ax w aa ch aw r ch ae n s ih z
+YKWK%arctic_a0258 s ow k t ih n s iy w aa t er dh ey aa f s eh t dh ax hh iy t r ey z
+YKWK%arctic_a0115 hh iy hh ae d n ow ih k s k y uw z f aa r dh ax f iy l ih ng z hh w ih ch w er er aw z d ih n hh ih m
+YKWK%arctic_b0304 hh ih z p r iy v iy ax s w ay v z hh ae d n eh v er l ih v d l aa ng ih n ax f t ih b eh r hh ih m ch ih l d r ax n
+YKWK%arctic_a0092 hh iy w eh n t d aw n ih n m ih d s r iy m s er ch ih ng dh ax zh ae d ow z ax v b ow th zh aa r z
+YKWK%arctic_b0047 s ax p ow z y uw s aa m iy ae t w er k th r uw dh ax w ih n d ow
+YKWK%arctic_a0233 ay n eh v er ax l aw w ax t k ae n t b iy ch ey n jh d t uw ax n oy m iy
+YKWK%arctic_b0386 m ay ay d iy ax w aa z dh ae t hh iy w uh d hh ae v m aa r ih n f l uw ax n s ow v er dh ax n ey t ih v z
+YKWK%arctic_a0086 d eh th hh ae d k ax m w ih dh t eh r ax b ax l s ax d ax n n ax s
+YKWK%arctic_b0192 aw t s ay d er z aa r ax l aw d f ay v m ih n ax t s p iy ch ih z dh ax s ih k m ae n er jh d
+YKWK%arctic_a0073 dh ax p r ax m ow t er z ay z w er hh eh v iy w ih dh l ih t ax l p ax f iy b ae g z ax n d er dh eh m
+YKWK%arctic_a0123 zh iy hh ae d d ay d f r ax m k ow l d ae n d s t aa r v ey zh ax n
+YKWK%arctic_a0271 n aw p l iy z g ih v ax p l ey n s t ey t m ax n t ax v hh w ax t ax k er d
+YKWK%arctic_a0091 hh ih z b l ax d g r uw hh aa t w ih dh r ey jh ae t dh ax th aa t
+YKWK%arctic_a0032 s ih n s dh eh n s ax m m ih s t ih r iy ax s f aa r s hh ae z b ih n f ay t ih ng ax s ae t eh v r iy s t eh p
+YKWK%arctic_a0048 hh iy l uh k t ae t dh ax hh ae ng k er ch ih f m aa r k l ow s l iy
+YKWK%arctic_a0121 dh ey ey t d ih n er ae t dh ax f ih th ae n d r eh s t ih d f aa r t uw aw er z
+YKWK%arctic_a0122 t uw y ih r z ax g ow ay g ey v ax p s ih v ax l ih z ey zh ax n f er dh ih s
+YKWK%arctic_a0134 hh iy ow b ey d dh ax p r eh zh er ax v hh er hh ae n d
+YKWK%arctic_a0168 l ow b uh zh w ih p t hh ih m ih n dh iy f ey s ae n d l eh f t n ow s t ih ng
+YKWK%arctic_a0130 zh iy w aa z hh ih z n aw f er eh v er
+YKWK%arctic_a0442 y uw l ih v aa n ax n ih n k ax m w ih ch y uh r f aa dh er er n d
+YKWK%arctic_a0369 ih n p aa r t n er zh ih p w ih dh d ey l ay t dh ax p eh r r ey d ih d dh ax s ae n hh ow z ey ih n t er er b ax n
+YKWK%arctic_a0345 zh iy w ax z t r ay ih ng t ax p ae s dh ax ey p r ax n s t r ih ng er aw n d hh ih m
+YKWK%arctic_a0143 aa ay hh ae d f er g aa t ax n hh iy ih k s k l ey m d
+YKWK%arctic_a0379 hh aw ow l d aa r y uw d ae d iy
+YKWK%arctic_a0059 hh ih z ih m ae k y uw l ih t ax p ih r ax n s w ax z g aa n
+YKWK%arctic_b0320 dh ax r ih g r eh t ih n hh ih z v oy s w ax z p r ow v aa k ax t ih v ax v ax s eh k ax n b er s t ax v l ae f t er
+YKWK%arctic_b0106 f aa r ax f uh l m ih n ax t dh ax t uw m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+YKWK%arctic_a0027 t ax m ay s ax p r ay z hh iy b ih g ae n t ax zh ow ae k zh ax l ih n th uw z iy ae z ax m ih n m ay f ey v er
+YKWK%arctic_b0068 ow n l iy dh ax ch ae n s s aw n d hh ae d l eh d ih m t uw ax b z er v dh eh m
+YKWK%arctic_a0077 ih t ih z dh ax f ay er p aa r t l iy zh iy s eh d
+YKWK%arctic_a0052 ih t w ax z ax k y uh r iy ax s k ow ih n s ih d ax n s
+YKWK%arctic_a0093 f r ax f uh l m ih n ax t hh iy k r aw ch t ae n d l ih s ax n d
+YKWK%arctic_a0097 dh eh n y uw k ae n er ey n jh y uh r s eh l f k ax m f er t ax b l iy ax m ax ng dh iy z r ow b z ih n dh ax b ow
+YKWK%arctic_a0104 zh iy w ax z s l iy p ih ng ax n d er hh ih z p r ax t eh k zh ax n ae z s w iy t l iy ae z ax ch ay l d
+YKWK%arctic_a0071 w ax t w ax z dh ax aa b jh eh k t ax v y aa r l ih t ax l s eh n s ey zh ax n
+YKWK%arctic_a0007 ae n d y uw aa l w ey z w aa n t t ax s iy ih t ih n dh ax s uh p er l ax t ih v d ih g r iy
+YKWK%arctic_b0503 dh ax s eh n t s ax v s t r ey n jh v eh jh ax t ey zh ax n b l uw aa f dh ax t r aa p ih k l ae n d
+YKWK%arctic_a0113 ay s ax p ow z y uw p ih k t dh ae t l ih ng g ow ax p ax m ax ng dh iy ih n d iy ax n z
+YKWK%arctic_a0145 ay hh ae v t ih b iy k eh r f ax l ax v dh eh m ae z dh ey t eh r v eh r iy iy z ax l iy
+YKWK%arctic_a0023 ax k aa m b ax n ey zh ax n ax v k ax n ey d iy ax n k ae p ax t ax l k w ih k l iy aa r g ax n ay z d ae n d p ax t ih zh ax n d f aa r dh ax s ey m p r ih v l ih jh ih z
+YKWK%arctic_a0085 ax t r ih k ax l ax v f r eh zh b l ax d r ae n ow v er hh ih z f ey s
+ZHAA%arctic_b0083 ih n ih t dh eh r w ax z s ax m th ih ng dh ae t w aa z aa l m ow s t t r ae jh ax d iy
+ZHAA%arctic_a0257 dh ey aa r k ax m ih ng ax zh aa r hh uw eh v er dh ey aa r
+ZHAA%arctic_a0079 ih t w ax z ax l aa r jh k ax n uw
+ZHAA%arctic_a0006 g aa d b l eh s eh m ay hh ow p ay l g ow aa n s iy ih ng dh eh m f er eh v er
+ZHAA%arctic_a0107 ih f y uw ow n l iy k uh d n ow hh aw ay th ae ng k y uw
+ZHAA%arctic_a0064 dh ax f aa r th ae n d f ih th d ey z p ae s t w ih dh aw t eh n iy d ih v eh l ax p m ax n t s
+ZHAA%arctic_a0054 dh eh r w ax z n ax th ih ng aa n dh ax r aa k
+ZHAA%arctic_b0425 dh eh r w er aa r ax n jh g r iy n g ow l d g r iy n ae n d ey k aa p er g r iy n
+ZHAA%arctic_b0438 dh ey r ae n dh iy k ax n uw ih n ae n d k l ay m d dh iy hh ay er th b ae ng k
+ZHAA%arctic_a0441 v ay l ax n t l ay f ae n d ae th l eh t ih k s p aa r t s hh ae d n eh v er ax p iy l d t ih m iy
+ZHAA%arctic_a0030 ay hh ae d f ey th ih n dh eh m
+ZHAA%arctic_b0016 hh iy ch ax k ax l d ae z hh iy p uh l d aw t hh ih z p ay p ae n d b iy g ae n f ih l ih ng ih t
+ZHAA%arctic_a0112 hh iy w ax z w uw n d ih d ih n dh ax aa r m
+ZHAA%arctic_a0105 ow n l iy ih t ih z s ow w ax n d er f ax l s ow aa l m ow s t ih m p aa s ax b ax l t uw b ih l iy v
+ZHAA%arctic_a0025 ay w ax z ax b aw t t uw d uw dh ih s w ih n k uw l er jh ax jh m ax n t p r ih v ey l d
+ZHAA%arctic_a0127 ih t w ax z ax t eh m t ey zh ax n b ax t hh iy r ih z ih s t ih d ih t
+ZHAA%arctic_a0098 zh ae l ay k eh r iy y uw
+ZHAA%arctic_a0026 ih t ax k er d t uw m iy dh ae t dh eh r w uh d hh ae v t ih b iy ae n ax k aw n t ih ng
+ZHAA%arctic_a0024 ih t w aa z m ay r ih p aa r t s f r ax m dh ax n aa r th hh w ih ch ch iy f l iy ih n d uw s t p iy p ax l t uw b ay
+ZHAA%arctic_a0020 k l ax b z ae n d b aa l z ae n d s ih t iy z g r uw t ax b iy ow n l iy m eh m er iy z
+ZHAA%arctic_a0028 r aa b er iy b r ay b er iy f r aa d
+ZHAA%arctic_a0548 aa l s ow ch er ch ih z ae n d p r iy ch er z ay hh ae d n eh v er n ow n
+ZHAA%arctic_b0452 dh ey s aa iy ch ax dh er f r er dh ax f er s t t ay m ih n b aa s t ax n
+ZHAA%arctic_b0495 w iy hh uw hh ae v ih n d uh r d s ow m ax ch zh uh r l iy k ae n ih n d uh r ax l ih t ax l m aa r
+ZHAA%arctic_a0011 ih f ay eh v er n iy d ih d ax f ay t er ih n m ay l ay f ay n iy d w ax n n aw
+ZHAA%arctic_a0078 dh eh n ae n d ae t s ax p er hh iy t r ay d t ax f ae dh ax m hh er
+ZHAA%arctic_a0101 y uw y uw w uh d n aa t k iy p dh ax t r uw th f r ax m m iy
+ZHAA%arctic_a0039 dh ax zh ih p zh uh d b iy ih n w ih dh ih n ax w iy k aa r t eh n d ey z
+ZHAA%arctic_b0434 dh ax s t uw er d hh ae z jh ax s t t eh n d er d m iy ey r ih s p eh k t f ax l b ih t ax v ae d v ay s
+ZHAA%arctic_a0041 m iy n w ay l ay l g ow aw t t uw b r iy dh ax s p eh l
+ZHAA%arctic_a0008 g ae d y uh r l eh t er k ey m jh ax s t ih n t ay m
+ZHAA%arctic_a0116 w ax z ih t dh ax r aa n d ih v uw ax v dh ow z hh uw w er s t r ay v ih ng t uw w er k hh ih z r uw ax n
+ZHAA%arctic_a0081 hh w ax t ih f zh iy d ih d n aa t k ax m t ax dh ax r aa k
+ZHAA%arctic_a0045 hh iy m uw v d ax w ey ae z k w ay ax t l iy ae z hh iy hh ae d k ax m
+ZHAA%arctic_a0053 s ax d ax n l iy hh ih z f ih ng g er z k l ow z d t ay t l iy ow v er dh iy hh ae ng k er ch ih f
+ZHAA%arctic_a0426 dh ey d uw n aa t n ow dh ax l eh ng k th ax v t ay m ax v ih ng k y uw b ey zh ax n
+ZHAA%arctic_a0031 dh ey w er th r iy hh ax n d r ih d y aa r d z ax p aa r t
+ZHAA%arctic_a0136 ax b aw t hh ih m eh v r iy w eh r w er dh iy eh v ax d ax n s ax z ax v l ax g zh er iy ae n d ax v ey jh
+ZHAA%arctic_a0018 dh eh r w ax z ax ch ey n jh n aw
+ZHAA%arctic_a0125 hh iy w ax z d ih t er m ax n d n aw t uw m ey n t ey n ax m aa r s er t ax n hh ow l d ax p aa n hh ih m s eh l f
+ZHAA%arctic_b0367 eh n iy ae v er jh y ax ng f eh l ow k ae n t iy ch hh ih m s eh l f ih n ax w iy k
+ZHAA%arctic_a0094 hh iy hh ae d b eh r l iy eh n t er d dh ih s w ih n hh iy s aa dh ax g l ow ax v ax f ay r
+ZHAA%arctic_a0019 ay f aa l ow d dh ax l ay n ax v dh ax p r ax p ow z d r ey l r ow d l uh k ih ng f aa r ch ae n s ih z
+ZHAA%arctic_a0047 k l ow s b iy s ay d hh ih m g l iy m d dh ax w ay t f ae ng z ax v dh ax w uh l f d aa g
+ZHAA%arctic_b0310 ax l ih t ax l t r iy t m ax n t m ax s aa zh w ih th s ax m hh eh l p f r ax m dh ax d aa k t er
+ZHAA%arctic_b0455 hh ih z r iy w aa r d zh uh d hh ae v b ih n p iy s ae n d r iy p ow z
+ZHAA%arctic_a0022 hh aa r d l iy w er aw er p l ae n z m ey d p ax b l ih k b iy f aa r w iy w er m eh t b ay p aw er f ax l aa p ax z ih zh ax n
+ZHAA%arctic_a0063 y eh s ih t w ax z ax m ae n hh uw ae s t ax s t r ey n jh er
+ZHAA%arctic_a0529 ae z ay s ey hh iy hh ae d t ae p t dh ax m eh s ih jh v eh r iy r ae p ax d l iy
+ZHAA%arctic_a0128 dh ih s w ax n hh ow p w ax z d ih s t r oy d ae z k w ih k l iy ae z ih t w aa z b aa r n
+ZHAA%arctic_b0324 n aa t t ih l dh ax t w eh n iy ax th ax v m ey d ih d dh ax r ih v er b r ey k
+ZHAA%arctic_b0150 ae n d hh iy w ax z f ih l d w ih dh ax s t r ey n jh ae n d f aa r b ow d ih ng f ih r
+ZHAA%arctic_a0036 zh iy t er n d ih n ae t dh ax hh ow t eh l
+ZHAA%arctic_a0099 ey m ae d ax n ih ng jh oy p aw n d ih d ih n hh ih z b r ey n
+ZHAA%arctic_b0469 v eh r iy f y uw p iy p ax l n y uw ax v dh iy ih g z ih s t ax n s ax v dh ih s l aa
+ZHAA%arctic_b0490 hh w ax t ae n ih k s ay t ih d hh w ih s p er ih ng ae n d k ax n f er ih ng t uh k p l ey s
+ZHAA%arctic_a0108 hh iy w ey d ih d ih n t uw dh ax eh jh ax v dh ax w aa t er ae n d b iy g ae n s k r ax b ih ng hh ih m s eh l f
+ZHAA%arctic_a0111 ih n s t eh d hh iy jh oy n d hh er ae n d dh ey ey t l ay k t uw hh ax ng g r iy ch ih l d r ax n
+ZHAA%arctic_a0076 dh ax g r ey ay z f aa l t er d dh ax f l ax zh d iy p ax n d
+ZHAA%arctic_a0106 dh iy iy m ow zh ax n hh w ih ch zh iy hh ae d s ax p r eh s t b er s t f aa r th n aw ih n ey ch ow k ih ng s aa b
+ZHAA%arctic_b0428 dh ax hh ih s t r iy ax v aw r w eh s t w er d f eh r iy ng r ey s ih z r ih t ax n ih n ih t
+ZHAA%arctic_b0494 n eh v er s ow s t r ey n jh ax p r aa f ax t k ey m ax p t ih jh er uw s ax l ax m
+ZHAA%arctic_a0102 hh iy w ih l f aa l ow ax s s uw n
+ZHAA%arctic_a0051 dh ax l ey s w ax z ax v ax d eh l ax k ax t ay v er iy k ax l er f ey n t l iy t ih n t ih d w ih dh y eh l ow
+ZHAA%arctic_a0075 dh eh r hh ae z b ih n ax ch ey n jh zh iy ih n t er ax p t ih d hh ih m
+ZHAA%arctic_a0082 hh ih z f ey s w ax z s t r iy m ih ng w ih th b l ax d
+ZHAA%arctic_a0040 ay s ax p ow z y uw w ax n d er w ay zh iy ih z k ax m ih ng ax p hh iy r
+ZHAA%arctic_a0060 eh n iy w ey n ow w ax n s aa hh er l ay k dh ae t
+ZHAA%arctic_a0131 p r aa v ax d ax n s hh ae d d ih l ih v er d hh ih m th r uw dh ax m ey l s t r ax m
+ZHAA%arctic_a0109 d uw y uw n ow dh ae t y uw aa r zh ey k ih ng m ay k aa n f ax d ax n s ih n y uw
+ZHAA%arctic_a0126 iy ch d ey zh iy b iy k ey m ax m aa r v ay t ax l p aa r t ax v hh ih m
+ZHAA%arctic_b0413 hh iy m ey d ih z ay er t ih ih s k ey p p ey n aa r t ih ih n jh oy p l eh zh er
+ZHAA%arctic_a0103 b ax t dh eh r k ey m n ow p r aa m ax s f r ax m dh ax b ow ax v dh iy k ax n uw
+ZHAA%arctic_a0095 ax b ih g k ae n v ax s t eh n t w ax z dh ax f er s t th ih ng t ih k ax m w ih dh ih n hh ih z v ih zh ax n
+ZHAA%arctic_a0065 dh ey k l ow z d n aw ax n t ih l hh ih z f ih ng g er z w er l ay k k aa r d z ax v s t iy l
+ZHAA%arctic_a0501 y uw r jh ow k ih ng m iy s er dh iy ax dh er m ae n ih jh d t ax aa r t ih k y ax l ey t
+ZHAA%arctic_a0003 f aa r dh ax t w eh n iy ax th t ay m dh ae t iy v n ih ng dh ax t uw m eh n zh uh k hh ae n d z
+ZHAA%arctic_a0090 dh ax s ih ng ih ng v oy s ax p r ow ch t r ae p ax d l iy
+ZHAA%arctic_a0117 zh iy ae d ih d w ih dh jh eh n y uw w ay n s ih m p ax th iy ih n hh er f ey s ae n d v oy s
+ZHAA%arctic_a0029 dh eh r f aa r s ih z w er aa r eh d iy m uw v ih ng ih n t uw dh ax n aa r th k ax n t r iy
+ZHAA%arctic_b0518 b ax t dh eh r w ax z aa l s ow t aa k ax v w ih ch k r ae f t ih n dh ax v ih l ih jh
+ZHAA%arctic_a0037 ay w ax z dh iy ow n l iy w ax n hh uw r iy m ey n d s ih t ih ng
+ZHAA%arctic_a0062 dh ax m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+ZHAA%arctic_a0137 dh eh n hh iy s t eh p t b ae k w ih dh ax l ow k r ay ax v p l eh zh er
+ZHAA%arctic_a0005 w ax l w iy eh v er f aa r g eh t ih t
+ZHAA%arctic_a0129 hh er f ey s w ax z ax g ey n s t hh ih z b r eh s t
+ZHAA%arctic_b0461 b ay v er ch uw ax v dh ae t p aw er w iy zh ae l r ih m ey n ih n p aw er
+ZHAA%arctic_a0067 zh uh r l iy ay w ax l ih k s k y uw z y uw zh iy k r ay d
+ZHAA%arctic_a0139 hh iy t ow l d hh ih m s eh l f dh ae t ae z hh iy w aa zh t hh ih m s eh l f ae n d g r uw m d hh ih z d ih zh eh v ax l d k l ow z
+ZHAA%arctic_b0307 w iy g aa t f y uw v eh jh t ax b ax l z ae n d f r uw t s ae n d b iy k ey m f ih zh iy t er z
+ZHAA%arctic_a0096 p er hh ae p s zh iy hh ae d aa r eh d iy m eh t hh er f ey t ax l ih t ax l d iy p er ih n dh ax f aa r ih s t
+ZHAA%arctic_a0100 y uw m ax s t s l iy p hh iy er jh d
+ZHAA%arctic_a0120 m ay r ay t f uh t f iy l z l ay k dh ae t ax v ax ch ay n iy z d eh b y ax t aa n t
+ZHAA%arctic_b0506 ih t w uh d hh eh l p t ih t ay d m iy ax l aa ng ax n t ih l ay g aa t s t eh d iy ih m p l oy m ax n t
+ZHAA%arctic_b0444 hh iy d ih d n aa t n ow w ax t w eh n t aa n ih n dh ax m ay n d z ax v hh ih z s uw p ih r iy er z
+ZHAA%arctic_a0089 dh ax n ay t g l ow w ax z t r eh ch er ax s t uw zh uw t b ay
+ZHAA%arctic_a0021 ih t f eh r l iy k l ax b d m iy ih n t uw r eh k ax g n ay z ih ng ih t
+ZHAA%arctic_a0088 hh iy m ey d zh uh r dh ae t dh iy m ae g ax z iy n w aa z l ow d ih d ae n d r ih z uw m d hh ih z p ae d ax l ih ng
+ZHAA%arctic_b0126 b l ax d w ax z uw z ih ng s l ow l iy f r ax m dh iy w uw n d ih d m ae n z r ay t b r eh s t
+ZHAA%arctic_a0013 hh iy w ax z ax hh eh d zh aa r t er dh ae n hh ih z k ax m p ae n y ax n ax v aa l m ow s t d eh l ax k ax t f ax z iy k
+ZHAA%arctic_b0158 zh iy ow b ey d zh r ih ng k ih ng b ae k w ih dh dh ax b ey b iy ih n hh er aa r m z
+ZHAA%arctic_a0010 ay m p l ey ih ng ey s ih ng g ax l hh ae n d ih n w ax t l uh k s l ay k ax l uw z ih ng g ey m
+ZHAA%arctic_b0340 dh iy z k w ih k l ih t ax l jh oy z ax v hh er z w er s aa r s ax z ax v jh oy t ih hh ih m
+ZHAA%arctic_a0042 hh aw k uh d hh iy ih k s p l ey n hh ih z p ax z eh zh ax n ax v dh ax s k eh ch
+ZHAA%arctic_a0300 f r ax m m ay er l iy ax s t r eh k ax l eh k zh ax n m ay s l iy p w ax z ax p ih r iy ax d ax v t eh r er
+ZHAA%arctic_a0058 ay k ey m f r er ih n f er m ey zh ax n m aa r aw t ax v k y uh r iy aa s ax t iy dh ae n eh n iy th ih ng eh l s
+ZHAA%arctic_a0046 dh iy g er l f ey s t hh ih m hh er ay z zh ay n ih ng w ih th s ax d ax n f ih r
+ZHAA%arctic_a0461 aa w iy w er v eh r iy k l ow s t ax g eh dh er ih n dh ae t m ow m ax n t
+ZHAA%arctic_a0038 w ih l hh ae v t ax w aa ch aw er ch ae n s ih z
+ZHAA%arctic_a0115 hh iy hh ae d n ow ih k s k y uw z f r er dh ax f iy l ih ng z w ih ch w er er aw z d ih n hh ih m
+ZHAA%arctic_a0092 hh iy w eh n t d aw n ih n m ih d s t r iy m s er ch ih ng dh ax zh ae d ow z ax v b ow th zh aa r z
+ZHAA%arctic_a0086 d eh th hh ae d k ax m w ih th t eh r ax b ax l s ax d ax n n ax s
+ZHAA%arctic_a0073 dh ax p r ax m ow t er z ay z w er hh eh v iy w ih dh l ih t ax l p ax f iy b ae g z ax n d er dh eh m
+ZHAA%arctic_b0103 hh iy l ih f t ih d hh ih z ay z ae n d ax s t r ey n jh k r ay b er s t f r ax m hh ih z l ih p s
+ZHAA%arctic_a0123 zh iy hh ae d d ay d f r ax m k ow l d ae n d s t aa r v ey zh ax n
+ZHAA%arctic_a0091 hh ih z b l ax d g r uw hh aa t w ih dh r ey jh ae t dh ax th aa t
+ZHAA%arctic_a0159 dh ey l uh k ae z dh ow hh iy hh ae d b ih n d r ax m ih ng ax p iy ae n ow aa l hh ih z l ay f
+ZHAA%arctic_a0032 s ih n s dh eh n s ax m m ih s t ih r iy ax s f aa r s hh ae z b ih n f ay t ih ng ax s ae t eh v r iy s t eh p
+ZHAA%arctic_a0048 hh iy l uh k t ae t dh iy hh ae ng k er ch iy f m aa r k l ow s l iy
+ZHAA%arctic_a0121 dh ey ey t d ih n er ae t dh ax f ih f th ae n d r eh s t ax d f aa r t uw aw er z
+ZHAA%arctic_b0432 hh iy ih z ey k ae n d ax d ey t r ay z ih ng f r ax m dh iy s er f k l ae s t uw aa r k l ae s
+ZHAA%arctic_a0122 t uw y er z ax g ow ay g ey v ax p s ih v ax l ih z ey zh ax n f aa r dh ih s
+ZHAA%arctic_a0134 hh iy ow b ey d dh ax p r eh zh er ax v hh er hh ae n d
+ZHAA%arctic_a0130 zh iy w ax z hh ih z n aw f er eh v er
+ZHAA%arctic_b0424 ih t ih z ey v eh r iy t eh n ax b ax l hh ay p aa th ax s ax s ae n d w ax l b eh r l uh k ih ng ih n t uw
+ZHAA%arctic_b0538 ae t dh ax b eh s t dh ey w er n eh s ax s eh r iy ae k s eh s er iy z
+ZHAA%arctic_a0379 hh aw ow l d aa r y uw d ae d iy
+ZHAA%arctic_a0500 hh uw dh ax d eh v ax l g ey v ih t t uw y uw t uw b iy jh ax jh ae n d jh uh r iy
+ZHAA%arctic_a0059 hh ih z ih m ae k y uw l ih t ax p ih r ax n s w ax z g aa n
+ZHAA%arctic_b0106 f aa r ax f uh l m ih n ax t dh ax t uw m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+ZHAA%arctic_a0027 t uw m ay s er p r ay z hh iy b iy g ae n t ih zh ow ae k ch ax w ax l ih n th uw z iy ae z ax m ih n m ay f ey v er
+ZHAA%arctic_b0068 ow n l iy dh iy ch ae n s s aw n d hh ae d l eh d hh ih m t uw ax b z er v dh eh m
+ZHAA%arctic_a0077 ih t ih z dh ax f ay er p aa r t l iy zh iy s eh d
+ZHAA%arctic_a0052 ih t w ax z ax k y uh r iy ax s k ow ih n s ih d ax n s
+ZHAA%arctic_a0093 f aa r ax f uh l m ih n ax t hh iy k r aw ch t ax n d l ih s ax n d
+ZHAA%arctic_b0146 ae f t er aa l ih t w ax z s ih m p l iy ey m ih s t ey k ih n jh ax jh m ax n t
+ZHAA%arctic_a0097 dh eh n y uw k ae n er ey n jh y er s eh l f k ax m f er t ax b l iy ax m ax ng dh iy z r ow b z ih n dh ax b ow
+ZHAA%arctic_a0214 b iy s ay d z hh iy w ax z p ey d w ax n k ey s ax v t ax b ae k ow p er hh eh d
+ZHAA%arctic_a0104 zh iy w ax z s l iy p ih ng ax n d er hh ih z p r ax t eh k zh ax n ae z s w iy t l iy eh z ax ch ay l d
+ZHAA%arctic_b0492 dh ax s hh iy t er n d dh ax t eh n ax t s ae n d jh aa r g ax n ax v s ay k aa l ax jh iy b ae k aa n m iy
+ZHAA%arctic_a0071 hh w ax t w ax z dh iy aa b jh eh k t ax v y uh r l ih t ax l s eh n s ey zh ax n
+ZHAA%arctic_a0007 ae n d y uw aa l w iy z w aa n t t ih s iy ih t ih n dh iy s uh p er l ax t ih v d ih g r iy
+ZHAA%arctic_b0503 dh ax s eh n t s ax v s t r ey n jh v eh jh ax t ey zh ax n b l uw aa f dh iy t r aa p ih k l ae n d
+ZHAA%arctic_b0534 ay l t eh l y uw dh iy l ay b r eh r iy ax n s eh d w ih dh ax b r ay t ax n ih ng f ey s
+ZHAA%arctic_a0113 ay s ax p ow z y uw p ih k t dh ae t l ih ng g ow ax p ax m ax ng dh iy ih n d iy ax n z
+ZHAA%arctic_a0023 ey k aa m b ax n ey zh ax n ax v k ax n ey d iy ax n k ae p ih t ax l k w ih k l iy aa r g ax n ay z d ae n d p ax t ih zh ax n d f aa r dh ax s ey m p r ih v ih l ax jh ax z
+ZHAA%arctic_a0085 ax t r ih k ax l ax v f r eh zh b l ax d r ae n ow v er hh ih z f ey s
+ZHAA%arctic_b0504 dh ax l ay f dh eh r w ax z hh eh l th f ax l ae n d ae th l eh t ih k b ax t t uw jh uw v ax n ay l
+ZHAA%arctic_b0348 w uh d y uw b iy s ae t ax s f ay d w ih dh dh ae t hh w ax n hh ax n d r ax d th p aa r t ax v m iy
+ZHAA%arctic_b0433 w iy aa r k uh k ih ng aa n dh ax k ow l s t ow v ae n d aa n dh ax oy l b er n er z
+TLV%arctic_b0358 dh ax t eh m p er ax ch er d r aa p t t uw f ih f t iy b iy l ow z iy r ow ae n d r ih m ey n d dh eh r dh ax hh ow l t r ih p
+TLV%arctic_a0079 ih t w aa z ax l aa r jh k ax n uw
+TLV%arctic_a0006 g aa d b l eh s ax m ay hh ow p ay w ih l g ow aa n s iy ih ng dh ax m f er eh v er
+TLV%arctic_b0140 dh ey eh jh d n ih r er ae n d s t uh d zh ow l d er t ax zh ow l d er f ey s ih ng dh eh r w er l d
+TLV%arctic_b0415 dh eh r w aa z n ax th ih ng f aa r ax s b ax t dh ax w ay d r aa ow zh ax n
+TLV%arctic_a0107 ih f y uw ow n l iy k uh d n ow hh aw ay th ae ng k y uw
+TLV%arctic_a0178 eh v r iy b ow n ih n hh er ey jh d b aa d iy s iy m d b r ow k ax n aa r d ih s l ow k ey t ih d
+TLV%arctic_a0064 dh ax f aa r th ae n d f ih f th d ey z p ae s t w ih th aw t eh n iy d ih v eh l ax p m ax n t s
+TLV%arctic_a0054 dh eh r w aa z n ax th ih ng aa n dh ax r aa k
+TLV%arctic_b0425 dh eh r w er aa r ax n jh g r iy n g ow l d g r iy n ae n d ax k aa p er g r iy n
+TLV%arctic_b0075 ih n dh ae t k ey s hh iy k uh d n aa t m ih s dh eh m ih f hh iy y uw z d k aa zh ax n
+TLV%arctic_a0030 ay hh ae d f ey th ih n dh eh m
+TLV%arctic_b0416 ay er ow z ow b iy d iy ax n t l iy ae n d w eh n t d aw n dh ax b iy ch
+TLV%arctic_a0112 hh iy w aa z w uw n d ax d ih n dh iy aa r m
+TLV%arctic_a0105 ow n l iy ih t ih z s ow w ax n d er f ax l s ow aa l m ow s t ih m p aa s ax b ax l t ih b ih l iy v
+TLV%arctic_a0025 ay w aa z ax b aw t t ih d uw dh ih s w ih n k uw l er jh ax jh m ax n t p r iy v ey l d
+TLV%arctic_a0127 ih t w ax z ax t eh m t ey zh ax n b ax t hh iy r iy z ih s t ax d ih t
+TLV%arctic_b0393 ay w ax z s t ih l w iy k f r ax m m ay p r ax l aa ng d ih m er zh ax n
+TLV%arctic_a0098 zh ae l ay k eh r iy y uw
+TLV%arctic_a0434 ax hh ae f ax k ey s ax v t ax b ae k ow w aa z w er th th r iy p aw n d z
+TLV%arctic_a0026 ih t ax k er d t uw m iy dh ae t dh eh r w uh d hh ae v t ih b iy ax n ax k aw n t ih ng
+TLV%arctic_a0024 ih t w aa z m ay r iy p aa r t s f r ax m dh ax n aa r th w ih ch ch iy f l iy ih n d uw s t p iy p ax l t uw b ay
+TLV%arctic_a0020 k l ax b z ae n d b aa l z ae n d s ih t iy z g r uw t ih b iy ow n l iy m eh m er iy z
+TLV%arctic_a0028 r aa b er iy b r ay b er iy f r aa d
+TLV%arctic_a0011 ih f ay eh v er n iy d ax d ax f ay t er ih n m ay l ay f ay n iy d w ax n n aw
+TLV%arctic_a0078 dh eh n ae n d ae t s ax p er hh iy t r ay d t uw f ae dh ax m hh er
+TLV%arctic_a0101 y uw y uw w uh d n aa t k iy p dh ax t r uw th f r ax m m iy
+TLV%arctic_a0039 dh ax zh ih p zh uh d b iy ih n w ih th ih n ax w iy k aa r t eh n d ey z
+TLV%arctic_a0041 m iy n w ay l ay l g ow aw t t ax b r iy dh ax s p eh l
+TLV%arctic_a0008 g ae d y uh r l eh t er k ey m jh ax s t ih n t ay m
+TLV%arctic_a0116 w ax z ih t dh ax r aa n d ih v uw ax v dh ow z hh uw w er s t r ay v ih ng t uw w er k hh ih z r uw ih n
+TLV%arctic_a0081 w ax t ih f zh iy d ih d n aa t k ax m t uw dh ax r aa k
+TLV%arctic_b0288 w iy w uh d n aa t s p eh n d ax n ax dh er s ax ch n ay t
+TLV%arctic_a0045 hh iy m uw v d ax w ey ae z k w ay ax t l iy ae z hh iy hh ae d k ax m
+TLV%arctic_a0053 s ax d ax n l iy hh ih z f ih ng g er z k l ow z d t ay t l iy ow v er dh ax hh ae ng k er ch ih f
+TLV%arctic_b0165 hh iy p uh l d ae n d dh ax l aa g k r ae zh t d aw n t ih b r ey k hh ih z b ae k
+TLV%arctic_a0375 dh ax b uh ch er z ae n d m iy t k ax t er z r ih f y uw z d t uw hh ae n d ax l m iy t d eh s t ih n d f aa r ax n f eh r r eh s t r aa n t s
+TLV%arctic_a0031 dh ey w er th r iy hh ax n d r ax d y aa r d z ax p aa r t
+TLV%arctic_a0136 ax b aw t hh ih m eh v r iy w eh r w er dh ax eh v ax d ax n s ax z ax v l ax g zh er iy ae n d ax v ey jh
+TLV%arctic_a0018 dh eh r w aa z ax ch ey n jh n aw
+TLV%arctic_b0019 hh ih z s l ih m hh ae n z g r ih p t dh iy eh jh ax z ax v dh ax t ey b ax l
+TLV%arctic_a0125 hh iy w aa z d ih t er m ax n d n aw t uw m ey n t ey n ax m aa r s er t ax n hh ow l d ax p aa n hh ih m s eh l f
+TLV%arctic_b0355 dh eh r w aa z p r aa p er d ih v ih zh ax n ax v l ey b er ih n dh ax w er k dh ey ih n d ih v ih jh uw ax l iy p er f aa r m d
+TLV%arctic_a0094 hh iy hh ae d b eh r l iy eh n t er d dh ih s w ih n hh iy s aa dh ax g l ow ax v ax f ay r
+TLV%arctic_b0380 hh iy hh ae d p iy l d aa f hh ih z zh er t ae n d w aa z w ay l d l iy w ey v ih ng ih t
+TLV%arctic_a0019 ay f aa l ow d dh ax l ay n ax v dh ax p r ax p ow z d r ey l r ow d l uh k ih ng f aa r ch ae n s ax z
+TLV%arctic_a0364 w iy hh ae v p l eh n t iy ax v k ae p ih t ax l aa r s eh l v z ae n d y eh t w iy w aa n t m aa r
+TLV%arctic_a0047 k l ow s b iy s ay d hh ih m g l iy m d dh ax w ay t f ae ng z ax v dh ax w uh l f d aa g
+TLV%arctic_a0022 hh aa r d l iy w er aw r p l ae n z m ey d p ax b l ih k b ax f aa r w iy w er m eh t b ay p aw er f ax l aa p ax z ih zh ax n
+TLV%arctic_a0063 y eh s ih t w aa z ax m ae n hh uw ae s t ax s t r ey n jh er
+TLV%arctic_b0527 dh ax v eh r iy ay d iy ax ax v ih t w aa z p r ih p aa s t er ax s
+TLV%arctic_a0209 ih t w aa z n aa t ax l aa r jh l ey k ae n d aa l m ow s t r aw n d
+TLV%arctic_a0378 dh ae t s w ay ih t s b aw n d er iy z aa r aa l g aw jh d ae n d jh ae g d
+TLV%arctic_a0128 dh ih s w ax n hh ow p w ax z d ih s t r oy d ae z k w ih k l iy ae z ih t w aa z b aa r n
+TLV%arctic_a0036 zh iy t er n d ih n ae t dh iy hh ow t eh l
+TLV%arctic_a0099 ax m ae d ax n ih ng jh oy p aw n d ih d ih n hh ih z b r ey n
+TLV%arctic_b0048 hh iy l uh k t l ay k w ax n hh uw hh ae d p ae s t th r uw ax n ax n k ax m f er t ax b ax l aw r aa r t uw
+TLV%arctic_b0469 v eh r iy f y uw p iy p ax l n uw ax v dh iy ih g z ih s t ax n s ax v dh ih s l aa
+TLV%arctic_a0108 hh iy w ey d ih d ih n t uw dh iy eh jh ax v dh ax w aa t er ae n d b iy g ae n s k r ax b ih ng hh ih m s eh l f
+TLV%arctic_b0189 dh ae t ih z w ax t d ih s t ih ng g w ih zh ih z aa l ax v ax s f r ax m dh ax l ow er ae n ax m ax l z
+TLV%arctic_a0111 ih n s t eh d hh iy jh oy n d hh er ae n d dh ey ey t l ay k t uw hh ax ng g r iy ch ih l d r ax n
+TLV%arctic_b0251 dh ey m ax s t hh ae v b ih n s w eh p t ax w ey b ay dh ax k ey aa t ih k k er ax n t s
+TLV%arctic_a0076 dh ax g r ey ay z f aa l t er d dh ax f l ax zh d iy p ax n d
+TLV%arctic_a0106 dh iy ih m ow zh ax n w ih ch zh iy hh ae d s ax p r eh s t b er s t f aa r th n aw ih n ax ch ow k ih ng s aa b
+TLV%arctic_a0102 hh iy w ih l f aa l ow ax s s uw n
+TLV%arctic_a0051 dh ax l ey s w aa z ax v ax d eh l ax k ax t ay v er iy k ax l er f ey n t l iy t ih n t ih d w ih th y eh l ow
+TLV%arctic_a0075 dh eh r hh ae z b ih n ax ch ey n jh zh iy ih n t er ax p t ih d hh ih m
+TLV%arctic_a0082 hh ih z f ey s w ax z s t r iy m ih ng w ih th b l ax d
+TLV%arctic_a0040 ay s ax p ow z y uw w ax n d er w ay zh iy ih z k ax m ih ng ax p hh iy r
+TLV%arctic_a0060 eh n iy w ey n ow w ax n s aa hh er l ay k dh ae t
+TLV%arctic_a0131 p r aa v ax d ax n s hh ae d d ih l ih v er d hh ih m th r uw dh ax m ey l s t r ax m
+TLV%arctic_a0109 d uw y uw n ow dh ae t y uw aa r zh ey k ih ng m ay k aa n f ax d ax n s ih n y uw
+TLV%arctic_a0126 iy ch d ey zh iy b iy k ey m ax m aa r v ay t ax l p aa r t ax v hh ih m
+TLV%arctic_a0103 b ax t dh eh r k ey m n ow p r aa m ax s f r ax m dh ax b ow ax v dh ax k ax n uw
+TLV%arctic_a0095 ax b ih g k ae n v ax s t eh n t w aa z dh ax f er s t th ih ng t uw k ax m w ih th ih n hh ih z v ih zh ax n
+TLV%arctic_a0065 dh ey k l ow z d n aw ax n t ih l hh ih z f ih ng g er z w er l ay k k aa r d z ax v s t iy l
+TLV%arctic_a0003 f aa r dh ax t w eh n t iy ax th t ay m dh ae t iy v n ih ng dh ax t uw m eh n zh uh k hh ae n d z
+TLV%arctic_a0090 dh ax s ih ng ih ng v oy s ax p r ow ch t r ae p ax d l iy
+TLV%arctic_a0117 zh iy ae d ax d w ih th jh eh n y ax w ax n s ih m p ax th iy ih n hh er f ey s ae n d v oy s
+TLV%arctic_a0029 dh eh r f aa r s ih z w er aa r eh d iy m uw v ih ng ih n t uw dh ax n aa r th k ax n t r iy
+TLV%arctic_b0518 b ax t dh eh r w aa z aa l s ow t aa k ax v w ih ch k r ae f t ih n dh ax v ih l ih jh
+TLV%arctic_a0037 ay w aa z dh iy ow n l iy w ax n hh uw r iy m ey n d s ih t ih ng
+TLV%arctic_a0062 dh ax m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+TLV%arctic_b0488 b iy aa n d r ih f y uw z ih ng t uw s eh l ax s f uw d dh ey l eh f t ax s t uw aa r s eh l v z
+TLV%arctic_a0137 dh eh n hh iy s t eh p t b ae k w ih th ax l ow k r ay ax v p l eh zh er
+TLV%arctic_a0005 w ih l w iy eh v er f aa r g eh t ih t
+TLV%arctic_a0129 hh er f ey s w aa z ax g eh n s t hh ih z b r eh s t
+TLV%arctic_a0067 zh uh r l iy ay w ih l ih k s k y uw z y uw zh iy k r ay d
+TLV%arctic_b0201 ay aa l s ow ax n d er s t ae n d dh ae t s ih m ax l er b r ae n ch aa r g ax n ax z ey zh ax n z hh ae v m ey d dh eh r ax p ih r ax n s ih n y uh r ax p
+TLV%arctic_a0542 w ih dh aw t ax d aw t s ax m ax v dh ax m hh ae v d ih n er eh n g ey jh m ax n t s
+TLV%arctic_a0260 n ow b ax d iy n uw hh ih z hh ih s t er iy dh ey ax v dh ax hh uh n t ax l iy s t ax v aa l
+TLV%arctic_b0315 ae n d dh ih s w aa z dh eh r s ow l k aa n v er s ey zh ax n th r uw aw t dh ax m iy l
+TLV%arctic_a0475 hh ih z aw t s t r eh ch t aa r m d r aa p t t uw hh ih z s ay d ae n d hh iy p aa z d
+TLV%arctic_a0139 hh iy t ow l d hh ih m s eh l f dh ae t ae z hh iy w aa zh t hh ih m s eh l f ae n d g r uw m d hh ih z d ih zh eh v ax l d k l ow dh z
+TLV%arctic_a0096 p er hh ae p s zh iy hh ae d aa l r eh d iy m eh t hh er f ey t ax l ih t ax l d iy p er ih n dh ax f aa r ax s t
+TLV%arctic_a0100 y uw m ax s t s l iy p hh iy er jh d
+TLV%arctic_a0120 m ay r ay t f uh t f iy l z l ay k dh ae t ax v ax ch ay n iy z d eh b y ax t aa n t
+TLV%arctic_a0089 dh ax n ay t g l ow w aa z t r eh ch er ax s t uw zh uw t b ay
+TLV%arctic_b0342 iy ch ih m p r uw v m ax n t m ey k s dh ax v ae l y uw ax v eh v r iy th ih ng eh l s p ax m p ax p
+TLV%arctic_a0021 ih t f eh r l iy k l ax b d m iy ih n t uw r eh k ax g n ay z ih ng ih t
+TLV%arctic_a0088 hh iy m ey d zh uh r dh ae t dh ax m ae g ax z iy n w aa z l ow d ax d ae n d r iy z uw m d hh ih z p ae d ax l ih ng
+TLV%arctic_a0013 hh iy w aa z ax hh eh d zh aa r t er dh ae n hh ih z k ax m p ae n y ax n ax v aa l m ow s t d eh l ax k ax t f ax z iy k
+TLV%arctic_a0010 ay m p l ey ih ng ax s ih ng g ax l hh ae n d ih n w ax t l uh k s l ay k ax l uw z ih ng g ey m
+TLV%arctic_a0042 hh aw k uh d hh iy ih k s p l ey n hh ih z p ax z eh zh ax n ax v dh ax s k eh ch
+TLV%arctic_a0058 ay k ey m f aa r ih n f aa r m ey zh ax n m aa r aw t ax v k y uh r iy aa s ax t iy dh ae n eh n iy th ih ng eh l s
+TLV%arctic_a0046 dh ax g er l f ey s t hh ih m hh er ay z zh ay n ih ng w ih th s ax d ax n f ih r
+TLV%arctic_b0509 hh iy hh ae d f uh l f ih l d hh ih z d uw t iy ae n d p ey d p r aa p er l iy
+TLV%arctic_a0038 w iy l hh ae v t uw w aa ch aw r ch ae n s ax z
+TLV%arctic_a0115 hh iy hh ae d n ow ih k s k y uw s f aa r dh ax f iy l ih ng z hh w ih ch w er er aw z d ih n hh ih m
+TLV%arctic_b0304 hh ih z p r iy v iy ax s w ay v z hh ae d n eh v er l ih v d l aa ng ih n ax f t uw b eh r hh ih m ch ih l d r ax n
+TLV%arctic_a0092 hh iy w eh n t d aw n ih n m ih d s t r iy m s er ch ih ng dh ax zh ae d ow z ax v b ow th zh aa r z
+TLV%arctic_b0386 m ay ay d iy ax w aa z dh ae t hh iy w uh d hh ae v m aa r ih n f l uw ax n s ow v er dh ax n ey t ih v z
+TLV%arctic_a0086 d eh th hh ae d k ax m w ih th t eh r ax b ax l s ax d ax n n ax s
+TLV%arctic_b0192 aw t s ay d er z aa r ax l aw d f ay v m ih n ax t s p iy ch ih z dh iy s ih k m ae n er jh d
+TLV%arctic_a0073 dh ax p r ax m ow t er z ay z w er hh eh v iy w ih dh l ih t ax l p ax f iy b ae g z ax n d er dh ax m
+TLV%arctic_b0323 k r ih k ax t s b iy g ae n t ih ch er p ae n d m aa r g iy s ae n d d ax k s f l uw ow v er hh eh d
+TLV%arctic_b0481 dh ax t ae s k w iy s eh t aw er s eh l v z w aa z th r iy f ow l d
+TLV%arctic_a0123 zh iy hh ae d d ay d f r ax m k ow l d ax n d s t aa r v ey zh ax n
+TLV%arctic_a0271 n aw p l iy z g ih v ax p l ey n s t ey t m ax n t ax v w ax t ax k er d
+TLV%arctic_a0091 hh ih z b l ax d g r uw hh aa t w ih th r ey jh ae t dh ax th aa t
+TLV%arctic_a0032 s ih n s dh eh n s ax m m ih s t ih r iy ax s f aa r s hh ae z b ih n f ay t ih ng ax s ae t eh v r iy s t eh p
+TLV%arctic_a0048 hh iy l uh k t ae t dh iy hh ae ng k er ch ih f m aa r k l ow s l iy
+TLV%arctic_a0121 dh ey ey t d ih n er ae t dh ax f ih f th ae n d r eh s t ax d f aa r t uw aw er z
+TLV%arctic_a0459 dh eh r z t uw m ax ch ax v dh ax s k uw l b oy ih n m iy
+TLV%arctic_a0515 b ax t hh iy r ax m ax ng s t aa r s eh l v z l eh t ax s s p iy k aw t
+TLV%arctic_a0122 t uw y ih r z ax g ow ay g ey v ax p s ih v ax l ih z ey zh ax n f aa r dh ih s
+TLV%arctic_a0134 hh iy ow b ey d dh ax p r eh zh er ax v hh er hh ae n d
+TLV%arctic_a0168 ax l ow b uh zh w ih p t hh ih m ih n dh ax f ey s ae n d l eh f t n ow s t ih ng
+TLV%arctic_a0130 zh iy w aa z hh ih z n aw f er eh v er
+TLV%arctic_b0465 b ax t s ax ch d ay v er jh ax n s ax v ax p ih n y ax n w uh d k aa n s t ax t uw t n ow m eh n ih s t ih s ax s ay ax t iy
+TLV%arctic_a0059 hh ih z ih m ae k y uw l ih t ax p ih r ax n s w aa z g aa n
+TLV%arctic_b0074 y eh t b ih hh ay n d dh eh m dh eh r w aa z ax n ax dh er ae n d m aa r p aw er f ax l m ow t ih v
+TLV%arctic_b0320 dh ax r ih g r eh t ih n hh ih z v oy s w aa z p r ow v aa k ax t ih v ax v ax s eh k ax n b er s t ax v l ae f t er
+TLV%arctic_b0106 f aa r ax f uh l m ih n ax t dh ax t uw m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+TLV%arctic_a0027 t uw m ay s er p r ay z hh iy b iy g ae n t uw zh ow ae k ch ax w ax l ih n th uw z iy ae z ax m ih n m ay f ey v er
+TLV%arctic_a0077 ih t ih z dh ax f ay r p aa r t l iy zh iy s eh d
+TLV%arctic_a0052 ih t w ax z ey k y uh r iy ax s k ow ih n s ih d ax n s
+TLV%arctic_b0422 dh ih s w aa z w eh n dh iy ih k s p l ow zh ax n ax k er d
+TLV%arctic_a0093 f aa r ax f uh l m ih n ax t hh iy k r aw ch t ae n d l ih s ax n d
+TLV%arctic_a0097 dh eh n y uw k ae n er ey n jh y er s eh l f k ax m f er t ax b l iy ax m ax ng dh iy z r ow b z ih n dh ax b ow
+TLV%arctic_a0225 ay w aa z b r aa t ax p dh ax w ey m ow s g er l z ih n hh ax w ay iy aa r b r aa t ax p
+TLV%arctic_a0104 zh iy w ax z s l iy p ih ng ax n d er hh ih z p r ax t eh k zh ax n ae z s w iy t l iy ae z ax ch ay l d
+TLV%arctic_a0071 w ax t w aa z dh iy aa b jh eh k t ax v y aa r l ih t ax l s eh n s ey zh ax n
+TLV%arctic_a0007 ae n d y uw aa l w ey z w aa n t t ih s iy ih t ih n dh ax s uh p er l ax t ih v d ih g r iy
+TLV%arctic_b0503 dh ax s eh n t s ax v s t r ey n jh v eh jh ax t ey zh ax n b l uw aa f dh ax t r aa p ih k l ae n d
+TLV%arctic_b0534 ay l t eh l y uw dh ax l ay b r eh r iy ax n s eh d w ih th ax b r ay t ax n ih ng f ey s
+TLV%arctic_a0113 ay s ax p ow z y uw p ih k t dh ae t l ih ng g ow ax p ax m ax ng dh iy ih n d iy ax n z
+TLV%arctic_a0023 ax k aa m b ax n ey zh ax n ax v k ax n ey d iy ax n k ae p ih t ax l k w ih k l iy aa r g ax n ay z d ae n d p ax t ih zh ax n d f aa r dh ax s ey m p r ih v ih l ax jh ax z
+TLV%arctic_a0085 ax t r ih k ax l ax v f r eh zh b l ax d r ae n ow v er hh ih z f ey s
+TLV%arctic_a0519 s ax ch ax n ae k t w aa z ih n d ay r eh k t v ay ax l ey zh ax n ax v dh ax l aa z ax v dh ax l ae n d
+TNI%arctic_a0303 b ax t dh ey m ey k dh ax m ih s t ey k ax v ih g n aa r ih ng dh eh r ow n d uw ae l ax t iy
+TNI%arctic_b0038 ih n hh er hh ey s t t ih g eh t ax w ey zh iy hh ae d f aa r g aa t ax n dh iy z th ih ng z
+TNI%arctic_b0081 y uw w er g ow ih n t ih l iy v ae f t er y uw s aa m iy aa n dh ax r aa k
+TNI%arctic_a0079 ih t w ax z ax l aa r jh k ax n uw
+TNI%arctic_a0006 g aa d b l eh s dh eh m ay hh ow p ay w ih l g ow aa n s iy ih ng dh eh m f er r eh v er
+TNI%arctic_a0282 ih f y uw m iy n t uw ih n s ih n y uw ey t b r eh n t w uh d b ih g ae n hh aa t l iy
+TNI%arctic_a0107 ih f y uw ow n l iy k uh d n ow hh aw ay th ae ng k y uw
+TNI%arctic_a0178 eh v r iy b ow n ih n hh er ey jh d b aa d iy s iy m d b r ow k ax n er d ih s l ow k ey t ih d
+TNI%arctic_a0064 dh ax f aa r th ax n d f ih th d ey z p ae s t w ih dh aw t eh n iy d ih v eh l ax p m ax n t s
+TNI%arctic_a0054 dh eh r w ax z n ax th ih ng aa n dh ax r aa k
+TNI%arctic_a0030 ay hh ae d f ey th ih n dh eh m
+TNI%arctic_a0112 hh iy w ax z w uw n d ih d ih n dh ax aa r m
+TNI%arctic_a0105 ow n l iy ih t ih z s ow w ax n d er f ax l s ow aa l m ow s t ih m p aa s ax b ax l t uw b ih l iy v
+TNI%arctic_a0025 ay w ax z ax b aw t t uw d uw dh ih s w ih n k uw l er jh ax jh m ax n t p r ih v ey l d
+TNI%arctic_a0127 ih t w ax z ax t eh m t ey zh ax n b ax t hh iy r ih z ih s t ih d ih t
+TNI%arctic_a0301 b ax t aa l m ay d r iy m z v ay ax l ey t ih d dh ih s l aa
+TNI%arctic_a0188 t uw jh ay g ae n t ih k aw l z w er t ih r ih ng ae t dh ax k aa r k ax s
+TNI%arctic_b0089 hh er b y uw t ax f ax l hh eh r w ax z d ax n ax p ih n zh ay n ih ng k oy l z
+TNI%arctic_b0215 ih t ih z ax g uh d p r aa p er t iy ax n d w er th m aa r dh ax n dh ae t
+TNI%arctic_a0098 zh ae l ay k ae r iy y uw
+TNI%arctic_b0136 s w ih f t l iy hh ih z ay z m eh zh er d dh ax s ih ch uw ey zh ax n
+TNI%arctic_a0026 ih t ax k er d t uw m iy dh ae t dh eh r w uh d hh ae v t uw b iy ae n ax k aw n t ih ng
+TNI%arctic_b0017 eh v r iy th ih ng w ax z w er k ih ng s m uw th l iy b eh t er dh ax n ay hh ae d ih k s p eh k t ih d
+TNI%arctic_a0024 ih t w ax z m ay r iy p aa r t s f r ax m dh ax n aa r th w ih ch ch iy f l iy ih n d uw s t p iy p ax l t uw b ay
+TNI%arctic_b0317 hh iy d ih d n aa t b ih l iy v ih n dh ax b er n ih ng ax v d ey l ay t f r er s ax ch ax l ax g zh er iy
+TNI%arctic_a0020 k l ax b z ax n d b aa l z ax n d s ih t iy z g r uw t uw b iy ow n l iy m eh m er iy z
+TNI%arctic_a0028 r aa b er r iy b r ay b er r iy f r aa d
+TNI%arctic_b0160 ih t w ax z ow v er w ih n hh iy m ey d hh ih z w ey th r uw dh ax r ih ng ax v s p eh k t ey t er z
+TNI%arctic_a0144 b ax t dh eh r w aa z s ax m th ih ng iy v ih n m aa r s t aa r t l ih ng dh ae n dh ih s r ih z eh m b l ax n s
+TNI%arctic_a0246 y uw hh ae v hh er d aa l w ey z hh aw hh iy w ax z dh ax l ax v er ax v p r ih n s eh s n ey ow m iy
+TNI%arctic_a0011 ih f ay eh v er n iy d ih d ax f ay t er ih n m ay l ay f ay n iy d w ax n n aw
+TNI%arctic_b0118 w iy s aa y uh r l ay t ax n d th aa t y uw w uh d ax n t m ay n d ax k aa l
+TNI%arctic_a0078 dh eh n ae n d ae t s ax p er hh iy t r ay d t uw f ae dh ax m hh er
+TNI%arctic_a0101 y uw y uw w uh d n aa t k iy p dh ax t r uw th f r ax m m iy
+TNI%arctic_a0039 dh iy zh ih p zh uh d b iy ih n w ih dh ih n ax w iy k aa r t eh n d ey z
+TNI%arctic_a0041 m iy n w ay l ay w ih l g ow aw t t uw b r iy dh ax s p eh l
+TNI%arctic_a0008 g ae d y uh r l eh t er k ey m jh ax s t ih n t ay m
+TNI%arctic_a0116 w ax z ih t dh ax r aa n d ih v uw ax v dh ow z hh uw w er s t r ay v ih ng t uw w er k hh ih z r uw ih n
+TNI%arctic_a0081 hh w ax t ih f zh iy d ih d n aa t k ax m t uw dh ax r aa k
+TNI%arctic_a0045 hh iy m uw v d ax w ey ae z k w ay ax t l iy ae z hh iy hh ae d k ax m
+TNI%arctic_a0053 s ax d n l iy s f ih ng g er z k l ow z d ay t l iy ow v er dh ax hh ae ng k er ch ih f
+TNI%arctic_a0031 dh ey w er r th r iy hh ax n d r ax d y aa r d z ax p aa r t
+TNI%arctic_a0136 ax b aw t hh ih m eh v r iy w eh r w er dh ax eh v ax d ax n s ax z ax v l ax g zh er iy ae n d ax v ey jh
+TNI%arctic_a0018 dh eh r w ax z ax ch ey n jh n aw
+TNI%arctic_a0125 hh iy w ax z d ih t er m ax n d n aw t uw m ey n t ey n ax m aa r s er t ax n hh ow l d ax p aa n hh ih m s eh l f
+TNI%arctic_a0094 hh iy hh ae d b eh r l iy eh n t er d dh ih s w eh n hh iy s aa dh ax g l ow ax v ax f ay r
+TNI%arctic_b0073 w ih dh dh iy z aa r g y ax m ax n t s hh iy k ax n v ih n s t hh ih m s eh l f dh ae t hh iy zh uh d g ow aa n ax l ow n
+TNI%arctic_a0019 ay f aa l ow d dh ax l ay n ax v dh ax p r ax p ow z d r ey l r ow d l uh k ih ng f aa r ch ae n s ax z
+TNI%arctic_a0047 k l ow s b ih s ay d hh ih m g l iy m d dh ax w ay t f ae ng z ax v dh ax w uh l f d aa g
+TNI%arctic_a0384 dh ax f aa r m er w er k s dh ax s oy l ae n d p r ax d uw s ax z g r ey n
+TNI%arctic_a0022 hh aa r d l iy w er aa r p l ae n z m ey d p ax b l ih k b iy f aa r w iy w er m eh t b ay p aw er r f ax l aa p ax z ih zh ax n
+TNI%arctic_a0063 y eh s ih t w ax z ax m ae n hh uw ae s t ax s t r ey n jh er
+TNI%arctic_a0405 ih t s iy m d dh ax aa r d ey n d aa r d er ax v th ih ng z dh ae t d aa g z zh uh d w er k
+TNI%arctic_b0057 dh ey hh ae v w ax n p aa p y ax l er s eh n t ax m ax n t th r uw dh ax n uw z p ey p er z
+TNI%arctic_a0424 aa b v iy ax s l iy ih t w ax z ax d ih z iy z dh ae t k uh d b iy k aa n t r ae k t ax d b ay k aa n t ae k t
+TNI%arctic_a0128 dh ih s w ax n hh ow p w ax z d ih s t r oy d ae z k w ih k l iy ae z ih t w aa z b aa r n
+TNI%arctic_a0191 f aa r ax t ay m dh iy ih k s ay t ih ng th r ih l ax v hh ih z ax d v eh n ch er w aa z g aa n
+TNI%arctic_b0321 ih n s t eh d hh iy er ay v d aa n dh ax n ay t ax v dh ax s eh k ax n d d ey
+TNI%arctic_a0036 zh iy t er n d ih n ae t dh ax hh ow t eh l
+TNI%arctic_a0099 ax m ae d n ih ng jh oy p aw n d ih d ih n hh ih z b r ey n
+TNI%arctic_a0108 hh iy w ey d ih d ih n t uw dh ax eh jh ax v dh ax w aa t er ae n d b ih g ae n s k r ax b ih ng hh ih m s eh l f
+TNI%arctic_a0111 ih n s t eh d hh iy jh oy n d hh er ae n d dh ey ey t l ay k t uw hh ax ng g r iy ch ih l d r ax n
+TNI%arctic_a0076 dh ax g r ey ay z f aa l t er d dh ax f l ax zh d iy p ax n d
+TNI%arctic_a0106 dh iy iy m ow zh ax n w ih ch zh iy hh ae d s ax p r eh s t b er s t f aa r th n aw ih n ax ch ow k ih ng s aa b
+TNI%arctic_b0171 hh iy ch ey n jh d hh ih z s iy t f aa r ax s t iy m er r ih k l ay n ih ng ch eh r
+TNI%arctic_a0102 hh iy w ih l f aa l ow ax s s uw n
+TNI%arctic_a0051 dh ax l ey s w ax z ax v ax d eh l ax k ax t ay v r iy k ax l er f ey n t l iy t ih n t ih d w ih dh y eh l ow
+TNI%arctic_a0075 dh eh r hh ae z b ih n ax ch ey n jh zh iy ih n t er ax p t ih d hh ih m
+TNI%arctic_a0082 hh ih z f ey s w ax z s t r iy m ih ng w ih dh b l ax d
+TNI%arctic_a0040 ay s ax p ow z y uw w ax n d er w ay zh iy ih z k ax m ih ng ax p hh iy r
+TNI%arctic_a0272 y uw k ax n t ey k ax v ey k ey zh ax n aa n p ey
+TNI%arctic_a0060 eh n iy w ey n ow w ax n s aa hh er l ay k dh ae t
+TNI%arctic_a0131 p r aa v ax d ax n s hh ae d d ih l ih v er d hh ih m th r uw dh ax m ey l s t r ax m
+TNI%arctic_b0141 ih t w ax z b iy t ih ng ax n d w ey t ih ng ih n dh ax ae m b uh zh ax v dh ow z b l ae k p ih t s
+TNI%arctic_a0109 d uw y uw n ow dh ae t y uw er zh ey k ih ng m ay k aa n f ax d ax n s ih n y uw
+TNI%arctic_a0126 iy ch d ey zh iy b iy k ey m ax m aa r v ay t ax l p aa r t ax v hh ih m
+TNI%arctic_a0103 b ax t dh eh r k ey m n ow p r aa m ax s f r ax m dh ax b ow ax v dh ax k ax n uw
+TNI%arctic_a0095 ax b ih g k ae n v ax s t eh n t w ax z dh ax f er s th ih ng t uw k ax m w ih dh ih n hh ih z v ih zh ax n
+TNI%arctic_a0065 dh ey k l ow z d n aw ax n t ih l hh ih z f ih ng g er z w er l ay k k aa r d z ax v s t iy l
+TNI%arctic_b0197 dh ax p l ae n t er z aa r aa l r eh d iy k ax n s ih d er ih ng dh ax m ae t er
+TNI%arctic_a0003 f aa r dh ax t w eh n t iy ax th t ay m dh ae t iy v n ih ng dh ax t uw m eh n zh uh k hh ae n d z
+TNI%arctic_a0090 dh ax s ih ng ih ng v oy s ax p r ow ch t r ae p ax d l iy
+TNI%arctic_a0117 zh iy ae d ih d w ih dh jh eh n y ax w ax n s ih m p ax th iy ih n hh er f ey s ae n d v oy s
+TNI%arctic_a0029 dh eh r f aa r s ih z w er aa l r eh d iy m uw v ih ng ih n t uw dh ax n aa r th k ax n t r iy
+TNI%arctic_a0199 dh ax s hh ae d dh ax r aa w ih l d er n ax s p r iy p eh r d hh ih m f aa r dh ih s d ey
+TNI%arctic_a0255 y uw w ow n t d ay ax v m ae l n uw t r ih zh ax n b iy zh uh r ax v dh ae t
+TNI%arctic_a0037 ay w ax z dh ax ow n l iy w ax n hh uw r iy m ey n d s ih t ih ng
+TNI%arctic_a0062 dh ax m eh n s t eh r d ih n t uw iy ch ax dh er z f ey s
+TNI%arctic_a0137 dh eh n hh iy s t eh p t b ae k w ih dh ey l ow k r ay ax v p l eh zh er
+TNI%arctic_a0005 w ih l w iy eh v er f aa r g eh t ih t
+TNI%arctic_a0129 hh er f ey s w aa z ax g ey n s t hh ih z b r eh s t
+TNI%arctic_a0067 zh uh r l iy ay w ih l ih k s k y uw z y uw zh iy k r ay d
+TNI%arctic_a0266 dh ey hh ae n d ax l d t uw m eh n aa l r eh d iy b ow th g r ax b th iy v z
+TNI%arctic_b0315 ax n d dh ih s w aa z dh eh r s ow l k aa n v er s ey zh ax n th r uw aw t dh ax m iy l
+TNI%arctic_a0139 hh iy t ow l d hh ih m s eh l f dh ae t ae z hh iy w aa zh t hh ih m s eh l f ax n d g r uw m d hh ih z d ih zh eh v ax l d k l ow dh z
+TNI%arctic_b0002 y uw g aa t aw t b ay f ay t ih ng ax n d ay th r uw ax p r ih t iy g er l
+TNI%arctic_a0096 p er hh ae p s zh iy hh ae d aa l r eh d iy m eh t hh er f ey t ax l ih t ax l d iy p er ih n dh ax f aa r ax s t
+TNI%arctic_a0100 y uw m ax s t s l iy p hh iy er jh d
+TNI%arctic_a0120 m ay r ay t f uh t f iy l z l ay k dh ae t ax v ax ch ay n iy z d eh b y ax t aa n t
+TNI%arctic_a0089 dh ax n ay t g l ow w ax z t r eh ch er ax s t uw zh uw t b ay
+TNI%arctic_a0021 ih t f eh r l iy k l ax b d m iy ih n t uw r eh k ax g n ay z ih ng ih t
+TNI%arctic_a0088 hh iy m ey d zh uh r dh ae t dh ax m ae g ax z iy n w ax z l ow d ih d ae n d r iy z uw m d hh ih z p ae d l ih ng
+TNI%arctic_a0013 hh iy w ax z ax hh eh d zh aa r t er dh ae n hh ih z k ax m p ae n y ax n ax v aa l m ow s t d eh l ax k ax t f ax z iy k
+TNI%arctic_b0158 zh iy ow b ey d zh r ih ng k ih ng b ae k w ih dh dh ax b ey b iy ih n hh er aa r m z
+TNI%arctic_a0365 dh iy z r uw m er z m ey iy v ih n er ih jh ax n ey t w ih dh ax s
+TNI%arctic_a0010 ay m p l ey ih ng ax s ih ng g ax l hh ae n d ih n w ax t l uh k s l ay k ax l uw z ih ng g ey m
+TNI%arctic_a0042 hh aw k uh d hh iy ih k s p l ey n hh ih z p ax z eh zh ax n ax v dh ax s k eh ch
+TNI%arctic_a0058 ay k ey m f aa r ih n f er m ey zh ax n m aa r aw t ax v k y uh r iy aa s ax t iy dh ae n eh n iy th ih ng eh l s
+TNI%arctic_a0416 dh ax ae d ih d w ey t hh ae d ax v ax l aa s ax t iy ax v f ih f t iy n m ay l z p er aw er
+TNI%arctic_b0371 y iy l d y aa r s eh l f t uw dh ax w aa t er z dh ae t er r ih p ih ng ae n d t ih r ih ng ae t y uw
+TNI%arctic_a0046 dh ax g er l f ey s t hh ih m hh er r ay z zh ay n ih ng w ih th s ax d ax n f ih r
+TNI%arctic_a0208 y uw th hh ae d k ax m b ae k t uw hh er f r iy d f r ax m dh iy y ow k ax v ax p r eh zh ax n
+TNI%arctic_a0038 w iy w iy l hh ae v t ax w aa ch aa r ch ae n s ax z
+TNI%arctic_a0115 hh iy hh ae d n ow ih k s k y uw z f aa r dh ax f iy l ih ng z w ih ch w er er aw z d ih n hh ih m
+TNI%arctic_a0092 hh iy w eh n t d aw n ih n m ih d s t r iy m s er ch ih ng dh ax zh ae d ow z ax v b ow th zh aa r z
+TNI%arctic_b0047 s ax p ow z y uw s aa m iy ae t w er k th r uw dh ax w ih n d ow
+TNI%arctic_b0396 dh ax p ey n f r ax m m ay hh er t n iy w ax z ae g ax n ay z ih ng
+TNI%arctic_b0104 zh uw t ih ng p ey n z p ae s t l ay k f l ae zh ih z ax v ih l eh k t r ih s ax t iy th r uw hh ih z b aa d iy
+TNI%arctic_a0086 d eh th hh ae d k ax m w ih dh t eh r ax b ax l s ax d ax n n ax s
+TNI%arctic_b0411 hh iy g ey v n ow r iy z ax n b ax t hh ih z m ow t ih v w ax z aa b v iy ax s ih n ax f
+TNI%arctic_a0073 dh ax p r ax m ow t er z ay z w er hh eh v iy w ih dh l ih t ax l p ax f iy b ae g z ax n d er dh eh m
+TNI%arctic_a0123 zh iy hh ae d d ay d f r ax m k ow l d ae n d s t aa r v ey zh ax n
+TNI%arctic_a0091 hh ih z b l ax d g r uw hh aa t w ih dh r ey jh ae t dh ax th aa t
+TNI%arctic_a0159 dh ey l uh k ae z dh ow hh iy hh ae d b ih n d r ax m ih ng ax p iy ae n ow aa l hh ih z l ay f
+TNI%arctic_a0032 s ih n s dh eh n s ax m m ih s t ih r iy ax s f aa r s hh ae z b ax n f ay t ih ng ax s ae t eh v r iy s t eh p
+TNI%arctic_a0048 hh iy l uh k t ae t dh ax hh ae ng k er ch ih f m aa r k l ow s l iy
+TNI%arctic_a0121 dh ey ey t d ih n er ae t dh ax f ih th ae n d r eh s t ih d f aa r t uw aw r z
+TNI%arctic_a0122 t uw y ih r z ax g ow ay g ey v ax p s ih v ax l ih z ey zh ax n f aa r dh ih s
+TNI%arctic_a0269 dh ae t s w eh r dh ey k ax t aa f dh ax s k aa t ih zh ch iy f s ax n d k ih l d aa l hh ae n z
+TNI%arctic_a0134 hh iy ow b ey d dh ax p r eh zh er ax v hh er hh ae n d
+TNI%arctic_a0168 ax l ow b uh zh w ih p t hh ih m ih n dh ax f ey s ae n d l eh f t n ow s t ih ng
+TNI%arctic_a0130 zh iy w ax z hh ih z n aw f er eh v er
+TNI%arctic_a0410 s ow w iy hh ae v t uw f ih t dh ax b ow t th r uw aw t w ih th oy l l ae m p s eh z w eh l
+TNI%arctic_a0059 hh ih z ih m ae k y uw l ih t ax p ih r ax n s w aa z g aa n
+TNI%arctic_a0027 t uw m ay s ax p r ay z hh iy b ih g ae n t uw zh ow ae k zh ax l ih n th uw z iy ae z ax m ih n m ay f ey v er r
+TNI%arctic_a0077 ih t ih z dh ax f ay r p aa r t l iy zh iy s eh d
+TNI%arctic_a0052 ih t w ax z ax k y uh r iy ax s k ow ih n s ih d ax n s
+TNI%arctic_b0061 s ax m th ih ng ax b aw t ih t s iy m d t uw f ae s ax n ey t hh ih m t ax ch ae l ax n jh hh ih z p r eh z ax n s
+TNI%arctic_a0093 f aa r ax f uh l m ih n ax t hh iy k r aw ch t ae n d l ih s ax n d
+TNI%arctic_a0097 dh eh n y uw k ae n er ey n jh y aa r s eh l f k ax m f er t ax b l iy ax m ax ng dh iy z r ow b z ih n dh ax b ow
+TNI%arctic_a0292 hh iy r ih n dh ax m ih d m aa r n ih ng dh ax f er s t k ae zh ax w ax l t iy ax k er d
+TNI%arctic_a0214 b ih s ay d z hh iy w ax z p ey d w ax n k ey s ax v t ax b ae k ow p er hh eh d
+TNI%arctic_a0104 zh iy w ax z s l iy p ih ng ax n d er hh ih z p er t eh k zh ax n ae z s w iy t l iy eh z ax ch ay l d
+TNI%arctic_a0071 w ax t w ax z dh ax aa b jh eh k t ax v y uh r l ih t ax l s eh n s ey zh ax n
+TNI%arctic_a0007 ae n d y uw aa l w iy z w aa n t t uw s iy ih t ih n dh ax s uh p er l ax t ih v d ih g r iy
+TNI%arctic_a0411 ih t w ih l b r ey k aa r hh aa r t s ax n d aw r b ae k s t uw hh oy s t ae ng k er b ay hh ae n d
+TNI%arctic_a0113 ay s ax p ow z y uw p ih k t dh ae t l ih ng g ow ax p ax m ax ng dh ax ih n d iy ax n z
+TNI%arctic_a0023 ax k aa m b ax n ey zh ax n ax v k ax n ey d iy ax n k ae p ax t ax l k w ih k l iy aa r g ax n ay z d ae n d p ax t ih zh ax n d f aa r dh ax s ey m p r ih v ih l ih jh ih z
+TNI%arctic_a0085 ax t r ih k ax l ax v f r eh zh b l ax d r ae n ow v er hh ih z f ey s
+TNI%arctic_b0433 w iy er k uh k ih ng aa n dh ax k ow l s t ow v ax n d aa n dh iy oy l b er n er z

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -pthread -fPIC -rdynamic CMakeFiles/stacktrace_unittest.dir/src/stacktrace_unittest.cc.o -o stacktrace_unittest  libglog.a -lpthread 

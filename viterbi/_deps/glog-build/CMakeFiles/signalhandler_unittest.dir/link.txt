@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -pthread -fPIC -rdynamic CMakeFiles/signalhandler_unittest.dir/src/signalhandler_unittest.cc.o -o signalhandler_unittest  libglog.a -lpthread 

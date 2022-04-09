@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/CMakeFiles/glog-populate"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/CMakeFiles/glog-populate.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/CMakeFiles/glog-populate-complete.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-build.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-configure.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-download.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-install.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-patch.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-test.rule"
+		},
+		{
+			"file" : "/home/sait/Workplace/viterbi/_deps/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glog-populate"
+		],
+		"name" : "glog-populate"
+	}
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -pthread -fPIC -rdynamic CMakeFiles/demangle_unittest.dir/src/demangle_unittest.cc.o -o demangle_unittest  libglog.a -lpthread 

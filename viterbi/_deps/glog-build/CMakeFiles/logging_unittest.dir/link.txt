@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -pthread -fPIC -rdynamic CMakeFiles/logging_unittest.dir/src/logging_unittest.cc.o -o logging_unittest  libglog.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++14 -pthread -fPIC -D_GLIBCXX_USE_CXX11_ABI=1 -DC10_USE_GLOG -flto -shared  -o cmake_example.cpython-38-x86_64-linux-gnu.so CMakeFiles/cmake_example.dir/myviterbi.cpp.o 

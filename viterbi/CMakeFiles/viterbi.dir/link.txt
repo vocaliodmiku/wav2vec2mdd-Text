@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++14 -pthread -fPIC -flto -shared  -o viterbi.cpython-38-x86_64-linux-gnu.so CMakeFiles/viterbi.dir/viterbi.cpp.o  _deps/glog-build/libglog.a -lpthread 
