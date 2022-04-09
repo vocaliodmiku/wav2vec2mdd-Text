@@ -43,7 +43,7 @@ In this paper, we present a gating strategy that assigns more importance to the 
     cd viterbi && python setup.py install
     ```
 ## Usage
-    Before use following script to train and test model, you should check the data path (see *.tsv files in data directory) and reference path.
+   Before use following script to train and test model, you should check the data path (see *.tsv files in data directory) and reference path.
 ### Training
     ```bash
     sh run.sh
