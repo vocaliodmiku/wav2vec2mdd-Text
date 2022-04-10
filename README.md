@@ -47,15 +47,11 @@ In this paper, we present a gating strategy that assigns more importance to the 
 
 ### Training
 
-    ```bash
     sh run.sh
-    ```
 
 ### Inference
 
-    ```bash
     sh test.sh && sh mdd.sh
-    ```
     
    Our best model result are included in diretory experiment/result, you can check it directly run "sh mdd.sh", and if you have any question about it, please contact us. Thanks!
     
