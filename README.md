@@ -32,7 +32,7 @@ In this paper, we present a gating strategy that assigns more importance to the 
     ```bash
     pip install soundfile editdistance
     ```
-* fairseq
+* Fairseq
 
     We design the network via the fairseq package. If you are familar with fairseq, you can check wav2vec model::wav2vec_sigmoid and criterion::ctc_constrast. Otherwise, you should install the modified version as following:
     ```bash
