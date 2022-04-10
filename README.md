@@ -44,11 +44,15 @@ In this paper, we present a gating strategy that assigns more importance to the 
     ```
 ## Usage
    Before use following script to train and test model, you should check the data path (see *.tsv files in data directory) and reference path.
+
 ### Training
+
     ```bash
     sh run.sh
     ```
+
 ### Inference
+
     ```bash
     sh test.sh && sh mdd.sh
     ```
