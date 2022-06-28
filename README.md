@@ -58,4 +58,10 @@ In this paper, we present a gating strategy that assigns more importance to the 
 ## Cite
 If you find this work useful in your research, please consider citing:
 ```bibtex
+@article{peng2022text,
+  title={Text-Aware End-to-end Mispronunciation Detection and Diagnosis},
+  author={Peng, Linkai and Gao, Yingming and Lin, Binghuai and Ke, Dengfeng and Xie, Yanlu and Zhang, Jinsong},
+  journal={arXiv preprint arXiv:2206.07289},
+  year={2022}
+}
 ```
